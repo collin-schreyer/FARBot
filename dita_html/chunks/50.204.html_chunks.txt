@@ -1,0 +1,10 @@
+Heading: 50.204 Policy.
+Text: (a) (a)
+						            Agencies should-
+(b) (b)
+						            Agencies shall not solicit offers contingent upon SAFETY Act designation or certification occurring before contract award unless authorized in accordance with 50.205-3.
+(c) (c)
+						            Agencies shall not solicit offers or award contracts presuming DHS will issue a SAFETY Act designation or certification after contract award unless authorized in accordance with 50.205-4.
+(d) (d)
+						            The DHS determination to extend SAFETY Act protections for a particular technology is not a determination that the technology meets, or fails to meet, the requirements of a solicitation.
+

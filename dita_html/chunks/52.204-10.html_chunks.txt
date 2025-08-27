@@ -1,0 +1,16 @@
+Heading: 52.204-10 Reporting Executive	Compensation and First-Tier Subcontract Awards.
+Text: (a) (a)
+Definitions.	As used in this clause:
+(b) (b)
+						            Section	2(d)(2) of the Federal Funding Accountability and Transparency Act	of 2006 (Pub. L. 109-282), as amended by section 6202 of the Government	Funding Transparency Act of 2008 (Pub. L. 110-252), requires the	Contractor to report information on subcontract awards. The law	requires all reported information be made public, therefore, the	Contractor is responsible for notifying its subcontractors that	the required information will be made public.
+(c) (c)
+						            Nothing	in this clause requires the disclosure of classified information
+(d) (d)
+(e) (e)
+						            The Contractor	shall not split or break down first-tier subcontract awards to a	value below the threshold specified	in FAR 4.1403(a), on the date	of subcontract award, to avoid the reporting requirements in	paragraph (d) of this clause.
+(f) (f)
+						            The Contractor	is required to report information on a first-tier subcontract covered	by paragraph (d) when the subcontract is awarded. Continued reporting	on the same subcontract is not required unless one of the reported	data elements changes during the performance of the subcontract.	The Contractor is not required to make further reports after the	first-tier subcontract expires.
+(g) (g)
+(h) (h)
+						            The FSRS	database at http://www.fsrs.gov will be prepopulated	with some information from SAM and the FPDS database. If FPDS information	is incorrect, the contractor should notify the contracting officer.	If the SAM information is incorrect, the contractor is responsible	for correcting this information.
+

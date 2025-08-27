@@ -1,0 +1,62 @@
+Heading: 32.206 Solicitation provisions
+and contract clauses.
+Text: (a) (a) The contract shall contain the
+paragraph entitled "Payment" of the clause at 52.212-4, Contract Terms
+and Conditions-Commercial
+Products and Commercial Services. If the contract will provide
+for contract financing, the contracting officer shall construct
+a solicitation provision and contract clause. This solicitation
+provision shall be constructed in accordance with 32.204 or 32.205. If the procedure
+at 32.205 is used, the solicitation
+provision at 52.232-31,
+invitation to Propose Financing Terms, shall be included. The contract
+clause shall be constructed in accordance with the requirements
+of this subpart and any agency regulations.
+(b) (b) Each contract
+financing clause shall include:
+(c) (c) Computation
+of amounts, and contractor entitlement provisions.
+(d) (d)
+Instructions
+for multiple appropriations. If contract financing is to be
+computed for the contract as a whole, and if there is more than
+one appropriation account (or subaccount) funding payments under
+the contract, the contracting officer shall include, in the contract,
+instructions for distribution of financing payments to the respective
+funds accounts. Distribution instructions and contract liquidation
+instructions must be mutually consistent.
+(e) (e)
+Liquidation. Liquidation
+of contract financing payments shall be on the same basis as the
+computation of contract financing payments; that is, financing payments
+computed on a whole contract basis shall be liquidated on a whole
+contract basis; and a payment computed on a line item basis shall
+be liquidated against that line item. If liquidation is on a whole contract
+basis, the contracting officer shall use a uniform liquidation percentage
+as the liquidation method, unless the contracting officer obtains
+the concurrence of the cognizant payment office that the proposed
+liquidation provisions can be executed by that office, or unless
+agency regulations provide alternative liquidation methods.
+(f) (f)
+Prompt
+payment for commercial purchase payments. The provisions of subpart  32.9, Prompt
+Payment, apply to contract financing and invoice payments for commercial
+purchases in the same manner they apply to other than commercial purchases.
+The contracting officer is responsible for including in the contract
+all the information necessary to implement prompt payment. In particular,
+contracting officers must be careful to clearly differentiate in
+the contract between contract financing and invoice payments and
+between items having different prompt payment times.
+(g) (g)
+Installment
+payment financing for commercial
+products and commercial services. Contracting officers
+may insert the clause at 52.232-30,
+Installment Payments for Commercial
+Products and Commercial Services, in solicitations and contracts
+in lieu of constructing a specific clause in accordance with paragraphs
+(b) through (e) of this section, if the contract action qualifies
+under the criteria at 32.202-1(b)
+and installment payments for the item are either customary or are
+authorized in accordance with agency procedures.
+

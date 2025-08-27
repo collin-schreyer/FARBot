@@ -1,0 +1,6 @@
+Heading: 47.104 Government rate tenders under sections 10721 and 13712 of the Interstate Commerce Act (49 U.S.C. 10721 and 13712).
+Text: (a) (a)
+						            This section explains statutory authority for common carriers subject to the jurisdiction of the Surface Transportation Board (motor carrier, water carrier, freight forwarder, rail carrier) to offer to transport persons or property for the account of the United States without charge or at "a rate reduced from the applicable commercial rate." Reduced rates are offered in a Government rate tender. Additional information for civilian agencies is available in the Federal Management Regulation (41 CFR parts 102-117 and 102-118) and for DoD in the Defense Transportation Regulation (DoD 4500.9-R).
+(b) (b)
+						            Reduced rates offered in a Government rate tender are authorized for transportation provided by a rail carrier, for the movement of household goods, and for movement by or with a water carrier in noncontiguous domestic trade.
+

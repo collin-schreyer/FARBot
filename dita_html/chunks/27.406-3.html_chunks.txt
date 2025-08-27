@@ -1,0 +1,6 @@
+Heading: 27.406-3 Major system acquisition.
+Text: (a) (a)
+						            The clause at 52.227-21, Technical Data Declaration, Revision, and Withholding of Payment-Major Systems, implements 41 U.S.C. 2302(e). When using the clause at 52.227-21, the section of the contract specifying data delivery requirements (see 27.406-1(b)) shall expressly identify those line items of technical data to which the clause applies. Upon delivery of the technical data, the contracting officer shall review the technical data and the contractor’s declaration relating to it to assure that the data are complete, accurate, and comply with contract requirements. If the data are not complete, accurate, or compliant, the contracting officer should request the contractor to correct the deficiencies, and may withhold payment. Final payment shall not be made under the contract until it has been determined that the delivery requirements of those line items of data to which the clause applies have been satisfactorily met.
+(b) (b)
+						            In a contract for, or in support of, a major system awarded by a civilian agency other than NASA or the U.S. Coast Guard, the following applies:
+

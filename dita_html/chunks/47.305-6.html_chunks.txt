@@ -1,0 +1,25 @@
+Heading: 47.305-6 Shipments to ports and air terminals.
+Text: (a) (a)
+						            When supplies are acquired on the basis of the delivery terms in 47.303-8 through 47.303-16, the solicitation shall include a requirement that the offeror furnish the Government the following information:
+(b) (b)
+						            When supplies are acquired for known destinations outside CONUS and originate within CONUS, the contracting officer shall, for transportation evaluation purposes, note in the solicitation the CONUS port of loading or point of exit (aerial or water) and the water port of debarkation that serves the overseas destination.
+(c) (c)
+						            The contracting officer may also, for evaluation purposes, list in the solicitation other CONUS ports that meet the eligibility criteria compatible with the nature and quantity of the supplies, their destination, type of carrier required, and specified overseas delivery dates. This permits offerors that are geographically remote from the port that normally serves the overseas destination to be competitive as far as transportation costs are concerned.
+(d) (d)
+						            Unless logistics requirements limit the ports of loading to the ports listed in the solicitation, the solicitation shall state that-
+(e) (e)
+						            When supplies are to be exported through CONUS ports and offers are solicited on an f.o.b. origin or f.o.b. destination basis, the contracting officer shall insert in solicitations the provision at 52.247-51, Evaluation of Export Offers. The contracting officer shall use the provision with its-
+(f) (f)
+(g) (g)
+						            When a contract will not generate any shipments that require an Export Release, only the DoD CONUS ports that serve the overseas destination shall be listed in the solicitation, except that the responsible contracting officer may limit the water ports listed when such limitation is considered necessary to meet delivery or other requirements.
+(h) (h)
+						            The award shall specify the United States ports of loading that afford the lowest overall cost to the overseas destination.
+(i) (i)
+						            When supplies will be from origins outside CONUS to destinations either within or outside CONUS, the contracting officer shall use the appropriate f.o.b. term and include evaluation-of-offers information.
+(j) (j)
+						            In furtherance of the Cargo Preference Act of1954 (46 U.S.C. 1241(b)), to encourage and foster the American Merchant Marine, the port of delivery of supplies originating outside the United States and shipped by ocean vessel shall be based on the availability of United States-flag vessels between the ports involved, unless the acquiring activity has given other specific instructions. (See subpart  47.5-Ocean Transportation by U.S.-Flag Vessels.)
+(k) (k)
+						            For application of the Fly America Act to the transportation of supplies and personnel when the Government is responsible for the transportation costs, see subpart  47.4-Air Transportation by U.S.-Flag Carriers.
+(l) (l)
+						            Military and civilian agencies shall obtain assistance from transportation offices in connection with all export shipments (see 47.105).
+

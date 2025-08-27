@@ -1,0 +1,8 @@
+Heading: 14.408-2 Responsible bidder-reasonableness of price.
+Text: (a) (a)
+                  
+						            The contracting officer shall determine that a prospective contractor is responsible (see subpart  9.1) and that the prices offered are reasonable before awarding the contract. The price analysis techniques in 15.404-1(b) may be used as guidelines. In each case the determination shall be made in the light of all prevailing circumstances. Particular care must be taken in cases where only a single bid is received.
+(b) (b)
+                  
+						            The price analysis shall consider whether bids are materially unbalanced (see 15.404-1(g)).
+

@@ -1,0 +1,6 @@
+Heading: 47.207-8 Government responsibilities.
+Text: (a) (a)
+						            The contracting officer shall state clearly the Government’s responsibilities that have a direct bearing on the contractor’s performance under the contract; e.g., the Government’s responsibility to notify the contractor in advance when hazardous materials are included in a shipment.
+(b) (b)
+						            The contracting officer shall insert the clause at 52.247-27, Contract Not Affected by Oral Agreement.
+

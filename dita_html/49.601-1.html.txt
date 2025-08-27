@@ -1,0 +1,24 @@
+49.601-1 Electronic notice.
+
+
+49.601-1 Electronic notice.
+
+The contracting officer may provide expedited notice of termination by electronic means that includes a requirement for the contractor to confirm receipt. If the contractor does not confirm receipt promptly, the contracting officer shall resend the notice electronically, and expedite the letter notice described in 49.601-2. If confirmation of the electronic notice is received, and the electronic notice includes all content in 49.601-2, the contracting officer need not send the letter notice described in 49.601-2.
+
+(a)
+Complete termination: The following electronic notice is suggested for use if a supply contract is being completely terminated for convenience. If appropriately modified, the notice may be used for other than supply contracts.
+Date ____________
+XYZ Corporation New York, NY 12345
+Contract No. ___________________ is completely terminated under clause ___________, effective __________________ [insert "immediately, (today’s date)" or "on ______________, 20_____," or "as soon as you have delivered, including prior deliveries, the following items:" (list)]. Immediately stop all work, terminate subcontracts, and place no further orders except to the extent [insert if applicable "necessary to complete items not terminated or"] that you or a subcontractor wish to retain and continue for your own account any work-in-process or other materials. Provide by electronic means similar instructions to all subcontractors and suppliers. Detailed instructions follow.
+_______________________________________________________________________________
+(Contracting Officer)
+
+(b)
+Partial termination:The following electronic notice is suggested for use if a supply contract is being partially terminated for convenience. If appropriately modified, the notice may be used for other than supply contracts.
+Date ____________
+XYZ Corporation New York, NY 12345
+Contract No.______________ is partially terminated under clause ___________, effective ____________ [insert "immediately, (today’s date)" or "on ________, 20____"]. Reduce items to be delivered as follows: [insert instructions]. Immediately stop all work, terminate subcontracts, and place no further orders except as necessary to perform the portion not terminated or that you or a subcontractor wish to retain and continue for your account any work-in-process or other materials. Provide by electronic means similar instructions to all subcontractors and suppliers. Detailed instructions follow.
+_____________________________________________________________________________
+(Contracting Officer)
+
+Parent topic: 49.601 Notice of termination for convenience.

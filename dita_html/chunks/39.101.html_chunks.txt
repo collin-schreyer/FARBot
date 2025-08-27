@@ -1,0 +1,45 @@
+Heading: 39.101 Policy.
+Text: (a) (a)
+(b) (b)
+                  
+                  
+                   Agencies
+must follow OMB Circular A-127, Financial Management Systems, when
+acquiring financial management systems. Agencies may acquire only
+core financial management software certified by the Joint Financial
+Management Improvement Program.
+(c) (c)
+                  
+                  
+                   In acquiring
+information technology, agencies shall include the appropriate information
+technology security policies and requirements, including use of
+common security configurations available from the National Institute
+of Standards and Technology’s website at http://checklists.nist.gov. Agency
+contracting officers should consult with the requiring official to
+ensure the appropriate standards are incorporated.
+(d) (d)
+                  
+                  
+                   When acquiring
+information technology using Internet Protocol, agencies must include
+the appropriate Internet Protocol compliance requirements in accordance
+with 11.002(g).
+(e) (e)
+                  
+                  
+                   Contracting
+officers shall not purchase any hardware, software, or services
+developed or provided by Kaspersky Lab that the Government will
+use on or after October 1, 2018. (See 4.2002.)
+(f) (f)
+(g) (g)
+                  
+                   See
+                  the prohibition in 4.2202 on the presence or
+                  use of a covered application
+                  (“TikTok”).
+(h) (h)
+                   Executive agencies are prohibited from procuring or obtaining, or extending or renewing a contract to procure or obtain, any covered article, or any products or services produced or provided by a source, including contractor use of covered articles or sources, if prohibited from doing so by an applicable FASCSA order issued by the Director of National Intelligence, Secretary of Defense, or Secretary of Homeland Security (see 4.2303).
+(i) (i) Executive agencies must comply with the prohibitions on unmanned aircraft systems (e.g., drones) in accordance with 40.202.
+

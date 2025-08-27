@@ -1,0 +1,8 @@
+Heading: 4.1802 Policy.
+Text: (a) (a)
+                  
+						            Commercial and Government Entity code.
+(b) (b)
+                  
+						            Ownership or control of offeror. Offerors, if owned or controlled by another entity, shall provide the contracting officer with the CAGE code and legal name of that entity prior to the award of a contract action above the micro-purchase threshold, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation.
+

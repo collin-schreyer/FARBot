@@ -1,0 +1,114 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+*.pem
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Data files - SENSITIVE DATA
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive CSV files only (not all CSV files)
+private_data/*.csv
+private_data/*.xlsx
+private_data/*.xls
+
+# Keep private_data directory but only exclude sensitive files
+private_data/
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+temp/
+tmp/
+cache/
+
+# Model files and embeddings
+*.bin
+*.pt
+*.pth
+*.model
+embeddings/
+models/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing and coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Documentation build
+_build/
+.doctrees/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Local development
+local/
+dev/
+sandbox/
+
+# AWS and deployment
+.aws/
+terraform.tfstate*
+*.tfvars
+.terraform/
+
+# Node.js (if any frontend components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

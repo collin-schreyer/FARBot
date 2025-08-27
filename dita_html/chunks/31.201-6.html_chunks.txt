@@ -1,0 +1,10 @@
+Heading: 31.201-6 Accounting for unallowable costs.
+Text: (a) (a)
+						            Costs that are expressly unallowable or mutually agreed to be unallowable, including mutually agreed to be unallowable directly associated costs, shall be identified and excluded from any billing, claim, or proposal applicable to a Government contract. A directly associated cost is any cost that is generated solely as a result of incurring another cost, and that would not have been incurred had the other cost not been incurred. When an unallowable cost is incurred, its directly associated costs are also unallowable.
+(b) (b)
+						            Costs that specifically become designated as unallowable or as unallowable directly associated costs of unallowable costs as a result of a written decision furnished by a contracting officer shall be identified if included in or used in computing any billing, claim, or proposal applicable to a Government contract. This identification requirement applies also to any costs incurred for the same purpose under like circumstances as the costs specifically identified as unallowable under either this paragraph or paragraph (a) of this subsection.
+(c) (c)
+(d) (d)
+						            If a directly associated cost is included in a cost pool that is allocated over a base that includes the unallowable cost with which it is associated, the directly associated cost shall remain in the cost pool. Since the unallowable costs will attract their allocable share of costs from the cost pool, no further action is required to assure disallowance of the directly associated costs. In all other cases, the directly associated costs, if material in amount, must be purged from the cost pool as unallowable costs.
+(e) (e)
+

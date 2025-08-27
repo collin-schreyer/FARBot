@@ -1,0 +1,8 @@
+Heading: 32.304-3 Asset formula.
+Text: (a) (a)
+						            Under guaranteed loans made primarily for working capital purposes, the agency shall normally limit the guarantee, by use of an asset formula, to an amount that does not exceed a specified percentage (90 percent or less) of the contractor’s investment (e.g., payrolls and inventories) in defense production contracts. The asset formula may include all items under defense contracts for which the contractor would be entitled to payment on performance or termination. The formula shall exclude-
+(b) (b)
+						            Progress payments are deducted from the asset formula.
+(c) (c)
+						            The agency may relax the asset formula to an appropriate extent for the time actually necessary for contract performance, if the contractor’s working capital and credit are inadequate.
+

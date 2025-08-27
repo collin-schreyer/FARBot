@@ -1,0 +1,430 @@
+Part 19 - Small Business Programs
+
+
+Part 19 - Small Business Programs
+
+
+19.000 Scope of part.
+
+
+19.001 Definitions.
+
+
+Subpart 19.1 - Size Standards
+
+
+19.101 [Reserved]
+
+
+19.102 Small business size standards and North American Industry Classification System codes.
+
+
+19.103 Appealing the contracting officer's North American Industry Classification System code and size standard determination.
+
+
+Subpart 19.2 - Policies
+
+
+19.201 General policy.
+
+
+19.202 Specific policies.
+
+
+19.202-1 Encouraging small business participation in acquisitions.
+
+
+19.202-2 Locating small business sources.
+
+
+19.202-3 Equal low bids.
+
+
+19.202-4 Solicitation.
+
+
+19.202-5 Data collection and reporting requirements.
+
+
+19.202-6 Determination of fair market price.
+
+
+19.203 Relationship among small business programs.
+
+
+Subpart 19.3 - Determination of Small Business Size and Status for Small Business Programs
+
+
+19.301 Representations and rerepresentations.
+
+
+19.301-1 Representation by the offeror.
+
+
+19.301-2  Rerepresentation by a contractor that represented its status as a small business concern.
+
+
+19.301-3 Rerepresentation by a contractor that represented itself as other than a small business concern.
+
+
+19.302 Protesting a small business representation or rerepresentation.
+
+
+19.303 [Reserved].
+
+
+19.304 Small disadvantaged business status.
+
+
+19.305 Reviews of SDB status.
+
+
+19.306 Protesting a firm’s status as a HUBZone small business concern.
+
+
+19.307 Protesting a firm’s status as a service-disabled veteran-owned small business concern.
+
+
+19.308 Protesting a firm’s status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program.
+
+
+19.309 Solicitation provisions and contract clauses.
+
+
+Subpart 19.4 - Cooperation with the Small Business Administration
+
+
+19.401 General.
+
+
+19.402 Small Business Administration procurement center representatives.
+
+
+19.403 [Reserved].
+
+
+Subpart 19.5 - Small Business Total Set-Asides, Partial Set-Asides, and Reserves
+
+
+19.501 General.
+
+
+19.502 Setting aside acquisitions.
+
+
+19.502-1 Requirements for setting aside acquisitions.
+
+
+19.502-2 Total small business set-asides.
+
+
+19.502-3 Partial set-asides of contracts other than multiple-award contracts.
+
+
+19.502-4 Partial set-asides of multiple-award contracts.
+
+
+19.502-5 Insufficient reasons for not setting aside an acquisition.
+
+
+19.502-6 Setting aside a class of acquisitions for small business.
+
+
+19.502-7 Inclusion of Federal Prison Industries, Inc.
+
+
+19.502-8 Rejecting Small Business Administration recommendations.
+
+
+19.502-9 Withdrawing or modifying small business set-asides.
+
+
+19.502-10 Automatic dissolution of a small business set-aside.
+
+
+19.502-11 Solicitation notice regarding administration of change orders for construction.
+
+
+19.503 Reserves.
+
+
+19.504 Orders under multiple-award contracts.
+
+
+19.505 Limitations on subcontracting and nonmanufacturer rule.
+
+
+19.506 Documentation requirements.
+
+
+19.507 Solicitation provisions and contract clauses.
+
+
+Subpart 19.6 - Certificates of Competency and Determinations of Responsibility
+
+
+19.601 General.
+
+
+19.602 Procedures.
+
+
+19.602-1 Referral.
+
+
+19.602-2 Issuing or denying a Certificate of Competency (COC).
+
+
+19.602-3 Resolving differences between the agency and the Small Business Administration.
+
+
+19.602-4 Awarding the contract.
+
+
+Subpart 19.7 - The Small Business Subcontracting Program
+
+
+19.701 Definitions.
+
+
+19.702 Statutory requirements.
+
+
+19.703 Eligibility requirements for participating in the program.
+
+
+19.704 Subcontracting plan requirements.
+
+
+19.705 Responsibilities of the contracting officer under the subcontracting assistance program.
+
+
+19.705-1 General.
+
+
+19.705-2 Determining the need for a subcontracting plan.
+
+
+19.705-3 Preparing the solicitation.
+
+
+19.705-4 Reviewing the subcontracting plan.
+
+
+19.705-5 Awards involving subcontracting plans.
+
+
+19.705-6 Postaward responsibilities of the contracting officer.
+
+
+19.705-7 Compliance with the subcontracting plan.
+
+
+19.706 Responsibilities of the cognizant administrative contracting officer.
+
+
+19.707 The Small Business Administration’s role in carrying out the program.
+
+
+19.708 Contract clauses.
+
+
+Subpart 19.8 - Contracting with the Small Business Administration (The 8(a) Program)
+
+
+19.800 General.
+
+
+19.801 [Reserved]
+
+
+19.802 Determining eligibility for the 8(a) program.
+
+
+19.803 Selecting acquisitions for the 8(a) Program.
+
+
+19.804 Evaluation, offering, and acceptance.
+
+
+19.804-1 Agency evaluation.
+
+
+19.804-2 Agency offering.
+
+
+19.804-3 SBA acceptance.
+
+
+19.804-4 Repetitive acquisitions.
+
+
+19.804-5 Basic ordering agreements and blanket purchase agreements.
+
+
+19.804-6 Indefinite delivery contracts.
+
+
+19.805 Competitive 8(a).
+
+
+19.805-1 General.
+
+
+19.805-2 Procedures.
+
+
+19.806 Pricing the 8(a) contract.
+
+
+19.807 Estimating fair market price.
+
+
+19.808 Contract negotiation.
+
+
+19.808-1 Sole source.
+
+
+19.808-2 Competitive.
+
+
+19.809 Preaward considerations.
+
+
+19.809-1 Preaward survey.
+
+
+19.809-2 Limitations on subcontracting and nonmanufacturer rule.
+
+
+19.810 SBA appeals.
+
+
+19.811 Preparing the contracts.
+
+
+19.811-1 Sole source.
+
+
+19.811-2 Competitive.
+
+
+19.811-3 Contract clauses.
+
+
+19.812 Contract administration.
+
+
+19.813 Protesting an 8(a) participant's eligibility or size status.
+
+
+19.814 Requesting a formal size determination (8(a) sole source requirements).
+
+
+19.815 Release and notification requirements for non-8(a) procurement.
+
+
+19.816 Exiting the 8(a) program.
+
+
+Subpart 19.9 - [Reserved]
+
+
+Subpart 19.10 - [Reserved]
+
+
+Subpart 19.11 - [Reserved]
+
+
+Subpart 19.12 - [Reserved]
+
+
+Subpart 19.13 - Historically Underutilized Business Zone (HUBZone) Program
+
+
+19.1301 General.
+
+
+19.1302 [Reserved].
+
+
+19.1303 Status as a HUBZone small business concern.
+
+
+19.1304 Exclusions.
+
+
+19.1305 HUBZone set-aside procedures.
+
+
+19.1306 HUBZone sole-source awards.
+
+
+19.1307 Price evaluation preference for HUBZone small business concerns.
+
+
+19.1308 [Reserved].
+
+
+19.1309 Contract clauses.
+
+
+Subpart 19.14 - Service-Disabled Veteran-Owned Small Business Program
+
+
+19.1401 General.
+
+
+19.1402 Applicability.
+
+
+19.1403 Status.
+
+
+19.1404 Exclusions.
+
+
+19.1405 Set-aside procedures.
+
+
+19.1406 Sole source awards.
+
+
+19.1407 [Reserved]
+
+
+19.1408 Contract clauses.
+
+
+Subpart 19.15 - Women-Owned Small Business Program.
+
+
+19.1500 General.
+
+
+19.1501 [Reserved]
+
+
+19.1502 Applicability.
+
+
+19.1503 Status.
+
+
+19.1504 Exclusions.
+
+
+19.1505 Set-aside procedures.
+
+
+19.1506 Women-Owned Small Business Program sole-source awards.
+
+
+19.1507 [Reserved]
+
+
+19.1508 Contract clauses.
+
+
+19.000 Scope of part.19.001 Definitions.Subpart 19.1 - Size StandardsSubpart 19.2 - PoliciesSubpart 19.3 - Determination of Small Business Size and Status for Small Business ProgramsSubpart 19.4 - Cooperation with the Small Business AdministrationSubpart 19.5 - Small Business Total Set-Asides, Partial Set-Asides, and ReservesSubpart 19.6 - Certificates of Competency and Determinations of ResponsibilitySubpart 19.7 - The Small Business Subcontracting ProgramSubpart 19.8 - Contracting with the Small Business Administration (The 8(a) Program)Subpart 19.9 - [Reserved]Subpart 19.10 - [Reserved]Subpart 19.11 - [Reserved]Subpart 19.12 - [Reserved]Subpart 19.13 - Historically Underutilized Business Zone (HUBZone) ProgramSubpart 19.14 - Service-Disabled Veteran-Owned Small Business ProgramSubpart 19.15 - Women-Owned Small Business Program.Parent topic: Federal Acquisition Regulation

@@ -1,0 +1,12 @@
+Heading: 45.104 Responsibility and liability for Government property.
+Text: (a) (a)
+						            Generally, contractors are not held liable for loss of Government property under the following types of contracts:
+(b) (b)
+						            The contracting officer may revoke the Government’s assumption of risk when the property administrator determines that the contractor’s property management practices are noncompliant with contract requirements.
+(c) (c)
+						            A prime contractor that provides Government property to a subcontractor shall not be relieved of any responsibility to the Government that the prime contractor may have under the terms of the prime contract.
+(d) (d)
+						            With respect to loss of Government property, the contracting officer, in consultation with the property administrator, shall determine-
+(e) (e)
+						            Any monies received as financial restitution shall be credited to the Treasury of the United States as miscellaneous receipts, unless otherwise authorized by statute ( 31 U.S.C. 3302(b)).
+

@@ -1,0 +1,15 @@
+49.603-9 Settlement of reservations.
+
+
+49.603-9 Settlement of reservations.
+
+[Insert the following in Block14 of SF 30 for settlement of reservations.]
+(a) Supplemental Agreement No. ____, dated ____, was executed to reflect the settlement of the termination of this contract. The supplemental agreement excepted from the settlement certain items described in the agreement including the items described in paragraph (b) of this section. This supplemental agreement settles those items listed in paragraph (b) of this section.
+(b) The parties agree to the following:
+(1) The Government agrees to pay the contractor $_____ for the following reserved or excepted items:* [List items.]
+(2) The Contractor releases and forever discharges the Government from all liability and from all existing and future claims and demands that it may have under this contract, insofar as it pertains to the contract, for the items described in paragraph (1) of this section.*
+
+*When payment is due the Government, reverse the words "Government" and "contractor" in paragraphs (b)(1) and (b)(2).
+(End of agreement)
+
+Parent topic: 49.603 Formats for termination for convenience settlement agreements.

@@ -1,0 +1,211 @@
+Part 46 - Quality Assurance
+
+
+Part 46 - Quality Assurance
+
+
+46.000 Scope of part.
+
+
+Subpart 46.1 - General
+
+
+46.101 Definitions.
+
+
+46.102 Policy.
+
+
+46.103 Contracting office responsibilities.
+
+
+46.104 Contract administration office responsibilities.
+
+
+46.105 Contractor responsibilities.
+
+
+Subpart 46.2 - Contract Quality Requirements
+
+
+46.201 General.
+
+
+46.202 Types of contract quality requirements.
+
+
+46.202-1 Contracts for commercial products and commercial services.
+
+
+46.202-2 Government reliance on inspection by contractor.
+
+
+46.202-3 Standard inspection requirements.
+
+
+46.202-4 Higher-level contract quality requirements.
+
+
+46.203 Criteria for use of contract quality requirements.
+
+
+Subpart 46.3 - Contract Clauses
+
+
+46.301 Contractor inspection requirements.
+
+
+46.302 Fixed-price supply contracts.
+
+
+46.303 Cost-reimbursement supply contracts.
+
+
+46.304 Fixed-price service contracts.
+
+
+46.305 Cost-reimbursement service contracts.
+
+
+46.306 Time-and-material and labor-hour contracts.
+
+
+46.307 Fixed-price research and development contracts.
+
+
+46.308 Cost-reimbursement research and development contracts.
+
+
+46.309 Research and development contracts (short form).
+
+
+46.310 [Reserved]
+
+
+46.311 Higher-level contract quality requirement.
+
+
+46.312 Construction contracts.
+
+
+46.313 Contracts for dismantling, demolition, or removal of improvements.
+
+
+46.314 Transportation contracts.
+
+
+46.315 Certificate of conformance.
+
+
+46.316 Responsibility for supplies.
+
+
+46.317 Reporting Nonconforming Items.
+
+
+Subpart 46.4 - Government Contract Quality Assurance
+
+
+46.401 General.
+
+
+46.402 Government contract quality assurance at source.
+
+
+46.403 Government contract quality assurance at destination.
+
+
+46.404 Government contract quality assurance for acquisitions at or below the simplified acquisition threshold.
+
+
+46.405 Subcontracts.
+
+
+46.406 Foreign governments.
+
+
+46.407 Nonconforming supplies or services.
+
+
+46.408 Single-agency assignments of Government contract quality assurance.
+
+
+Subpart 46.5 - Acceptance
+
+
+46.501 General.
+
+
+46.502 Responsibility for acceptance.
+
+
+46.503 Place of acceptance.
+
+
+46.504 Certificate of conformance.
+
+
+46.505 Transfer of title and risk of loss.
+
+
+Subpart 46.6 - Material Inspection and Receiving Reports
+
+
+46.601 General.
+
+
+Subpart 46.7 - Warranties
+
+
+46.701 [Reserved]
+
+
+46.702 General.
+
+
+46.703 Criteria for use of warranties.
+
+
+46.704 Authority for use of warranties.
+
+
+46.705 Limitations.
+
+
+46.706 Warranty terms and conditions.
+
+
+46.707 Pricing aspects of fixed-price incentive contract warranties.
+
+
+46.708 Warranties of data.
+
+
+46.709 Warranties of commercial products and commercial services.
+
+
+46.710 Contract clauses.
+
+
+Subpart 46.8 - Contractor Liability for Loss of or Damage to Property of the Government
+
+
+46.800 Scope of subpart.
+
+
+46.801 Applicability.
+
+
+46.802 Definition.
+
+
+46.803 Policy.
+
+
+46.804 [Reserved]
+
+
+46.805 Contract clauses.
+
+
+46.000 Scope of part.Subpart 46.1 - GeneralSubpart 46.2 - Contract Quality RequirementsSubpart 46.3 - Contract ClausesSubpart 46.4 - Government Contract Quality AssuranceSubpart 46.5 - AcceptanceSubpart 46.6 - Material Inspection and Receiving ReportsSubpart 46.7 - WarrantiesSubpart 46.8 - Contractor Liability for Loss of or Damage to Property of the GovernmentParent topic: Federal Acquisition Regulation

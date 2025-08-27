@@ -1,0 +1,7 @@
+Heading: 22.406-2 Wages, fringe benefits, and overtime.
+Text: (a) (a)
+						            In computing wages paid to a laborer or mechanic, the contractor may include only the following items:
+(b) (b)
+(c) (c)
+						            In computing required overtime payments, (i.e.,1 1/2 times the basic hourly rate of pay) the contractor shall use the basic hourly rate of pay in the wage determination, or the basic hourly rate actually paid by the contractor, if higher. The basic rate of pay includes employee contributions to fringe benefits, but excludes the contractor’s contributions, costs, or payment of cash equivalents for fringe benefits. Overtime shall not be computed on a rate lower than the basic hourly rate in the wage determination.
+

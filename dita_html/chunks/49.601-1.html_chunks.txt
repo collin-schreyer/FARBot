@@ -1,0 +1,6 @@
+Heading: 49.601-1 Electronic notice.
+Text: (a) (a)
+Complete termination: The following electronic notice is suggested for use if a supply contract is being completely terminated for convenience. If appropriately modified, the notice may be used for other than supply contracts.
+(b) (b)
+Partial termination:The following electronic notice is suggested for use if a supply contract is being partially terminated for convenience. If appropriately modified, the notice may be used for other than supply contracts.
+

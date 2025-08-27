@@ -1,0 +1,10 @@
+Heading: 29.304 Matters requiring special consideration.
+Text: (a) (a)
+						            With coordination of the agency-designated counsel, a contract may (1) state that the contract price includes or excludes a specified tax or (2) require that the contractor take certain actions with regard to payment, nonpayment, refund, protest, or other treatment of a specified tax. Such special treatment may be appropriate when there is doubt as to the applicability or allocability of the tax, or when the applicability of the tax is being litigated.
+(b) (b)
+						            The applicability of State and local taxes to purchases by the Federal Government may depend on the place and terms of delivery. When the contract price will be substantial, alternative places and terms of delivery should be considered in light of possible tax consequences.
+(c) (c)
+						            Indefinite-delivery contracts for equipment rental may require the contractor to furnish equipment in any of the States. Since leased equipment remains the contractor’s property, States and local governments impose a wide variety of property, use, or other taxes on equipment leased to the Government. The amount of these taxes can vary considerably from jurisdiction to jurisdiction. See 29.401-1 for the prescription of the contract clause to be included in contracts when delivery points are not known at time of contracting.
+(d) (d)
+						            The North Carolina State and local sales and use tax.
+

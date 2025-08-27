@@ -1,0 +1,6 @@
+Heading: 48.101 General.
+Text: (a) (a)
+						            Value engineering is the formal technique by which contractors may (1) voluntarily suggest methods for performing more economically and share in any resulting savings or (2)be required to establish a program to identify and submit to the Government methods for performing more economically. Value engineering attempts to eliminate, without impairing essential functions or characteristics, anything that increases acquisition, operation, or support costs.
+(b) (b)
+						            There are two value engineering approaches:
+

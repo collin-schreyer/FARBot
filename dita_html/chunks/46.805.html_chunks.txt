@@ -1,0 +1,6 @@
+Heading: 46.805 Contract clauses.
+Text: (a) (a)
+Contracts that exceed the simplified acquisition threshold. The contracting officer shall insert the appropriate clause or combination of clauses specified in paragraphs (a)(1) through (a)(5) of this section in solicitations and contracts when the contract amount is expected to be in excess of the simplified acquisition threshold and the contract is subject to the requirements of this subpart as indicated in 46.801:
+(b) (b)
+Acquisitions at or below the simplified acquisition threshold. The clauses prescribed by paragraph (a) of this section are not required for contracts at or below the simplified acquisition threshold. However, in response to a contractor’s specific request, the contracting officer may insert the clauses prescribed in paragraph (a)(1) or (a)(4) of this section in a contract at or below the simplified acquisition threshold and may obtain any price reduction that is appropriate.
+

@@ -1,0 +1,6 @@
+Heading: 24.302 Contract clause.
+Text: (a) (a)
+						            The contracting officer shall insert the clause at FAR 52.224-3, Privacy Training, in solicitations and contracts when, on behalf of the agency, contractor employees will-
+(b) (b)
+						            When an agency specifies that only its agency-provided training is acceptable, use the clause with its Alternate I.
+

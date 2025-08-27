@@ -1,0 +1,10 @@
+Heading: 27.404-2 Limited rights data and restricted computer software.
+Text: (a) (a)
+General. The basic clause at 52.227-14, Rights in Data-General, enables the contractor to protect qualifying limited rights data and restricted computer software by withholding the data from the Government and instead delivering form, fit, and function data.
+(b) (b)
+Alternate definition of limited rights data. For contracts that do not require the development, use, or delivery of items, components, or processes that are intended to be acquired by or for the Government, an agency may adopt the alternate definition of limited rights data set forth in Alternate I to the clause at 52.227-14. The alternate definition does not require that the data pertain to items, components, or processes developed at private expense; but rather that the data were developed at private expense and embody a trade secret or are commercial or financial and confidential or privileged.
+(c) (c)
+						            Protection of limited rights data specified for delivery.
+(d) (d)
+						            Protection of restricted computer software specified for delivery.
+

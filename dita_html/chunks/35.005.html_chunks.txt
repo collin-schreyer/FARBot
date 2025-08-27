@@ -1,0 +1,10 @@
+Heading: 35.005 Work statement.
+Text: (a) (a)
+						            A clear and complete work statement concerning the area of exploration (for basic research) or the end objectives (for development and applied research) is essential. The work statement should allow contractors freedom to exercise innovation and creativity. Work statements must be individually tailored by technical and contracting personnel to attain the desired degree of flexibility for contractor creativity and the objectives of the R&D.
+(b) (b)
+						            In basic research the emphasis is on achieving specified objectives and knowledge rather than on achieving predetermined end results prescribed in a statement of specific performance characteristics. This emphasis applies particularly during the early or conceptual phases of the R&D effort.
+(c) (c)
+						            In reviewing work statements, contracting officers should ensure that language suitable for a level-of-effort approach, which requires the furnishing of technical effort and a report on the results, is not intermingled with language suitable for a task-completion approach, which often requires the development of a tangible end item designed to achieve specific performance characteristics. The wording of the work statement should also be consistent with the type and form of contract to be negotiated (see 16.207 and 16.306(d)). For example, the work statement for a cost-reimbursement contract promising the contractor’s best efforts for a fixed term would be phrased differently than a work statement for a cost-reimbursement completion contract promising the contractor’s best efforts for a defined task. Differences between work statements for fixed-price contracts and cost-reimbursement contracts should be even clearer.
+(d) (d)
+						            In preparing work statements, technical and contracting personnel shall consider and, as appropriate, provide in the solicitation-
+

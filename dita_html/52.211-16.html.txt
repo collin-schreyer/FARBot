@@ -1,0 +1,39 @@
+52.211-16 Variation in Quantity.
+
+
+52.211-16 Variation in Quantity.
+
+As prescribed in 
+11.703(a), insert the following clause:
+Variation in Quantity (Apr 1984)
+
+
+(a)
+						            A variation in the quantity of any item called for by this contract will not be accepted unless the variation has been caused by conditions of loading, shipping, or packing, or allowances in manufacturing processes, and then only to the extent, if any, specified in paragraph (b) of this clause.
+
+(b)
+						            The permissible variation shall be limited to:
+
+___ Percent increase [Contracting Officer insert percentage]
+
+___ Percent decrease [Contracting Officer insert percentage]
+This increase or decrease shall apply to ____________.*
+* Contracting Officer shall insert in the blank the designation(s) to which the percentages apply, such as-
+
+(1)
+								                The total contract quantity;
+
+(2)
+								                Item1 only;
+
+(3)
+								                Each quantity specified in the delivery schedule;
+
+(4)
+								                The total item quantity for each destination; or
+
+(5)
+								                The total quantity of each item without regard to destination.
+(End of clause)
+
+Parent topic: 52.211 [Reserved]

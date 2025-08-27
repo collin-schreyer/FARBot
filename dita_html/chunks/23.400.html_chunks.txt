@@ -1,0 +1,5 @@
+Heading: 23.400 Scope of subpart.
+Text: (a) (a) Obtaining information needed for Government compliance with right-to-know laws and pollution prevention requirements;
+(b) (b) Contractor compliance with environmental management systems; and
+(c) (c) Ensuring waste reduction at Federal facilities.
+

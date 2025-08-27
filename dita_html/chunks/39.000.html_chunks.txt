@@ -1,0 +1,9 @@
+Heading: 39.000 Scope of part.
+Text: (a) (a) Information
+technology, including financial management systems, consistent with
+other parts of this regulation, OMB Circular No.A-127, Financial
+Management Systems and OMB Circular No.A-130, Management of Federal
+Information Resources.
+(b) (b) Information and communication technology (see 
+                     2.101).
+

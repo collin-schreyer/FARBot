@@ -1,0 +1,8 @@
+Heading: 3.900 Scope of subpart.
+Text: (a) (a)
+41 U.S.C. 4712 is implemented in 3.900 through 3.906. These sections do not apply to—
+(b) (b)
+                  Section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113–235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions), is implemented in 3.909, which is applicable to all agencies.
+(c) (c)
+                  Section 3.907 of this subpart implements section 1553 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111–5), and applies to all contracts funded in whole or in part by that Act.
+

@@ -1,0 +1,8 @@
+Heading: 51.101 Policy.
+Text: (a) (a)
+						            If it is in the Government’s interest, and if supplies or services required in the performance of a Government contract are available from Government supply sources, contracting officers may authorize contractors to use these sources in performing-
+(b) (b)
+						            Contractors with fixed-price Government contracts that require protection of security classified information may acquire security equipment through GSA sources (see 41 CFR 101-26.507).
+(c) (c)
+						            Contracting officers shall authorize contractors purchasing supply items for Government use that are available from the Committee for Purchase from People Who Are Blind or Severely Disabled (see subpart  8.7) to purchase such items from the Defense Logistics Agency (DLA), the General Services Administration (GSA), and the Department of Veterans Affairs (VA) if they are available from these agencies through their distribution facilities. Mandatory supplies that are not available from DLA/GSA/VA shall be ordered through the appropriate central nonprofit agency (see 52.208-9(c)).
+

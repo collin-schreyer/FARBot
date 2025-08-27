@@ -1,0 +1,6 @@
+Heading: 23.106 Exemptions.
+Text: (a) (a) The Director of National Intelligence may exempt an intelligence activity of the United States and related personnel, resources, and facilities to the extent the Director determines necessary to protect intelligence sources and methods from unauthorized disclosure.
+(b) (b) The head of an agency may exempt the following:
+(c) (c) Contracting officers are encouraged, but not required, to procure sustainable products and services if the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster.
+(d) (d) The head of the agency may submit to the President, through the Chair of CEQ, a request for an exemption of an agency activity, and related personnel, resources, and facilities from this subpart for any reason not otherwise addressed in this section.
+

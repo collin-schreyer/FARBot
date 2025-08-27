@@ -1,0 +1,10 @@
+Heading: 19.502-3 	Partial set-asides of contracts other than multiple-award contracts.
+Text: (a) (a)
+						            The contracting officer shall set aside a portion or portions of an acquisition, except for construction, for exclusive small business participation when—
+(b) (b)
+						            When the contracting officer determines that a requirement is to be partially set aside, the solicitation shall identify which portion or portions are set aside and not set aside.
+(c) (c)
+						            The contracting officer shall specify in the solicitation how offers shall be submitted with regard to the set-aside and non-set-aside portions.
+(d) (d)
+						            Offers received from concerns that do not qualify as small business concerns shall be considered nonresponsive and shall be rejected on the set-aside portion of partial set-asides. However, before rejecting an offer otherwise eligible for award because of questions concerning the size representation, an SBA determination must be obtained (see subpart  19.3).
+

@@ -1,0 +1,9 @@
+Heading: 19.503 	Reserves.
+Text: (a) (a) In accordance with section 1331 of the Small Business Jobs Act of 2010 (15 U.S.C. 644(r)(3)) and 13 CFR 125.2(e)(4), contracting officers may, at their discretion when conducting multiple-award procurements using full and open competition, reserve one or more contract awards for any of the small business concerns identified in 19.000(a)(3), when market research indicates—
+(b) (b)
+						            A reserve will result in one of the following:
+(c) (c)
+						            The specific program eligibility requirements identified in this part apply.
+(d) (d)
+						            The limitations on subcontracting and the nonmanufacturer rule (see 19.505) do not apply to reserves at the contract level, but shall apply to orders that are set aside or issued directly to one small business concern under 19.504(c)(1)(ii).
+

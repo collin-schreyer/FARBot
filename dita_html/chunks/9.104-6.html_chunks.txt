@@ -1,0 +1,8 @@
+Heading: 9.104-6 Federal Awardee Performance and Integrity Information System.
+Text: (a) (a)
+(b) (b)
+(c) (c) If the contracting officer obtains relevant information from FAPIIS regarding criminal, civil, or administrative proceedings in connection with the award or performance of a Government contract; terminations for default or cause; determinations of nonresponsibility because the contractor does not have a satisfactory performance record or a satisfactory record of integrity and business ethics; or comparable information relating to a grant, the contracting officer shall, unless the contractor has already been debarred, suspended, or has agreed to a voluntary exclusion-
+(d) (d)
+                  
+						            The contracting officer shall document the contract file for each contract in excess of the simplified acquisition threshold to indicate how the information in FAPIIS was considered in any responsibility determination, as well as the action that was taken as a result of the information. A contracting officer who makes a nonresponsibility determination is required to document that information in FAPIIS in accordance with 9.105-2(b)(2).
+

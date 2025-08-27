@@ -1,0 +1,8 @@
+Heading: 32.503-5 Administration of progress payments.
+Text: (a) (a)
+						            While the ACO may, in approving progress payment requests under 32.503-3 of this section, rely on the contractor’s accounting system and certification without prepayment review, postpayment reviews (including audits when considered necessary) shall be made periodically, or when considered desirable by the ACO to determine the validity of progress payments already made and expected to be made.
+(b) (b)
+						            These postpayment reviews or audits shall, as a minimum, include a determination of whether or not-
+(c) (c)
+						            Under indefinite-delivery contracts, the contracting officer should administer progress payments made under each individual order as if the order constituted a separate contract, unless agency procedures provide otherwise. When the contract will be administered by an agency other than the awarding agency, the contracting officer shall coordinate with the contract administration office if the awarding agency wants the administration of progress payments to be on a basis other than order-by-order.
+

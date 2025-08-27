@@ -1,0 +1,12 @@
+Heading: 52.215-8 Order of Precedence-Uniform Contract Format.
+Text: (a) (a)
+						            The Schedule (excluding the specifications).
+(b) (b)
+						            Representations and other instructions.
+(c) (c)
+						            Contract clauses.
+(d) (d)
+						            Other documents, exhibits, and attachments.
+(e) (e)
+						            The specifications.
+

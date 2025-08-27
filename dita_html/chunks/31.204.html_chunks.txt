@@ -1,0 +1,9 @@
+Heading: 31.204 Application of principles and procedures.
+Text: (a) (a)
+						            Costs are allowable to the extent they are reasonable, allocable, and determined to be allowable under 31.201, 31.202, 31.203, and 31.205. These criteria apply to all of the selected items that follow, even if particular guidance is provided for certain items for emphasis or clarity.
+(b) (b)
+(c) (c)
+						            Costs incurred as payments under firm-fixed-price subcontracts or fixed-price subcontracts with economic price adjustment provisions or modifications thereto, for which subcontract cost analysis was performed are allowable if the price was negotiated in accordance with 31.102.
+(d) (d)
+						            Section 31.205 does not cover every element of cost. Failure to include any item of cost does not imply that it is either allowable or unallowable. The determination of allowability shall be based on the principles and standards in this subpart and the treatment of similar or related selected items. When more than one subsection in 31.205 is relevant to a contractor cost, the cost shall be apportioned among the applicable subsections, and the determination of allowability of each portion shall be based on the guidance contained in the applicable subsection. When a cost, to which more than one subsection in 31.205 is relevant, cannot be apportioned, the determination of allowability shall be based on the guidance contained in the subsection that most specifically deals with, or best captures the essential nature of, the cost at issue.
+

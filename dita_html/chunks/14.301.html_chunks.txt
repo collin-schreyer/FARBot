@@ -1,0 +1,14 @@
+Heading: 14.301 Responsiveness of bids.
+Text: (a) (a)
+                  
+						            To be considered for award, a bid must comply in all material respects with the invitation for bids. Such compliance enables bidders to stand on an equal footing and maintain the integrity of the sealed bidding system.
+(b) (b)
+                  
+						            Facsimile bids shall not be considered unless permitted by the solicitation (see 14.202-7).
+(c) (c)
+                  
+						            Bids should be filled out, executed, and submitted in accordance with the instructions in the invitation. If a bidder uses its own bid form or a letter to submit a bid, the bid may be considered only if-
+(d) (d)
+                  
+						            Bids submitted by electronic commerce shall be considered only if the electronic commerce method was specifically stipulated or permitted by the solicitation.
+

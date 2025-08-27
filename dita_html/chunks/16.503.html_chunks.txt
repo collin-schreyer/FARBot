@@ -1,0 +1,22 @@
+Heading: 16.503 Requirements contracts.
+Text: (a) (a)
+Description. A requirements
+contract provides for filling all actual purchase requirements of
+designated Government activities for supplies or services during
+a specified contract period (from one contractor), with deliveries
+or performance to be scheduled by placing orders with the contractor.
+(b) (b)
+Application.
+(c) (c)
+Government
+property furnished for repair. When a requirements contract
+is used to acquire work (e.g., repair, modification, or overhaul)
+on existing items of Government property, the contracting officer
+shall specify in the Schedule that failure of the Government to
+furnish such items in the amounts or quantities described in the
+Schedule as "estimated" or "maximum" will not entitle the contractor
+to any equitable adjustment in price under the Government Property
+clause of the contract.
+(d) (d) Limitations
+on use of requirements contracts for advisory and assistance services.
+

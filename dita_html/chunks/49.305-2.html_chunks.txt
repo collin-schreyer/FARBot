@@ -1,0 +1,6 @@
+Heading: 49.305-2 Construction contracts.
+Text: (a) (a)
+						            The percentage of completion basis refers to the contractor’s total effort and not solely to the actual construction work. Generally, the effort of a contractor under a cost-reimbursement construction or professional services contract can be segregated into factors such as-
+(b) (b)
+						            Each of the applicable factors in paragraph (a) of this section shall be assigned a weighted value depending on its importance and difficulty. The total weight value of all factors should be easily divisible (e.g., by 100) to determine percentages. The percentage of completion of each factor must be established based upon the specific facts of each contract. When totaled, the percentage of completion of each factor applied to the weighted value of each factor results in the overall percentage of contract completion. The percentage of completion is then applied to the total contract fee or to the fee applicable to the terminated portion of the contract to arrive at an equitable adjustment.
+

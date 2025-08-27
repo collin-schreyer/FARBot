@@ -1,0 +1,199 @@
+Part 27 - Patents, Data, and Copyrights
+
+
+Part 27 - Patents, Data, and Copyrights
+
+
+27.000 Scope of part.
+
+
+27.001 Definition.
+
+
+Subpart 27.1 - General
+
+
+27.101 Applicability.
+
+
+27.102 General guidance.
+
+
+Subpart 27.2 - Patents and Copyrights
+
+
+27.200 Scope of subpart.
+
+
+27.201 Patent and copyright infringement liability.
+
+
+27.201-1 General.
+
+
+27.201-2 Contract clauses.
+
+
+27.202 Royalties.
+
+
+27.202-1 Reporting of royalties.
+
+
+27.202-2 Notice of Government as a licensee.
+
+
+27.202-3 Adjustment of royalties.
+
+
+27.202-4 Refund of royalties.
+
+
+27.202-5 Solicitation provisions and contract clause.
+
+
+27.203 Security requirements for patent applications containing classified subject matter.
+
+
+27.203-1 General.
+
+
+27.203-2 Contract clause.
+
+
+27.204 Patented technology under trade agreements.
+
+
+27.204-1 Use of patented technology under the United States-Mexico-Canada Agreement.
+
+
+27.204-2 Use of patented technology under the General Agreement on Tariffs and Trade (GATT).
+
+
+Subpart 27.3 - Patent Rights under Government Contracts
+
+
+27.300 Scope of subpart.
+
+
+27.301 Definitions.
+
+
+27.302 Policy.
+
+
+27.303 Contract clauses.
+
+
+27.304 Procedures.
+
+
+27.304-1 General.
+
+
+27.304-2 Contracts placed by or for other Government agencies.
+
+
+27.304-3 Subcontracts.
+
+
+27.304-4 Appeals.
+
+
+27.305 Administration of patent rights clauses.
+
+
+27.305-1 Goals.
+
+
+27.305-2 Administration by the Government.
+
+
+27.305-3 Securing invention rights acquired by the Government.
+
+
+27.305-4 Protection of invention disclosures.
+
+
+27.306 Licensing background patent rights to third parties.
+
+
+Subpart 27.4 - Rights in Data and Copyrights
+
+
+27.400 Scope of subpart.
+
+
+27.401 Definitions.
+
+
+27.402 Policy.
+
+
+27.403 Data rights-General.
+
+
+27.404 Basic rights in data clause.
+
+
+27.404-1 Unlimited rights data.
+
+
+27.404-2 Limited rights data and restricted computer software.
+
+
+27.404-3 Copyrighted works.
+
+
+27.404-4 Contractor’s release, publication, and use of data.
+
+
+27.404-5 Unauthorized, omitted, or incorrect markings.
+
+
+27.404-6 Inspection of data at the contractor’s facility.
+
+
+27.405 Other data rights provisions.
+
+
+27.405-1 Special works.
+
+
+27.405-2 Existing works.
+
+
+27.405-3 Commercial computer software.
+
+
+27.405-4 Other existing data.
+
+
+27.406 Acquisition of data.
+
+
+27.406-1 General.
+
+
+27.406-2 Additional data requirements.
+
+
+27.406-3 Major system acquisition.
+
+
+27.407 Rights to technical data in successful proposals.
+
+
+27.408 Cosponsored research and development activities.
+
+
+27.409 Solicitation provisions and contract clauses.
+
+
+Subpart 27.5 - Foreign License and Technical Assistance Agreements
+
+
+27.501 General.
+
+
+27.000 Scope of part.27.001 Definition.Subpart 27.1 - GeneralSubpart 27.2 - Patents and CopyrightsSubpart 27.3 - Patent Rights under Government ContractsSubpart 27.4 - Rights in Data and CopyrightsSubpart 27.5 - Foreign License and Technical Assistance AgreementsParent topic: Federal Acquisition Regulation

@@ -1,0 +1,18 @@
+42.203 Contract administration services directory.
+
+
+42.203 Contract administration
+services directory.
+
+The Defense Contract Management Agency
+(DCMA) maintains the Federal Directory of Contract Administration
+Services Components. The directory lists the names and telephone
+numbers of those DCMA and other agency offices that offer contract administration
+services within designated geographic areas and at specified contractor
+plants. Federal agencies may access it on the Internet at 
+               https://piee.eb.mil/pcm/xhtml/unauth/index.xhtml. For
+additional information contact-
+Defense Contract Management Agency 3901 A Avenue Building 10500
+Ft. Lee, VA 23801-1809.
+
+Parent topic: Subpart 42.2 - Contract Administration Services

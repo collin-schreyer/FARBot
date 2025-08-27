@@ -1,0 +1,8 @@
+Heading: 52.100 Scope of subpart.
+Text: (a) (a)
+						            Gives instructions for using part  52, including the explanation and use of provision and clause numbers, prescriptions, prefaces, and the matrix;
+(b) (b)
+						            Prescribes procedures for incorporating, identifying, and modifying provisions and clauses in solicitations and contracts, and for using alternates; and
+(c) (c)
+						            Describes the derivation of FAR provisions and clauses.
+

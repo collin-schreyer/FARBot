@@ -1,0 +1,6 @@
+Heading: 52.227-1 Authorization and	Consent.
+Text: (a) (a)
+						            The	Government authorizes and consents to all use and manufacture, in	performing this contract or any subcontract at any tier, of any	invention described in and covered by a United States patent-
+(b) (b)
+						            The Contractor shall include	the substance of this clause, including this paragraph (b), in all	subcontracts that are expected to exceed the simplified acquisition	threshold, as defined in Federal Acquisition Regulation (FAR) 2.101 on the date of subcontract	award. However, omission of this clause from any subcontract, including	those at or below the simplified acquisition threshold, as defined	in FAR 2.101 on the date of subcontract	award, does not affect this authorization and consent.
+

@@ -1,0 +1,25 @@
+Heading: 52.227-14 Rights in Data-General.
+Text: (a) (a)
+Definitions. As used in this clause-
+(b) (b)
+                  
+						             Allocation of rights.
+(c) (c)
+                  
+						             Copyright-
+(d) (d)
+Release, publication, and use of data. The Contractor shall have the right to use, release to others, reproduce, distribute, or publish any data first produced or specifically used by the Contractor in the performance of this contract, except-
+(e) (e)
+                  
+						             Unauthorized marking of data.
+(f) (f)
+                  
+						             Omitted or incorrect markings.
+(g) (g)
+                  
+						             Protection of limited rights data and restricted computer software.
+(h) (h)
+Subcontracting. The Contractor shall obtain from its subcontractors all data and rights therein necessary to fulfill the Contractor’s obligations to the Government under this contract. If a subcontractor refuses to accept terms affording the Government those rights, the Contractor shall promptly notify the Contracting Officer of the refusal and shall not proceed with the subcontract award without authorization in writing from the Contracting Officer.
+(i) (i)
+Relationship to patents or other rights. Nothing contained in this clause shall imply a license to the Government under any patent or be construed as affecting the scope of any license or other right otherwise granted to the Government.
+

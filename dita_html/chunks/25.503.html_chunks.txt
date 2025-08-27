@@ -1,0 +1,20 @@
+Heading: 25.503 Group offers.
+Text: (a) (a)
+                  
+						            If the solicitation or an offer specifies that award can be made only on a group of line items or on all line items contained in the solicitation or offer, reject the offer-
+(b) (b)
+                  
+						            If an offer restricts award to a group of line items or to all line items contained in the offer, determine for each line item whether to apply an evaluation factor (see 25.504-4, Example 1).
+(c) (c)
+                  
+						            If the solicitation specifies that award will be made only on a group of line items or all line items contained in the solicitation, determine the category of end products on the basis of each line item, but determine whether to apply an evaluation factor on the basis of the group of items (see 25.504-4, Example 2).
+(d) (d)
+                  If no trade agreement applies to a
+                     solicitation and the solicitation specifies that award will be made only on a
+                     group of line items or all line items contained in the solicitation, determine
+                     the category of end products ( i.e., domestic or foreign) on the basis
+                     of each line item, but determine whether to apply an evaluation factor on the
+                     basis of the group of items ( see
+25.504-4(c), Example
+                     3).
+

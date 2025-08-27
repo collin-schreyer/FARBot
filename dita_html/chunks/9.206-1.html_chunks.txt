@@ -1,0 +1,17 @@
+Heading: 9.206-1 General.
+Text: (a) (a)
+                  
+						            Agencies may not enforce any QPL, QML, or QBL without first complying with the requirements of 9.202(a). However, qualification requirements themselves, whether or not previously embodied in a in a QPL, QML, or QBL, may be enforced without regard to 9.202(a) if they are in either of the following categories:
+(b) (b)
+                  
+						            Except when the agency head or designee determines that an emergency exists, whenever an agency elects, whether before or after award, not to enforce a qualification requirement which it established, the requirement may not thereafter be enforced unless the agency complies with 9.202(a).
+(c) (c)
+                  
+						            If a qualification requirement applies, the contracting officer need consider only those offers identified as meeting the requirement or included on the applicable QPL, QML, or QBL, unless an offeror can satisfactorily demonstrate to the contracting officer that it or its product or its subcontractor or its product can meet the standards established for qualification before the date specified for award.
+(d) (d)
+                  
+						            If a product subject to a qualification requirement is to be acquired as a component of an end item, the contracting officer must ensure that all such components and their qualification requirements are properly identified in the solicitation since the product or source must meet the standards specified for qualification before award.
+(e) (e)
+                  
+						            In acquisitions subject to qualification requirements, the contracting officer shall take the following steps:
+

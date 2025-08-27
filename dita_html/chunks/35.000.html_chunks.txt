@@ -1,0 +1,6 @@
+Heading: 35.000 Scope of part.
+Text: (a) (a)
+						            This part prescribes policies and procedures of special application to research and development (R&D) contracting.
+(b) (b)
+						            R&D integral to acquisition of major systems is covered in part  34. Independent research and development (IR&D) is covered at 31.205-18.
+

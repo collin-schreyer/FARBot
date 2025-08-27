@@ -1,0 +1,8 @@
+Heading: 9.207 Changes in status regarding qualification requirements.
+Text: (a) (a)
+                  
+						            The contracting officer shall promptly report to the agency activity which established the qualification requirement any conditions which may merit removal or omission from a QPL, QML, or QBL or affect whether a source should continue to be otherwise identified as meeting the requirement. These conditions exist when-
+(b) (b)
+                  
+						            After considering any of the above or other conditions reasonably related to whether a product or source continues to meet the standards specified for qualification, an agency may take appropriate action without advance notification. The agency shall, however, promptly notify the affected parties if a product or source is removed from a QPL, QML, or QBL, or will no longer be identified as meeting the standards specified for qualification. This notice shall contain specific information why the product or source no longer meets the qualification requirement.
+

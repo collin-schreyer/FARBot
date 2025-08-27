@@ -1,0 +1,8 @@
+Heading: 32.503-4 Approval of progress payment requests.
+Text: (a) (a)
+						            When the reliability of the contractor and the adequacy of the contractor’s accounting system and controls have been established (see 32.503-3 of this section) the ACO may, in approving any particular progress payment request (including initial requests on new contracts), rely upon that accounting system and upon the contractor’s certification, without requiring audit or review of the request before payment.
+(b) (b)
+						            The ACO should not routinely ask for audits of progress payment requests. However, when there is reason to-
+(c) (c)
+						            When there is reason to doubt the amount of a progress payment request, only the doubtful amount should be withheld, subject to later adjustment after review or audit; any clearly proper and due amounts should be paid without awaiting resolution of the differences.
+

@@ -1,0 +1,14 @@
+Heading: 28.308 Self-insurance.
+Text: (a) (a)
+						            When it is anticipated that 50 percent or more of the self-insurance costs to be incurred at a segment of a contractor’s business will be allocable to negotiated Government contracts, and the self-insurance costs at the segment for the contractor’s fiscal year are expected to be $200,000 or more, the contractor shall submit, in writing, information on its proposed self-insurance program to the administrative contracting officer and obtain that official’s approval of the program. The submission shall be by segment or segments of the contractor’s business to which the program applies and shall include-
+(b) (b)
+						            Programs of self-insurance covering a contractor’s insurable risks, including the deductible portion of purchased insurance, may be approved when examination of a program indicates that its application is in the Government’s interest. Agencies shall not approve a program of self-insurance for workers’ compensation in a jurisdiction where workers’ compensation does not completely cover the employer’s liability to employees, unless the contractor-
+(c) (c)
+						            Once the administrative contracting officer has approved a program, the contractor must submit to that official for approval any major proposed changes to the program. Any program approval may be withdrawn if a contracting officer finds that either-
+(d) (d)
+						            To qualify for a self-insurance program, a contractor must demonstrate ability to sustain the potential losses involved. In making the determination, the contracting officer shall consider the following factors:
+(e) (e)
+						            Agencies shall not approve a program of self-insurance for catastrophic risks (e.g., see 50.104-3, Special procedures for unusually hazardous or nuclear risks). Should performance of Government contracts create the risk of catastrophic losses, the Government may, to the extent authorized by law, agree to indemnify the contractor or recognize an appropriate share of premiums for purchased insurance, or both.
+(f) (f)
+						            Self-insurance programs to protect a contractor against the costs of correcting its own defects in materials or workmanship shall not be approved. For these purposes, normal rework estimates and warranty costs will not be considered self-insurance.
+

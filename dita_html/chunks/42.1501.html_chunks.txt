@@ -1,0 +1,14 @@
+Heading: 42.1501 General.
+Text: (a) (a) Past performance information (including
+the ratings and supporting narratives) is relevant information,
+for future source selection purposes, regarding a contractor’s actions
+under previously awarded contracts or orders. It includes, for example,
+the contractor’s record of-
+(b) (b) Agencies
+shall monitor their compliance with the past performance evaluation
+requirements (see 42.1502),
+and use the Contractor Performance Assessment Reporting System (CPARS)
+metric tools to measure the quality and timely reporting of past
+performance information. CPARS is the official source for past performance
+information.
+

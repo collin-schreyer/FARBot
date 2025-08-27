@@ -1,0 +1,9 @@
+Heading: 27.303 Contract clauses.
+Text: (a) (a)
+(b) (b)
+(c) (c)
+						            Insert a patent rights clause in accordance with the procedures at 27.304-2 if the solicitation or contract is being placed on behalf of another Government agency.
+(d) (d)
+						            Insert a patent rights clause in accordance with agency procedures if the solicitation or contract is for DoD, DOE, or NASA, and the contractor is other than a small business concern or nonprofit organization.
+(e) (e)
+

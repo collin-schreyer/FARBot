@@ -1,0 +1,18 @@
+Heading: 4.1103 Procedures.
+Text: (a) (a) Unless the acquisition is exempt
+under 4.1102(a), the contracting
+officer—
+(b) (b) If the contract
+action is being awarded in accordance with 4.1102(a)(5), the contractor
+is required to be registered in SAM within 30 days after contract
+award, or at least three days prior to submission of the first invoice,
+whichever occurs first.
+(c) (c) Agencies
+shall protect against improper disclosure of information contained
+in SAM.
+(d) (d) The contracting
+officer shall, on contractual documents transmitted to the payment
+office, provide the unique entity identifier, or, if applicable,
+the Electronic Funds Transfer indicator, in accordance with agency
+procedures.
+

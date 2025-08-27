@@ -1,0 +1,6 @@
+Heading: 29.401-3 Federal, State, and local taxes.
+Text: (a) (a)
+						            Except as provided in paragraph (b) of this section, insert the clause at 52.229-3, Federal, State, and Local Taxes, in solicitations and contracts if-
+(b) (b)
+						            In a noncompetitive contract that meets all the conditions in paragraph (a) of this section, the contracting officer may insert the clause at 52.229-4, Federal, State, and Local Taxes (State and Local Adjustments), instead of the clause at 52.229-3, if the price would otherwise include an inappropriate contingency for potential postaward change(s) in State or local taxes.
+

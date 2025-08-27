@@ -1,0 +1,430 @@
+Part 4 - Administrative and Information Matters
+
+
+Part 4 - Administrative and Information Matters
+
+
+4.000 Scope of part.
+
+
+4.001 Definitions.
+
+
+Subpart 4.1 - Contract Execution
+
+
+4.101 Contracting officer’s signature.
+
+
+4.102 Contractor’s signature.
+
+
+4.103 Contract clause.
+
+
+Subpart 4.2 - Contract Distribution
+
+
+4.201 Procedures.
+
+
+4.202 Agency distribution requirements.
+
+
+4.203 Taxpayer identification information.
+
+
+Subpart 4.3 - [Reserved]
+
+
+Subpart 4.4 - Safeguarding Classified Information Within Industry
+
+
+4.401 [Reserved]
+
+
+4.402 General.
+
+
+4.403 Responsibilities of contracting officers.
+
+
+4.404 Contract clause.
+
+
+Subpart 4.5 - Electronic Commerce in Contracting
+
+
+4.500 Scope of subpart.
+
+
+4.501 [Reserved]
+
+
+4.502 Policy.
+
+
+Subpart 4.6 - Contract Reporting
+
+
+4.600 Scope of subpart.
+
+
+4.601 Definitions.
+
+
+4.602 General.
+
+
+4.603 Policy.
+
+
+4.604 Responsibilities.
+
+
+4.605 Procedures.
+
+
+4.606 Reporting Data.
+
+
+4.607 Solicitation provisions and contract clause.
+
+
+Subpart 4.7 - Contractor Records Retention
+
+
+4.700 Scope of subpart.
+
+
+4.701 Purpose.
+
+
+4.702 Applicability.
+
+
+4.703 Policy.
+
+
+4.704 Calculation of retention periods.
+
+
+4.705 Specific retention periods.
+
+
+4.705-1 Financial and cost accounting records.
+
+
+4.705-2 Pay administration records.
+
+
+4.705-3 Acquisition and supply records.
+
+
+Subpart 4.8 - Government Contract Files
+
+
+4.800 Scope of subpart.
+
+
+4.801 General.
+
+
+4.802 Contract files.
+
+
+4.803 Contents of contract files.
+
+
+4.804 Closeout of contract files.
+
+
+4.804-1 Closeout by the office administering the contract.
+
+
+4.804-2 Closeout of the contracting office files if another office administers the contract.
+
+
+4.804-3 Closeout of paying office contract files.
+
+
+4.804-4 Physically completed contracts.
+
+
+4.804-5 Procedures for closing out contract files.
+
+
+4.805 Storage, handling, and contract files.
+
+
+Subpart 4.9 - Taxpayer Identification Number Information
+
+
+4.900 Scope of subpart.
+
+
+4.901 Definition.
+
+
+4.902 General.
+
+
+4.903 Reporting contract information to the IRS.
+
+
+4.904 Reporting payment information to the IRS.
+
+
+4.905 Solicitation provision.
+
+
+Subpart 4.10 - Uniform Use of Line Items
+
+
+4.1000 Scope.
+
+
+4.1001 Policy.
+
+
+4.1002 Applicability.
+
+
+4.1003 Establishing line items.
+
+
+4.1004 Establishing subline items.
+
+
+4.1005 Data elements for line items and subline items.
+
+
+4.1005-1 Required data elements.
+
+
+4.1005-2 Exceptions.
+
+
+4.1006 Modifications.
+
+
+4.1007 Solicitation alternative line item proposal.
+
+
+4.1008 Solicitation provision.
+
+
+Subpart 4.11 - System for Award Management
+
+
+4.1100 Scope.
+
+
+4.1101 Definition.
+
+
+4.1102 Policy.
+
+
+4.1103 Procedures.
+
+
+4.1104 Disaster Response Registry.
+
+
+4.1105 Solicitation provision and contract clauses.
+
+
+Subpart 4.12 - Representations and Certifications
+
+
+4.1200 Scope.
+
+
+4.1201 Policy.
+
+
+4.1202 Solicitation provision and contract clause.
+
+
+Subpart 4.13 - Personal Identity Verification
+
+
+4.1300 Scope of subpart.
+
+
+4.1301 Policy.
+
+
+4.1302 Acquisition of approved products and services for personal identity verification.
+
+
+4.1303 Contract clause.
+
+
+Subpart 4.14 - Reporting Executive Compensation and First-Tier Subcontract Awards
+
+
+4.1400 Scope of subpart.
+
+
+4.1401 Applicability.
+
+
+4.1402 Procedures.
+
+
+4.1403 Contract clause.
+
+
+Subpart 4.15 - [Reserved]
+
+
+4.1500 [Reserved]
+
+
+4.1501 [Reserved]
+
+
+4.1502 [Reserved]
+
+
+Subpart 4.16 - Unique Procurement Instrument Identifiers
+
+
+4.1600 Scope of subpart.
+
+
+4.1601 Policy.
+
+
+4.1602 Identifying the PIID and supplementary PIID.
+
+
+4.1603 Procedures.
+
+
+Subpart 4.17 - Service Contracts Inventory
+
+
+4.1700 Scope of subpart.
+
+
+4.1701 Definitions.
+
+
+4.1702 Applicability.
+
+
+4.1703 Reporting requirements.
+
+
+4.1704 Contracting officer responsibilities.
+
+
+4.1705 Contract clauses.
+
+
+Subpart 4.18 - Commercial and Government Entity Code
+
+
+4.1800 Scope of subpart.
+
+
+4.1801 Definitions.
+
+
+4.1802 Policy.
+
+
+4.1803 Verifying CAGE codes prior to award.
+
+
+4.1804 Solicitation provisions and contract clause.
+
+
+Subpart 4.19 - Basic Safeguarding of Covered Contractor Information Systems
+
+
+4.1901 Definitions.
+
+
+4.1902 Applicability.
+
+
+4.1903 Contract clause.
+
+
+Subpart 4.20 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab
+
+
+4.2001 Definitions.
+
+
+4.2002 Prohibition.
+
+
+4.2003 Notification.
+
+
+4.2004 Contract clause.
+
+
+Subpart 4.21 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment
+
+
+4.2100 Scope of subpart.
+
+
+4.2101 Definitions.
+
+
+4.2102 Prohibition.
+
+
+4.2103 Procedures.
+
+
+4.2104 Waivers.
+
+
+4.2105 Solicitation provisions and contract clause.
+
+
+Subpart 4.22 Prohibition on a ByteDance Covered Application.
+
+
+4.2201 Definitions.
+
+
+4.2202 Prohibition.
+
+
+4.2203 Contract clause.
+
+
+Subpart 4.23 Federal Acquisition Security Council.
+
+
+4.2300 Scope of subpart.
+
+
+4.2301 Definitions.
+
+
+4.2302 Sharing supply chain risk information.
+
+
+4.2303 FASCSA orders.
+
+
+4.2304 Procedures.
+
+
+4.2305 Waivers.
+
+
+4.2306 Solicitation provision and contract clauses.
+
+
+4.000 Scope of part.4.001 Definitions.Subpart 4.1 - Contract ExecutionSubpart 4.2 - Contract DistributionSubpart 4.3 - [Reserved]Subpart 4.4 - Safeguarding Classified Information Within IndustrySubpart 4.5 - Electronic Commerce in ContractingSubpart 4.6 - Contract ReportingSubpart 4.7 - Contractor Records RetentionSubpart 4.8 - Government Contract FilesSubpart 4.9 - Taxpayer Identification Number InformationSubpart 4.10 - Uniform Use of Line ItemsSubpart 4.11 - System for Award ManagementSubpart 4.12 - Representations and CertificationsSubpart 4.13 - Personal Identity VerificationSubpart 4.14 - Reporting Executive Compensation and First-Tier Subcontract AwardsSubpart 4.15 - [Reserved]Subpart 4.16 - Unique Procurement Instrument IdentifiersSubpart 4.17 - Service Contracts InventorySubpart 4.18 - Commercial and Government Entity CodeSubpart 4.19 - Basic Safeguarding of Covered Contractor Information SystemsSubpart 4.20 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky LabSubpart 4.21 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or EquipmentSubpart 4.22 Prohibition on a ByteDance Covered Application.Subpart 4.23 Federal Acquisition Security Council.Parent topic: Federal Acquisition Regulation

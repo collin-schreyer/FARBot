@@ -1,0 +1,8 @@
+Heading: 52.219-12 Special 8(a) Subcontract Conditions.
+Text: (a) (a)
+						            The Small Business Administration (SBA) has entered into Contract No.________ [insert number of contract] with the _________ [insert name of contracting agency] to furnish the supplies or services as described therein. A copy of the contract is attached hereto and made a part hereof.
+(b) (b)
+						            The ___________ [insert name of subcontractor], hereafter referred to as the subcontractor, agrees and acknowledges as follows:
+(c) (c)
+						            Payments, including any progress payments under this subcontract, will be made directly to the subcontractor by the ______ [insert name of contracting agency].
+

@@ -1,0 +1,17 @@
+Heading: 4.1003 Establishing line items.
+Text: (a) (a)
+                  
+						            Separately identifiable.
+(b) (b)
+                  
+						            Single unit price or total price.
+(c) (c)
+                  
+						            Single accounting classification citation. A single deliverable may be funded by multiple accounting classifications when the deliverable effort cannot be otherwise subdivided.
+(d) (d)
+                  
+						            Separate delivery schedule, destination, period of performance, or place of performance.
+(e) (e)
+                  
+						            Single contract pricing type (e.g., fixed-price or cost-reimbursement).
+

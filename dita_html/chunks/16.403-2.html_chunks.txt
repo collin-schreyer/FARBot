@@ -1,0 +1,11 @@
+Heading: 16.403-2 Fixed-price incentive (successive targets) contracts.
+Text: (a) (a)
+                  
+						            Description.
+(b) (b)
+Application. A fixed-price incentive (successive targets) contract is appropriate when-
+(c) (c)
+Limitations. This contract type may be used only when-
+(d) (d)
+Contract schedule. The contracting officer shall specify in the contract schedule the initial target cost, initial target profit, and initial target price for each item subject to incentive price revision.
+

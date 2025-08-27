@@ -1,0 +1,9 @@
+34.101 Definitions.
+
+
+34.101 Definitions.
+
+
+Item of supply, as used in this subpart, means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system. The term includes spare parts and replenishment parts, but does not include packaging or labeling associated with shipment or identification of an "item."
+
+Parent topic: Subpart 34.1 - Testing, Qualification and Use of Industrial Resources Developed Under TitleIII, Defense Production Act

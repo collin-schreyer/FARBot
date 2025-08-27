@@ -1,0 +1,14 @@
+Heading: 9.400 Scope of subpart.
+Text: (a) (a)
+                   This
+subpart-
+(b) (b)
+                   Although
+this subpart does cover the listing of ineligible contractors (9.404) and the effect
+of this listing (9.405), it does not
+prescribe policies and procedures governing declarations of ineligibility
+except for contractors that have been declared ineligible pursuant
+to 10 U.S.C. 983 (see 9.110,
+and 9.405-1(b)).
+(c) (c) For Federal Acquisition Supply Chain Security Act (FASCSA) orders, see subpart 4.23.
+

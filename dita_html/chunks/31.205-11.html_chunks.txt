@@ -1,0 +1,18 @@
+Heading: 31.205-11 Depreciation.
+Text: (a) (a)
+						            Depreciation on a contractor’s plant, equipment, and other capital facilities is an allowable contract cost, subject to the limitations contained in this cost principle. For tangible personal property, only estimated residual values that exceed 10 percent of the capitalized cost of the asset need be used in establishing depreciable costs. Where either the declining balance method of depreciation or the class life asset depreciation range system is used, the residual value need not be deducted from capitalized cost to determine depreciable costs. Depreciation cost that would significantly reduce the book value of a tangible capital asset below its residual value is unallowable.
+(b) (b)
+						            Contractors having contracts subject to 48 CFR9904.409, Depreciation of Tangible Capital Assets, shall adhere to the requirement of that standard for all fully CAS-covered contracts and may elect to adopt the standard for all other contracts. All requirements of 48 CFR9904.409 are applicable if the election is made, and contractors must continue to follow it until notification of final acceptance of all deliverable items on all open negotiated Government contracts.
+(c) (c)
+						            For contracts to which 48 CFR9904.409 is not applied, except as indicated in paragraphs (g) and (h) of this subsection, allowable depreciation shall not exceed the amount used for financial accounting purposes, and shall be determined in a manner consistent with the depreciation policies and procedures followed in the same segment on non-Government business.
+(d) (d)
+						            Depreciation, rental, or use charges are unallowable on property acquired from the Government at no cost by the contractor or by any division, subsidiary, or affiliate of the contractor under common control.
+(e) (e)
+						            The depreciation on any item which meets the criteria for allowance at price under 31.205-26(e) may be based on that price, provided the same policies and procedures are used for costing all business of the using division, subsidiary, or organization under common control.
+(f) (f)
+						            No depreciation or rental is allowed on property fully depreciated by the contractor or by any division, subsidiary, or affiliate of the contractor under common control. However, a reasonable charge for using fully depreciated property may be agreed upon and allowed (but, see 31.109(h)(2)). In determining the charge, consideration shall be given to cost, total estimated useful life at the time of negotiations, effect of any increased maintenance charges or decreased efficiency due to age, and the amount of depreciation previously charged to Government contracts or subcontracts.
+(g) (g)
+						            Whether or not the contract is otherwise subject to CAS the following apply:
+(h) (h)
+						            A "capital lease," as defined in Financial Accounting Standards Board’s Accounting Standards Codification (FASB ASC) 840, Leases, is subject to the requirements of this cost principle. (See 31.205-36 for Operating Leases.) FASB ASC 840 requires that capital leases be treated as purchased assets, i.e., be capitalized, and the capitalized value of such assets be distributed over their useful lives as depreciation charges or over the leased life as amortization charges, as appropriate, except that-
+

@@ -1,0 +1,102 @@
+Heading: 52.232-16 Progress Payments.
+Text: (a) (a) Computation of amounts.
+(b) (b)
+Liquidation.
+Except as provided in the Termination for Convenience of the Government
+clause, all progress payments shall be liquidated by deducting from
+any payment under this contract, other than advance or progress
+payments, the unliquidated progress payments, or 80 percent of the
+amount invoiced, whichever is less. The Contractor shall repay to
+the Government any amounts required by a retroactive price reduction,
+after computing liquidations and payments on past invoices at the
+reduced prices and adjusting the unliquidated progress payments
+accordingly. The Government reserves the right to unilaterally change
+from the ordinary liquidation rate to an alternate rate when deemed
+appropriate for proper contract financing.
+(c) (c)
+Reduction
+or suspension. The Contracting Officer may reduce or suspend
+progress payments, increase the rate of liquidation, or take a combination
+of these actions, after finding on substantial evidence any of the
+following conditions:
+(d) (d) Title.
+(e) (e)
+Risk
+of loss. Before delivery to and acceptance by the Government,
+the Contractor shall bear the risk of loss for property, the title
+to which vests in the Government under this clause, except to the
+extent the Government expressly assumes the risk. The Contractor
+shall repay the Government an amount equal to the unliquidated progress
+payments that are based on costs allocable to property that is lost
+(see 45.101).
+(f) (f)
+Control
+of costs and property. The Contractor shall maintain an accounting
+system and controls adequate for the proper administration of this
+clause.
+(g) (g) Reports,
+forms, and access to records.
+(h) (h)
+Special
+terms regarding default. If this contract is terminated under
+the Default clause, (i) the Contractor shall, on demand, repay to
+the Government the amount of unliquidated progress payments and
+(ii) title shall vest in the Contractor, on full liquidation of
+progress payments, for all property for which the Government elects
+not to require delivery under the Default clause. The Government
+shall be liable for no payment except as provided by the Default
+clause.
+(i) (i) Reservations
+of rights.
+(j) (j)
+Financing
+payments to subcontractors. The financing payments to subcontractors
+mentioned in paragraphs (a)(1) and (a)(2) of this clause shall be
+all financing payments to subcontractors or divisions, if the following
+conditions are met:
+(k) (k)
+Limitations
+on undefinitized contract actions. Notwithstanding any other
+progress payment provisions in this contract, progress payments
+may not exceed 80 percent of costs incurred on work accomplished
+under undefinitized contract actions. A "contract action" is any
+action resulting in a contract, as defined in subpart  2.1, including
+contract modifications for additional supplies or services, but
+not including contract modifications that are within the scope and
+under the terms of the contract, such as contract modifications
+issued pursuant to the Changes clause, or funding and other administrative changes.
+This limitation shall apply to the costs incurred, as computed in
+accordance with paragraph (a) of this clause, and shall remain in
+effect until the contract action is definitized. Costs incurred
+which are subject to this limitation shall be segregated on Contractor
+progress payment requests and invoices from those costs eligible
+for higher progress payment rates. For purposes of progress payment
+liquidation, as described in paragraph (b) of this clause, progress
+payments for undefinitized contract actions shall be liquidated
+at 80 percent of the amount invoiced for work performed under the
+undefinitized contract action as long as the contract action remains
+undefinitized. The amount of unliquidated progress payments for
+undefinitized contract actions shall not exceed 80 percent of the
+maximum liability of the Government under the undefinitized contract
+action or such lower limit specified elsewhere in the contract.
+Separate limits may be specified for separate actions.
+(l) (l)
+Due
+date. The designated payment office will make progress payments
+on the _________
+[Contracting Officer insert date as prescribed by agency head;
+if not prescribed, insert "30th"] day after the designated
+billing office receives a proper progress payment request. In the
+event that the Government requires an audit or other review of a
+specific progress payment request to ensure compliance with the
+terms and conditions of the contract, the designated payment office
+is not compelled to make payment by the specified due date. Progress
+payments are considered contract financing and are not subject to
+the interest penalty provisions of the Prompt Payment Act.
+(m) (m)
+Progress
+payments under indefinite-delivery contracts. The Contractor
+shall account for and submit progress payment requests under individual
+orders as if the order constituted a separate contract, unless otherwise
+specified in this contract.
+

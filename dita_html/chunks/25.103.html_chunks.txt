@@ -1,0 +1,35 @@
+Heading: 25.103 Exceptions.
+Text: (a) (a)
+Public
+interest. The head of the agency may make a determination that
+domestic preference would be inconsistent with the public interest.
+This exception applies when an agency has an agreement with a foreign
+government that provides a blanket exception to the Buy American
+statute.
+(b) (b)
+Nonavailability.
+The Buy American statute does not apply with respect to articles,
+materials, or supplies if articles, materials, or supplies of the
+class or kind to be acquired, either as end items or components,
+are not mined, produced, or manufactured in the United States in
+sufficient and reasonably available commercial quantities and of
+a satisfactory quality.
+(c) (c)
+Unreasonable cost. The contracting officer may
+                  determine that the cost of a domestic end product would be unreasonable, in
+                  accordance with 
+                     25.106 and subpart  25.5.
+(d) (d)
+Resale.
+The contracting officer may purchase foreign end products specifically
+for commissary resale.
+(e) (e)
+Information
+technology that is a commercial product.
+                   The
+restriction on purchasing foreign end products does not apply to
+the acquisition of information technology that is a commercial product, when
+using fiscal year 2004 or subsequent fiscal year funds (section 535(a) of
+Division F, Title V, Consolidated Appropriations Act, 2004, and
+similar sections in subsequent appropriations acts).
+

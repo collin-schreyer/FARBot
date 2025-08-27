@@ -1,0 +1,6 @@
+Heading: 18.001 Definition.
+Text: (a) (a) In support of a contingency operation as defined in 2.101;
+(b) (b) To facilitate the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack against the United States;
+(c) (c)  In support of a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate the provision of international disaster assistance; or
+(d) (d) When the President issues an emergency declaration, or a major disaster declaration.
+

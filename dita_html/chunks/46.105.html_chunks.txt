@@ -1,0 +1,10 @@
+Heading: 46.105 Contractor responsibilities.
+Text: (a) (a)
+						            The contractor is responsible for carrying out its obligations under the contract by-
+(b) (b)
+						            The contractor may be required to provide and maintain an inspection system or program for the control of quality that is acceptable to the Government (see 46.202).
+(c) (c)
+						            The control of quality by the contractor may relate to, but is not limited to-
+(d) (d)
+						            The contractor is responsible for performing all inspections and test required by the contract except those specifically reserved for performance by the Government (see 46.201(c)).
+

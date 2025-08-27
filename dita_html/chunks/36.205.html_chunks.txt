@@ -1,0 +1,10 @@
+Heading: 36.205 Statutory cost limitations.
+Text: (a) (a)
+						            Contracts for construction shall not be awarded at a cost to the Government-
+(b) (b)
+						            Solicitations containing one or more items subject to statutory cost limitations shall state-
+(c) (c)
+						            The Government shall reject an offer if its prices exceed applicable statutory limitations, unless laws or agency procedures provide pertinent exemptions. However, if it is in the Government’s interest, the contracting officer may include a provision in the solicitation which permits the award of separate contracts for individual items whose prices are within or subject to applicable statutory limitations.
+(d) (d)
+						            The Government shall also reject an offer if its prices are within statutory limitations only because it is materially unbalanced. An offer is unbalanced if its prices are significantly less than cost for some work, and overstated for other work.
+

@@ -1,0 +1,6 @@
+Heading: 47.104-4 Contract clauses.
+Text: (a) (a)
+						            In order to ensure the application of 49 U.S.C. 10721 and 13712 rates, where authorized (see 47.104(b)), insert the clause at 52.247-1, Commercial Bill of Lading Notations, in solicitations and contracts when the contracts will be-
+(b) (b)
+						            The contracting officer may insert the clause at 52.247-1, Commercial Bill of Lading Notations, in solicitations and contracts made at or below the simplified acquisition threshold when it is contemplated that the delivery terms will be f.o.b. origin.
+

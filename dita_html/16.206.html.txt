@@ -1,0 +1,5 @@
+16.206 Fixed-ceiling-price contracts with retroactive price redetermination.
+
+
+16.206 Fixed-ceiling-price contracts with retroactive price redetermination.
+16.206-1 Description.16.206-2 Application.16.206-3 Limitations.16.206-4 Contract clause.Parent topic: Subpart 16.2 - Fixed-Price Contracts

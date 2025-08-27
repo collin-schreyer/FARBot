@@ -1,0 +1,6 @@
+Heading: 4.1603 Procedures.
+Text: (a) (a)
+Elements of a PIID. The	PIID consists of a combination of thirteen to seventeen alpha and/or	numeric characters sequenced to convey certain information. Do not	use special characters (such as hyphens, dashes, or spaces).
+(b) (b)
+Elements	of a supplementary PIID. Use the supplementary PIID to identify	amendments to solicitations and modifications to contracts, orders,	and agreements. The supplementary PIID is reported as a separate	data element used in conjunction with, but not appended to, the	PIID.
+

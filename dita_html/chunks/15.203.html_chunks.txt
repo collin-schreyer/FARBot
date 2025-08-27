@@ -1,0 +1,20 @@
+Heading: 15.203 Requests for proposals.
+Text: (a) (a)
+                  
+						            Requests for proposals (RFPs) are used in negotiated acquisitions to communicate Government requirements to prospective contractors and to solicit proposals. RFPs for competitive acquisitions shall, at a minimum, describe the-
+(b) (b)
+                  
+						            An RFP may be issued for OMB CircularA-76 studies. See subpart  7.3 for additional information regarding cost comparisons between Government and contractor performance.
+(c) (c)
+                  
+						            Electronic commerce may be used to issue RFPs and to receive proposals, modifications, and revisions. In this case, the RFP shall specify the electronic commerce method(s) that offerors may use (see subpart  4.5).
+(d) (d)
+                  
+						            Contracting officers may issue RFPs and/or authorize receipt of proposals, modifications, or revisions by facsimile.
+(e) (e)
+                  
+						            Letter RFPs may be used in sole source acquisitions and other appropriate circumstances. Use of a letter RFP does not relieve the contracting officer from complying with other FAR requirements. Letter RFPs should be as complete as possible and, at a minimum, should contain the following:
+(f) (f)
+                  
+						            Oral RFPs are authorized when processing a written solicitation would delay the acquisition of supplies or services to the detriment of the Government and a notice is not required under 5.202(e.g., perishable items and support of contingency operations or other emergency situations). Use of an oral RFP does not relieve the contracting officer from complying with other FAR requirements.
+

@@ -1,0 +1,6 @@
+Heading: 46.404 Government contract quality assurance for acquisitions at or below the simplified acquisition threshold.
+Text: (a) (a)
+						            In determining the type and extent of Government contract quality assurance to be required for contracts at or below the simplified acquisition threshold, the contracting officer shall consider the criticality of application of the supplies or services, the amount of possible losses, and the likelihood of uncontested replacement of defective work (see 46.202-2).
+(b) (b)
+						            When the conditions in 46.202-2(b) apply, the following policies shall govern:
+

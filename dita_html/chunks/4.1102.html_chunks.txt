@@ -1,0 +1,12 @@
+Heading: 4.1102 Policy.
+Text: (a) (a)
+                  
+						            Offerors and quoters are required	to be registered in SAM at the time an offer or quotation is submitted	in order to comply with the annual representations and certifications	requirements except for—
+(b) (b)
+                  
+						            If practical,	the contracting officer shall modify the contract or agreement awarded	under paragraph (a)(3) of this section to require SAM registration.
+(c) (c)
+                  
+						            Contracting	officers shall use the legal business name or "doing business as"	name and physical address from the contractor's SAM registration	for the provided unique entity identifier to identify the contractor	in section A of the contract schedule, similar sections of non-uniform	contract formats and agreements, and all corresponding forms and	data exchanges. Contracting officers shall make no changes to the	data retrieved from SAM.
+(d) (d)
+

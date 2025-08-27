@@ -1,0 +1,8 @@
+Heading: 32.503-9 Liquidation rates-alternate method.
+Text: (a) (a)
+						            The liquidation rate	determined under 32.503-8 shall	apply throughout the period of contract performance unless the contracting	officer adjusts the liquidation rate under the alternate method in this 32.503-9. The objective of the alternate	liquidation rate method is to permit the contractor to retain the earned	profit element of the contract prices for completed items in the liquidation	process. The contracting officer may reduce the liquidation rate if-
+(b) (b)
+						            The contracting officer shall change the liquidation rate in the following circumstances:
+(c) (c)
+						            Whenever the liquidation rate is changed, the contracting officer shall issue a contract modification to specify the new rate in the Progress Payments clause.Adequate consideration for these contract modifications is provided by the consideration included in the initial contract.The parties shall promptly make the payment or liquidation required in the circumstances.
+

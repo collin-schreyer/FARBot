@@ -1,0 +1,12 @@
+Heading: 52.243-2 Changes-Cost-Reimbursement.
+Text: (a) (a)
+						            The Contracting Officer may at any time, by written order, and without notice to the sureties, if any, make changes within the general scope of this contract in any one or more of the following:
+(b) (b)
+						            If any such change causes an increase or decrease in the estimated cost of, or the time required for, performance of any part of the work under this contract, whether or not changed by the order, or otherwise affects any other terms and conditions of this contract, the Contracting Officer shall make an equitable adjustment in the-
+(c) (c)
+						            The Contractor must assert its right to an adjustment under this clause within 30 days from the date of receipt of the written order. However, if the Contracting Officer decides that the facts justify it, the Contracting Officer may receive and act upon a proposal submitted before final payment of the contract.
+(d) (d)
+						            Failure to agree to any adjustment shall be a dispute under the Disputes clause. However, nothing in this clause shall excuse the Contractor from proceeding with the contract as changed.
+(e) (e)
+						            Notwithstanding the terms and conditions of paragraphs (a) and (b) of this clause, the estimated cost of this contract and, if this contract is incrementally funded, the funds allotted for the performance of this contract, shall not be increased or considered to be increased except by specific written modification of the contract indicating the new contract estimated cost and, if this contract is incrementally funded, the new amount allotted to the contract. Until this modification is made, the Contractor shall not be obligated to continue performance or incur costs beyond the point established in the Limitation of Cost or Limitation of Funds clause of this contract.
+

@@ -1,0 +1,12 @@
+Heading: 49.404 Surety-takeover agreements.
+Text: (a) (a)
+						            The procedures in this section apply primarily, but not solely, to fixed-price construction contracts terminated for default.
+(b) (b)
+						            Since the surety is liable for damages resulting from the contractor’s default, the surety has certain rights and interests in the completion of the contract work and application of any undisbursed funds. Therefore, the contracting officer must consider carefully the surety’s proposals for completing the contract. The contracting officer must take action on the basis of the Government’s interest, including the possible effect upon the Government’s rights against the surety.
+(c) (c)
+						            The contracting officer should permit surety offers to complete the contract, unless the contracting officer believes that the persons or firms proposed by the surety to complete the work are not competent and qualified or the proposal is not in the best interest of the Government.
+(d) (d)
+						            There may be conflicting demands for the defaulting contractor’s assets, including unpaid prior earnings (retained percentages and unpaid progress estimates). Therefore, the surety may include a "takeover" agreement in its proposal, fixing the surety’s rights to payment from those funds. The contracting officer may (but not before the effective date of termination) enter into a written agreement with the surety. The contracting officer should consider using a tripartite agreement among the Government, the surety, and the defaulting contractor to resolve the defaulting contractor’s residual rights, including assertions to unpaid prior earnings.
+(e) (e)
+						            Any takeover agreement must require the surety to complete the contract and the Government to pay the surety’s costs and expenses up to the balance of the contract price unpaid at the time of default, subject to the following conditions:
+

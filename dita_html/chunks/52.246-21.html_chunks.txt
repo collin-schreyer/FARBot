@@ -1,0 +1,22 @@
+Heading: 52.246-21 Warranty of Construction.
+Text: (a) (a)
+						            In addition to any other warranties in this contract, the Contractor warrants, except as provided in paragraph (i) of this clause, that work performed under this contract conforms to the contract requirements and is free of any defect in equipment, material, or design furnished, or workmanship performed by the Contractor or any subcontractor or supplier at any tier.
+(b) (b)
+						            This warranty shall continue for a period of 1 year from the date of final acceptance of the work. If the Government takes possession of any part of the work before final acceptance, this warranty shall continue for a period of 1 year from the date the Government takes possession.
+(c) (c)
+						            The Contractor shall remedy at the Contractor’s expense any failure to conform, or any defect. In addition, the Contractor shall remedy at the Contractor’s expense any damage to Government-owned or controlled real or personal property, when that damage is the result of-
+(d) (d)
+						            The Contractor shall restore any work damaged in fulfilling the terms and conditions of this clause. The Contractor’s warranty with respect to work repaired or replaced will run for 1 year from the date of repair or replacement.
+(e) (e)
+						            The Contracting Officer shall notify the Contractor, in writing, within a reasonable time after the discovery of any failure, defect, or damage.
+(f) (f)
+						            If the Contractor fails to remedy any failure, defect, or damage within a reasonable time after receipt of notice, the Government shall have the right to replace, repair, or otherwise remedy the failure, defect, or damage at the Contractor’s expense.
+(g) (g)
+						            With respect to all warranties, express or implied, from subcontractors, manufacturers, or suppliers for work performed and materials furnished under this contract, the Contractor shall-
+(h) (h)
+						            In the event the Contractor’s warranty under paragraph (b) of this clause has expired, the Government may bring suit at its expense to enforce a subcontractor’s, manufacturer’s, or supplier’s warranty.
+(i) (i)
+						            Unless a defect is caused by the negligence of the Contractor or subcontractor or supplier at any tier, the Contractor shall not be liable for the repair of any defects of material or design furnished by the Government nor for the repair of any damage that results from any defect in Government-furnished material or design.
+(j) (j)
+						            This warranty shall not limit the Government’s rights under the Inspection and Acceptance clause of this contract with respect to latent defects, gross mistakes, or fraud.
+

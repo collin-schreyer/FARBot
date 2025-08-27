@@ -1,0 +1,12 @@
+Heading: 41.501 Solicitation provision and contract clauses.
+Text: (a) (a)
+						            Because the terms and conditions under which utility suppliers furnish service may vary from area to area, the differences may influence the terms and conditions appropriate to a particular utility’s contracting situation. To accommodate requirements that are peculiar to the contracting situation, this section prescribes provisions and clauses on a "substantially the same as" basis (see 52.101) which permits the contracting officer to prepare and utilize variations of the prescribed provision and clauses in accordance with agency procedures.
+(b) (b)
+						            The contracting officer shall insert in solicitations for utility services a provision substantially the same as the provision at 52.241-1, Electric Service Territory Compliance Representation, when proposals from alternative electric suppliers are sought.
+(c) (c)
+						            The contracting officer shall insert in solicitations and contracts for utility services clauses substantially the same as the clauses at-
+(d) (d)
+						            The contracting officer shall insert clauses substantially the same as the clauses listed below in solicitations and contracts under the prescribed conditions-
+(e) (e)
+						            Depending on the conditions that are appropriate for each acquisition, the contracting officer shall also insert in solicitations and contracts for utility services the provisions and clauses prescribed elsewhere in the FAR.
+

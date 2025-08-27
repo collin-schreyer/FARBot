@@ -1,0 +1,6 @@
+Heading: 4.702 Applicability.
+Text: (a) (a)
+                  
+						            This subpart applies to records generated under contracts that contain one of the following clauses:
+(b) (b) This subpart is not mandatory on Department of Energy contracts for which the Comptroller General allows alternative records retention periods. Apart from this exception, this subpart applies to record retention periods under contracts that are subject to 10 U.S.C. chapter 137 legacy provisions ( 10 U.S.C. 3064) and 10 U.S.C. 3016 and chapter 203, or 40 U.S.C. 101, et seq.
+

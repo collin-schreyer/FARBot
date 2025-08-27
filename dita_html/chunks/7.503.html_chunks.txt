@@ -1,0 +1,17 @@
+Heading: 7.503 Policy.
+Text: (a) (a)
+                  
+						            Contracts shall not be used for the performance of inherently governmental functions.
+(b) (b)
+                  
+						            Agency decisions which determine whether a function is or is not an inherently governmental function may be reviewed and modified by appropriate Office of Management and Budget officials.
+(c) (c)
+                  
+						            The following is a list of examples of functions considered to be inherently governmental functions or which shall be treated as such. This list is not all inclusive:
+(d) (d)
+                  
+						            The following is a list of examples of functions generally not considered to be inherently governmental functions. However, certain services and actions that are not considered to be inherently governmental functions may approach being in that category because of the nature of the function, the manner in which the contractor performs the contract, or the manner in which the Government administers contractor performance. This list is not all inclusive:
+(e) (e)
+                  
+						            Agency implementation shall include procedures requiring the agency head or designated requirements official to provide the contracting officer, concurrent with transmittal of the statement of work (or any modification thereof), a written determination that none of the functions to be performed are inherently governmental. This assessment should place emphasis on the degree to which conditions and facts restrict the discretionary authority, decision-making responsibility, or accountability of Government officials using contractor services or work products. Disagreements regarding the determination will be resolved in accordance with agency procedures before issuance of a solicitation.
+

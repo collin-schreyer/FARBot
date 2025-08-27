@@ -1,0 +1,8 @@
+Heading: 52.204-7 System for Award Management.
+Text: (a) (a)
+						             Definitions. As used in this provision—
+(b) (b)
+(c) (c)
+						             If the Offeror does not have a unique entity identifier, it should contact the entity designated at www.sam.gov for establishment of the unique entity identifier directly to obtain one. The Offeror should be prepared to provide the following information:
+(d) (d) Processing time should be taken into consideration when registering. Offerors who are not registered in SAM should consider applying for registration immediately upon receipt of this solicitation. See https://ww.sam.gov for information on registration.
+

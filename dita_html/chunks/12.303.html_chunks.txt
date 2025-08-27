@@ -1,0 +1,13 @@
+Heading: 12.303 Contract format.
+Text: (a) (a)
+Standard Form (SF) 1449;
+(b) (b) Continuation
+of any block from SF 1449,
+such as-
+(c) (c) Contract
+clauses-
+(d) (d) Any contract
+documents, exhibits or attachments; and
+(e) (e) Solicitation
+provisions-
+

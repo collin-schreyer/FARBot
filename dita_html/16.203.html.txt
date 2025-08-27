@@ -1,0 +1,5 @@
+16.203 Fixed-price contracts with economic price adjustment.
+
+
+16.203 Fixed-price contracts with economic price adjustment.
+16.203-1 Description.16.203-2 Application.16.203-3 Limitations.16.203-4 Contract clauses.Parent topic: Subpart 16.2 - Fixed-Price Contracts

@@ -1,0 +1,29 @@
+Heading: 52.249-6 Termination (Cost-Reimbursement).
+Text: (a) (a)
+						            The Government may terminate performance of work under this contract in whole or, from time to time, in part, if-
+(b) (b)
+						            The Contracting Officer shall terminate by delivering to the Contractor a Notice of Termination specifying whether termination is for default of the Contractor or for convenience of the Government, the extent of termination, and the effective date. If, after termination for default, it is determined that the Contractor was not in default or that the Contractor’s failure to perform or to make progress in performance is due to causes beyond the control and without the fault or negligence of the Contractor as set forth in the Excusable Delays clause, the rights and obligations of the parties will be the same as if the termination was for the convenience of the Government.
+(c) (c)
+						            After receipt of a Notice of Termination, and except as directed by the Contracting Officer, the Contractor shall immediately proceed with the following obligations, regardless of any delay in determining or adjusting any amounts due under this clause:
+(d) (d)
+						            The Contractor shall submit complete termination inventory schedules no later than 120 days from the effective date of termination, unless extended in writing by the Contracting Officer upon written request of the Contractor within this 120-day period.
+(e) (e)
+						            After expiration of the plant clearance period as defined in Subpart 49.001 of the Federal Acquisition Regulation, the Contractor may submit to the Contracting Officer a list, certified as to quantity and quality, of termination inventory not previously disposed of, excluding items authorized for disposition by the Contracting Officer. The Contractor may request the Government to remove those items or enter into an agreement for their storage. Within 15 days, the Government will accept the items and remove them or enter into a storage agreement. The Contracting Officer may verify the list upon removal of the items, or if stored, within 45 days from submission of the list, and shall correct the list, as necessary, before final settlement.
+(f) (f)
+						            After termination, the Contractor shall submit a final termination settlement proposal to the Contracting Officer in the form and with the certification prescribed by the Contracting Officer. The Contractor shall submit the proposal promptly, but no later than 1 year from the effective date of termination, unless extended in writing by the Contracting Officer upon written request of the Contractor within this 1-year period. However, if the Contracting Officer determines that the facts justify it, a termination settlement proposal may be received and acted on after 1 year or any extension. If the Contractor fails to submit the proposal within the time allowed, the Contracting Officer may determine, on the basis of information available, the amount, if any, due the Contractor because of the termination and shall pay the amount determined.
+(g) (g)
+						            Subject to paragraph (f) of this clause, the Contractor and the Contracting Officer may agree on the whole or any part of the amount to be paid (including an allowance for fee) because of the termination. The contract shall be amended, and the Contractor paid the agreed amount.
+(h) (h)
+						            If the Contractor and the Contracting Officer fail to agree in whole or in part on the amount of costs and/or fee to be paid because of the termination of work, the Contracting Officer shall determine, on the basis of information available, the amount, if any, due the Contractor, and shall pay that amount, which shall include the following:
+(i) (i)
+						            The cost principles and procedures in part  31 of the Federal Acquisition Regulation, in effect on the date of this contract, shall govern all costs claimed, agreed to, or determined under this clause.
+(j) (j)
+						            The Contractor shall have the right of appeal, under the Disputes clause, from any determination made by the Contracting Officer under paragraph (f), (h), or (l) of this clause, except that if the Contractor failed to submit the termination settlement proposal within the time provided in paragraph (f) and failed to request a time extension, there is no right of appeal. If the Contracting Officer has made a determination of the amount due under paragraph (f), (h) or (l) of this clause, the Government shall pay the Contractor-
+(k) (k)
+						            In arriving at the amount due the Contractor under this clause, there shall be deducted-
+(l) (l)
+						            The Contractor and Contracting Officer must agree to any equitable adjustment in fee for the continued portion of the contract when there is a partial termination. The Contracting Officer shall amend the contract to reflect the agreement.
+(m) (m)
+(n) (n)
+						            The provisions of this clause relating to fee are inapplicable if this contract does not include a fee.
+

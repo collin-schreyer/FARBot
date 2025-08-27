@@ -1,0 +1,12 @@
+Heading: 32.102 Description of contract financing methods.
+Text: (a) (a)
+						            Advance payments are advances of money by the Government to a prime contractor before, in anticipation of, and for the purpose of complete performance under one or more contracts. They are expected to be liquidated from payments due to the contractor incident to performance of the contracts. Since they are not measured by performance, they differ from partial, progress, or other payments based on the performance or partial performance of a contract. Advance payments may be made to prime contractors for the purpose of making advances to subcontractors.
+(b) (b)
+						            Progress payments based on costs are made on the basis of costs incurred by the contractor as work progresses under the contract. This form of contract financing does not include-
+(c) (c)
+						            Loan guarantees are made by Federal Reserve banks, on behalf of designated guaranteeing agencies, to enable contractors to obtain financing from private sources under contracts for the acquisition of supplies or services for the national defense.
+(d) (d) Payments for accepted supplies and services that are only a part of the contract requirements (i.e., partial deliveries) are authorized under 41 U.S.C. chapter 45 and 10 U.S.C. chapter 277. In accordance with 5 CFR 1315.4(k), agencies must pay for partial delivery of supplies or partial performance of services unless specifically prohibited by the contract. Although payments for partial deliveries generally are treated as a method of payment and not as a method of contract financing, using partial delivery payments can assist contractors to participate in contracts without, or with minimal, contract financing. When appropriate, contract statements of work and pricing arrangements must permit acceptance and payment for discrete portions of the work, as soon as accepted (see 32.906(c)).
+(e) (e)
+(f) (f)
+						            Performance-based payments are contract financing payments made on the basis of-
+

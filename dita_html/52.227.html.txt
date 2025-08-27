@@ -1,0 +1,5 @@
+52.227 [Reserved]
+
+
+52.227 [Reserved]
+52.227-1 Authorization and Consent.52.227-2 Notice and Assistance Regarding Patent and Copyright Infringement.52.227-3 Patent Indemnity.52.227-4 Patent Indemnity-Construction Contracts.52.227-5 Waiver of Indemnity.52.227-6 Royalty Information.52.227-7 Patents-Notice of Government Licensee.52.227-8 [Reserved]52.227-9 Refund of Royalties.52.227-10 Filing of Patent Applications-Classified Subject Matter.52.227-11 Patent Rights-Ownership by the Contractor.52.227-12 [Reserved]52.227-13 Patent Rights-Ownership by the Government.52.227-14 Rights in Data-General.52.227-15 Representation of Limited Rights Data and Restricted Computer Software.52.227-16 Additional Data Requirements.52.227-17 Rights in Data-Special Works.52.227-18 Rights in Data-Existing Works.52.227-19 Commercial Computer Software License.52.227-20 Rights in Data-SBIR Program.52.227-21 Technical Data Declaration, Revision, and Withholding of Payment-Major Systems.52.227-22 Major System-Minimum Rights.52.227-23 Rights to Proposal Data (Technical).Parent topic: Subpart 52.2 - Text of Provisions and Clauses

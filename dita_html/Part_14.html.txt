@@ -1,0 +1,265 @@
+Part 14 - Sealed Bidding
+
+
+Part 14 - Sealed Bidding
+
+
+14.000 Scope of part.
+
+
+Subpart 14.1 - Use of Sealed Bidding
+
+
+14.101 Elements of sealed bidding.
+
+
+14.102 [Reserved]
+
+
+14.103 Policy.
+
+
+14.103-1 General.
+
+
+14.103-2 Limitations.
+
+
+14.104 Types of contracts.
+
+
+14.105 Solicitations for informational or planning purposes.
+
+
+Subpart 14.2 - Solicitation of Bids
+
+
+14.201 Preparation of invitations for bids.
+
+
+14.201-1 Uniform contract format.
+
+
+14.201-2 Part I—The Schedule.
+
+
+14.201-3 PartII-Contract clauses.
+
+
+14.201-4 PartIII-Documents, exhibits, and other attachments.
+
+
+14.201-5 PartIV-Representations and instructions.
+
+
+14.201-6 Solicitation provisions.
+
+
+14.201-7 Contract clauses.
+
+
+14.201-8 Price related factors.
+
+
+14.201-9 Simplified contract format.
+
+
+14.202 General rules for solicitation of bids.
+
+
+14.202-1 Bidding time.
+
+
+14.202-2 [Reserved]
+
+
+14.202-3 Bid envelopes.
+
+
+14.202-4 Bid samples.
+
+
+14.202-5 Descriptive literature.
+
+
+14.202-6 Final review of invitations for bids.
+
+
+14.202-7 Facsimile bids.
+
+
+14.202-8 Electronic bids.
+
+
+14.203 Methods of soliciting bids.
+
+
+14.203-1 Transmittal to prospective bidders.
+
+
+14.203-2 Dissemination of information concerning invitations for bids.
+
+
+14.203-3 Master solicitation.
+
+
+14.204 Records of invitations for bids and records of bids.
+
+
+14.205 Presolicitation notices.
+
+
+14.206 [Reserved]
+
+
+14.207 Pre-bid conference.
+
+
+14.208 Amendment of invitation for bids.
+
+
+14.209 Cancellation of invitations before opening.
+
+
+14.210 Qualified products.
+
+
+14.211 Release of acquisition information.
+
+
+14.212 Economic purchase quantities (supplies).
+
+
+Subpart 14.3 - Submission of Bids
+
+
+14.301 Responsiveness of bids.
+
+
+14.302 Bid submission.
+
+
+14.303 Modification or withdrawal of bids.
+
+
+14.304 Submission, modification, and withdrawal of bids.
+
+
+Subpart 14.4 - Opening of Bids and Award of Contract
+
+
+14.400 Scope of subpart.
+
+
+14.401 Receipt and safeguarding of bids.
+
+
+14.402 Opening of bids.
+
+
+14.402-1 Unclassified bids.
+
+
+14.402-2 Classified bids.
+
+
+14.402-3 Postponement of openings.
+
+
+14.403 Recording of bids.
+
+
+14.404 Rejection of bids.
+
+
+14.404-1 Cancellation of invitations after opening.
+
+
+14.404-2 Rejection of individual bids.
+
+
+14.404-3 Notice to bidders of rejection of all bids.
+
+
+14.404-4 Restrictions on disclosure of descriptive literature.
+
+
+14.404-5 All or none qualifications.
+
+
+14.405 Minor informalities or irregularities in bids.
+
+
+14.406 Receipt of an unreadable electronic bid.
+
+
+14.407 Mistakes in bids.
+
+
+14.407-1 General.
+
+
+14.407-2 Apparent clerical mistakes.
+
+
+14.407-3 Other mistakes disclosed before award.
+
+
+14.407-4 Mistakes after award.
+
+
+14.408 Award.
+
+
+14.408-1 General.
+
+
+14.408-2 Responsible bidder-reasonableness of price.
+
+
+14.408-3 Prompt payment discounts.
+
+
+14.408-4 Economic price adjustment.
+
+
+14.408-5 [Reserved]
+
+
+14.408-6 Equal low bids.
+
+
+14.408-7 Documentation of award.
+
+
+14.408-8 Protests against award.
+
+
+14.409 Information to bidders.
+
+
+14.409-1 Award of unclassified contracts.
+
+
+14.409-2 Award of classified contracts.
+
+
+Subpart 14.5 - Two-Step Sealed Bidding
+
+
+14.501 General.
+
+
+14.502 Conditions for use.
+
+
+14.503 Procedures.
+
+
+14.503-1 Step one.
+
+
+14.503-2 Step two.
+
+
+14.000 Scope of part.Subpart 14.1 - Use of Sealed BiddingSubpart 14.2 - Solicitation of BidsSubpart 14.3 - Submission of BidsSubpart 14.4 - Opening of Bids and Award of ContractSubpart 14.5 - Two-Step Sealed BiddingParent topic: Federal Acquisition Regulation

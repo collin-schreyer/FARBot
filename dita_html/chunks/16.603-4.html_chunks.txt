@@ -1,0 +1,8 @@
+Heading: 16.603-4 Contract clauses.
+Text: (a) (a)
+						            The contracting officer shall	include in each letter contract the clauses required by this regulation	for the type of definitive contract contemplated and any additional	clauses known to be appropriate for it.
+(b) (b)
+						            In addition,	the contracting officer shall insert the following clauses in solicitations	and contracts when a letter contract is contemplated:
+(c) (c)
+						            The contracting	officer shall also insert the clause at 52.216-26, Payments of	Allowable Costs Before Definitization, in solicitations and contracts	if a cost-reimbursement definitive contract is contemplated, unless	the acquisition involves conversion, alteration, or repair of ships.
+

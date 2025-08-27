@@ -1,0 +1,13 @@
+Heading: 52.250-3 SAFETY Act Block Designation/Certification.
+Text: (a) (a)
+Definitions. As used in this provision-
+(b) (b)
+						             The Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act), 6 U.S.C. 441-444, creates certain liability limitations for claims arising out of, relating to, or resulting from an act of terrorism where QATTs have been deployed. It also confers other important benefits. SAFETY Act designation and SAFETY Act certification are designed to support effective technologies aimed at preventing, detecting, identifying, or deterring acts of terrorism, or limiting the harm that such acts might otherwise cause, and which also meet other prescribed criteria. For some classes of technologies, DHS may issue a block designation/certification in order to lessen the burdens for filing for SAFETY Act designation or SAFETY Act certifications by not requiring applicants to provide certain information otherwise required and in order to offer expedited review of any application submitted pursuant to a block designation/certification. Block designations/certifications will be issued only for technologies that rely on established performance standards or defined technical characteristics.
+(c) (c)
+(d) (d)
+						             All determinations by DHS are based on factors set forth in the SAFETY Act and its implementing regulations. A determination by DHS to issue a SAFETY Act designation, or not to issue a SAFETY Act designation for a particular technology as a QATT is not a determination that the technology meets, or fails to meet, the requirements of any solicitation issued by any Federal, State, local or tribal governments. Determinations by DHS with respect to whether to issue a SAFETY Act designation for technologies submitted for DHS review are based on the factors identified in 6 CFR 25.4(b).
+(e) (e)
+						             Neither SAFETY Act designation nor certification is in any way a requirement of this action. Whether to seek the benefits of the SAFETY Act for a proposed product or service is entirely up to the offeror. Additional information about the SAFETY Act and this block designation/certification may be found at the SAFETY Act website at http://www.SAFETYAct.gov or requests may be mailed to:
+(f) (f)
+						             Proposals in which pricing or any other terms or conditions are offered contingent upon SAFETY Act designation or SAFETY Act certification of the proposed product(s) or service(s) will not be considered for award.
+

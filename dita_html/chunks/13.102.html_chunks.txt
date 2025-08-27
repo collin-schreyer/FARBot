@@ -1,0 +1,8 @@
+Heading: 13.102 Source list.
+Text: (a) (a)
+                  
+						            Contracting officers should use the System for Award Management (see subpart 4.11) via https://www.sam.gov as their primary sources of vendor information. Offices maintaining additional vendor source files or listings should identify the status of each source (when the status is made known to the contracting office) in the following categories:
+(b) (b)
+                  
+						            The status information may be used as the basis to ensure that small business concerns are provided the maximum practicable opportunities to respond to solicitations issued using simplified acquisition procedures.
+

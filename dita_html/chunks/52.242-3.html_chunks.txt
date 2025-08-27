@@ -1,0 +1,41 @@
+Heading: 52.242-3 Penalties for Unallowable
+Costs.
+Text: (a) (a)
+Definition.
+Proposal,
+as used in this clause, means either—
+(b) (b) Contractors which include unallowable indirect costs in a proposal may be subject to penalties. The penalties are prescribed in 
+                     10 U.S.C. 3748
+                     
+                   or 41 U.S.C. chapter 43, as applicable, which is implemented in Section 42.709 of the Federal Acquisition Regulation (FAR).
+(c) (c) The Contractor
+shall not include in any proposal any cost that is unallowable,
+as defined in subpart
+                  2.1 of the FAR, or an
+executive agency supplement to the FAR.
+(d) (d) If the
+Contracting Officer determines that a cost submitted by the Contractor
+in its proposal is expressly unallowable under a cost principle
+in the FAR, or an executive agency supplement to the FAR, that defines
+the allowability of specific selected costs, the Contractor shall
+be assessed a penalty equal to–
+(e) (e) If the
+Contracting Officer determines that a cost submitted by the Contractor
+in its proposal includes a cost previously determined to be unallowable
+for that Contractor, then the Contractor will be assessed a penalty
+in an amount equal to two times the amount of the disallowed cost
+allocated to this contract.
+(f) (f) Determinations
+under paragraphs (d) and (e) of this clause are final decisions
+within the meaning of 41 U.S.C. chapter 71,
+Contract Disputes.
+(g) (g) Pursuant
+to the criteria in FAR 
+                     42.709-6, the Contracting
+Officer may waive the penalties in paragraph (d) or (e) of this
+clause.
+(h) (h) Payment
+by the Contractor of any penalty assessed under this clause does
+not constitute repayment to the Government of any unallowable cost
+which has been paid by the Government to the Contractor.
+

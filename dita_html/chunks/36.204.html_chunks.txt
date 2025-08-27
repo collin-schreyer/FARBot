@@ -1,0 +1,18 @@
+Heading: 36.204 Disclosure of the magnitude of construction projects.
+Text: (a) (a)
+						            Less than $25,000.
+(b) (b)
+						            Between $25,000 and $100,000.
+(c) (c)
+						            Between $100,000 and $250,000.
+(d) (d)
+						            Between $250,000 and $500,000.
+(e) (e)
+						            Between $500,000 and $1,000,000.
+(f) (f)
+						            Between $1,000,000 and $5,000,000.
+(g) (g)
+						            Between $5,000,000 and $10,000,000.
+(h) (h)
+						            More than $10,000,000.
+

@@ -1,0 +1,9 @@
+Heading: 4.1602 Identifying the PIID and supplementary PIID.
+Text: (a) (a)
+Identifying the PIID in solicitation and contract award documentation (including forms and electronic generated formats). Agencies shall include all PIIDs for all related procurement actions as identified in paragraphs (a)(1) through (5) of this section.
+(b) (b)
+Placement of the PIID on forms. When the form (including electronic generated format) does not provide spaces or fields for the PIID or supplementary PIID required in paragraph (a) of this section, identify the PIID in accordance with agency procedures.
+(c) (c)
+                  
+						            Additional agency specific identification information. If agency procedures require additional identification information in solicitations, contracts, or other related procurement instruments for administrative purposes, separate and clearly identify the additional information from the PIID.
+

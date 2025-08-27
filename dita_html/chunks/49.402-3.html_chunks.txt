@@ -1,0 +1,23 @@
+Heading: 49.402-3 Procedure for default.
+Text: (a) (a)
+						            When a default termination is being considered, the Government shall decide which type of termination action to take (i.e., default, convenience, or no-cost cancellation) only after review by contracting and technical personnel, and by counsel, to ensure the propriety of the proposed action.
+(b) (b)
+						            The administrative contracting officer shall not issue a show cause notice or cure notice without the prior approval of the contracting office, which should be obtained by the most expeditious means.
+(c) (c)
+						            Subdivision (a)(1)(i) of the Default clause covers situations when the contractor has defaulted by failure to make delivery of the supplies or to perform the services within the specified time. In these situations, no notice of failure or of the possibility of termination for default is required to be sent to the contractor before the actual notice of termination (but see paragraph (e) of this section). However, if the Government has taken any action that might be construed as a waiver of the contract delivery or performance date, the contracting officer shall send a notice to the contractor setting a new date for the contractor to make delivery or complete performance. The notice shall reserve the Government’s rights under the Default clause.
+(d) (d)
+						            Subdivisions (a)(1)(ii) and (a)(1)(iii) of the Default clause cover situations when the contractor fails to perform some of the other provisions of the contract (such as not furnishing a required performance bond) or so fails to make progress as to endanger performance of the contract. If the termination is predicated upon this type of failure, the contracting officer shall give the contractor written notice specifying the failure and providing a period of 10 days (or longer period as necessary) in which to cure the failure. When appropriate, this notice may be made a part of the notice described in paragraph (e)(1) of this section. Upon expiration of the 10 days (or longer period), the contracting officer may issue a notice of termination for default unless it is determined that the failure to perform has been cured. A format for a cure notice is in 49.607.
+(e) (e)
+(f) (f)
+						            The contracting officer shall consider the following factors in determining whether to terminate a contract for default:
+(g) (g)
+						            If, after compliance	with the procedures in paragraphs (a) through (f) of this 49.402-3, the contracting officer	determines that a termination for default is proper, the contracting officer	shall issue a notice of termination stating-
+(h) (h)
+						            The contracting officer shall make the same distribution of the termination notice as was made of the contract. A copy shall also be furnished to the contractor’s surety, if any, when the notice is furnished to the contractor. The surety should be requested to advise if it desires to arrange for completion of the work. In addition, the contracting officer shall notify the disbursing officer to withhold further payments under the terminated contract, pending further advice, which should be furnished at the earliest practicable time.
+(i) (i)
+						            In the case of a construction contract, promptly after issuance of the termination notice, the contracting officer shall determine the manner in which the work is to be completed and whether the materials, appliances, and plant that are on the site will be needed.
+(j) (j)
+						            If the contracting officer determines before issuing the termination notice that the failure to perform is excusable, the contract shall not be terminated for default. If termination is in the Government’s interest, the contracting officer may terminate the contract for the convenience of the Government.
+(k) (k)
+						            If the contracting officer has not been able to determine, before issuance of the notice of termination whether the contractor’s failure to perform is excusable, the contracting officer shall make a written decision on that point as soon as practicable after issuance of the notice of termination. The decision shall be delivered promptly to the contractor with a notification that the contractor has the right to appeal as specified in the Disputes clause.
+

@@ -1,0 +1,21 @@
+Heading: 48.102 Policies.
+Text: (a) (a)
+						            As required by 41 U.S.C. 1711, agencies shall establish and maintain cost-effective value engineering procedures and processes. Agencies shall provide contractors a substantial financial incentive to develop and submit VECP’s. Contracting activities will include value engineering provisions in appropriate supply, service, architect-engineer and construction contracts as prescribed by 48.201 and 48.202 except where exemptions are granted on a case-by-case basis, or for specific classes of contracts, by the agency head.
+(b) (b)
+						            Agencies shall-
+(c) (c)
+						            Agencies shall consider requiring incorporation of value engineering clauses in appropriate subcontracts.
+(d) (d)
+(e) (e) Value engineering incentive payments do not constitute profit or fee within the limitations imposed by 
+                     10 U.S.C. 3322(b)
+                     
+                   and 41 U.S.C.3905 (see 15.404-4(c)(4)(i)).
+(f) (f)
+						            Generally, profit or fee on the instant contract should not be adjusted downward as a result of acceptance of a VECP. Profit or fee shall be excluded when calculating instant or future contract savings.
+(g) (g)
+						            The contracting officer determines the sharing periods and sharing rates on a case-by-case basis using the guidelines in 48.104-1 and 48.104-2, respectively. In establishing a sharing period and sharing rate, the contracting officer must consider the following, as appropriate, and must insert supporting rationale in the contract file:
+(h) (h)
+						            Contracts for architect-engineer services must require a mandatory value engineering program to reduce total ownership cost in accordance with 48.101(b)(2). However, there must be no sharing of value engineering savings in contracts for architect-engineer services.
+(i) (i)
+						            Agencies shall establish procedures for funding and payment of the contractor’s share of collateral savings and future contract savings.
+

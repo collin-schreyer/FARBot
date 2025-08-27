@@ -1,0 +1,6 @@
+Heading: 50.205-3 Authorization of offers contingent upon SAFETY Act designation or certification before contract award.
+Text: (a) (a)
+						            Contracting officers may authorize such contingent offers, only if-
+(b) (b)
+						            Contracting officers shall not authorize offers contingent upon obtaining a SAFETY Act certification (as opposed to a SAFETY Act designation), unless a block certification applies to the class of technology to be acquired under the solicitation.
+

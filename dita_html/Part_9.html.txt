@@ -1,0 +1,346 @@
+Part 9 - Contractor Qualifications
+
+
+Part 9 - Contractor Qualifications
+
+
+9.000 Scope of part.
+
+
+Subpart 9.1 - Responsible Prospective Contractors
+
+
+9.100 Scope of subpart.
+
+
+9.101 Definitions.
+
+
+9.102 Applicability.
+
+
+9.103 Policy.
+
+
+9.104 Standards.
+
+
+9.104-1 General standards.
+
+
+9.104-2 Special standards.
+
+
+9.104-3 Application of standards.
+
+
+9.104-4 Subcontractor responsibility.
+
+
+9.104-5 Representation and certifications regarding responsibility matters.
+
+
+9.104-6 Federal Awardee Performance and Integrity Information System.
+
+
+9.104-7 Solicitation provisions and contract clauses.
+
+
+9.105 Procedures.
+
+
+9.105-1 Obtaining information.
+
+
+9.105-2 Determinations and documentation.
+
+
+9.105-3 Disclosure of preaward information.
+
+
+9.106 Preaward surveys.
+
+
+9.106-1 Conditions for preaward surveys.
+
+
+9.106-2 Requests for preaward surveys.
+
+
+9.106-3 Interagency preaward surveys.
+
+
+9.106-4 Reports.
+
+
+9.107 Surveys of nonprofit agencies participating in the AbilityOne Program.
+
+
+9.108 Prohibition on contracting with inverted domestic corporations.
+
+
+9.108-1 Definitions.
+
+
+9.108-2 Prohibition.
+
+
+9.108-3 Representation by the offeror.
+
+
+9.108-4 Waiver.
+
+
+9.108-5 Solicitation provision and contract clause.
+
+
+9.109 Prohibition on contracting with an entity involved in activities that violate arms control treaties or agreements with the United States.
+
+
+9.109-1 Authority.
+
+
+9.109-2 Prohibition.
+
+
+9.109-3 Exception.
+
+
+9.109-4 Certification by the offeror.
+
+
+9.109-5 Solicitation provision.
+
+
+9.110 Reserve Officer Training Corps and military recruiting on campus.
+
+
+9.110-1 Definitions.
+
+
+9.110-2 Authority
+
+
+9.110-3 Policy.
+
+
+9.110-4 Procedures.
+
+
+9.110-5 Contract clause.
+
+
+Subpart 9.2 - Qualifications Requirements
+
+
+9.200 Scope of subpart.
+
+
+9.201 Definitions.
+
+
+9.202 Policy.
+
+
+9.203 QPL’s, QML’s, and QBL’s.
+
+
+9.204 Responsibilities for establishment of a qualification requirement.
+
+
+9.205 Opportunity for qualification before award.
+
+
+9.206 Acquisitions subject to qualification requirements.
+
+
+9.206-1 General.
+
+
+9.206-2 Contract clause.
+
+
+9.206-3 Competition.
+
+
+9.207 Changes in status regarding qualification requirements.
+
+
+Subpart 9.3 - First Article Testing and Approval
+
+
+9.301 Definition.
+
+
+9.302 General.
+
+
+9.303 Use.
+
+
+9.304 Exceptions.
+
+
+9.305 Risk.
+
+
+9.306 Solicitation requirements.
+
+
+9.307 Government administration procedures.
+
+
+9.308 Contract clauses.
+
+
+9.308-1 Testing performed by the contractor.
+
+
+9.308-2 Testing performed by the Government.
+
+
+Subpart 9.4 - Debarment, Suspension, and Ineligibility
+
+
+9.400 Scope of subpart.
+
+
+9.401 Applicability.
+
+
+9.402 Policy.
+
+
+9.403 Definitions.
+
+
+9.404 Exclusions in the System for Award Management.
+
+
+9.405 Effect of listing.
+
+
+9.405-1 Continuation of current contracts.
+
+
+9.405-2 Restrictions on subcontracting.
+
+
+9.406 Debarment.
+
+
+9.406-1 General.
+
+
+9.406-2 Causes for debarment.
+
+
+9.406-3 Procedures.
+
+
+9.406-4 Period of debarment.
+
+
+9.406-5 Scope of debarment.
+
+
+9.407 Suspension.
+
+
+9.407-1 General.
+
+
+9.407-2 Causes for suspension.
+
+
+9.407-3 Procedures.
+
+
+9.407-4 Period of suspension.
+
+
+9.407-5 Scope of suspension.
+
+
+9.408 [Reserved]
+
+
+9.409 Contract clause.
+
+
+Subpart 9.5 - Organizational and Consultant Conflicts of Interest
+
+
+9.500 Scope of subpart.
+
+
+9.501 Definition.
+
+
+9.502 Applicability.
+
+
+9.503 Waiver.
+
+
+9.504 Contracting officer responsibilities.
+
+
+9.505 General rules.
+
+
+9.505-1 Providing systems engineering and technical direction.
+
+
+9.505-2 Preparing specifications or work statements.
+
+
+9.505-3 Providing evaluation services.
+
+
+9.505-4 Obtaining access to proprietary information.
+
+
+9.506 Procedures.
+
+
+9.507 Solicitation provisions and contract clause.
+
+
+9.507-1 Solicitation provisions.
+
+
+9.507-2 Contract clause.
+
+
+9.508 Examples.
+
+
+Subpart 9.6 - Contractor Team Arrangements
+
+
+9.601 Definition.
+
+
+9.602 General.
+
+
+9.603 Policy.
+
+
+9.604 Limitations.
+
+
+Subpart 9.7 - Defense Production Pools and Research and Development Pools
+
+
+9.701 Definition.
+
+
+9.702 Contracting with pools.
+
+
+9.703 Contracting with individual pool members.
+
+
+9.000 Scope of part.Subpart 9.1 - Responsible Prospective ContractorsSubpart 9.2 - Qualifications RequirementsSubpart 9.3 - First Article Testing and ApprovalSubpart 9.4 - Debarment, Suspension, and IneligibilitySubpart 9.5 - Organizational and Consultant Conflicts of InterestSubpart 9.6 - Contractor Team ArrangementsSubpart 9.7 - Defense Production Pools and Research and Development PoolsParent topic: Federal Acquisition Regulation

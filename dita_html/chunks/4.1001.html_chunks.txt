@@ -1,0 +1,8 @@
+Heading: 4.1001 Policy.
+Text: (a) (a)
+                  
+						            Line items are established to define deliverables or organize information about deliverables. Each line item describes characteristics for the item purchased, e.g., pricing, delivery, and funding information.
+(b) (b)
+                  
+						            Each line item may be subdivided into separate unique subsets (called subline items) to ease administration. If a line item has deliverable subline items, the line item is informational. Subline items differentiate between or among certain characteristics of the line item, such as colors or sizes, dates of delivery, destinations, or places of performance. Subline items are established to define deliverables or organize information about deliverables.
+

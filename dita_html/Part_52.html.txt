@@ -1,0 +1,2288 @@
+Part 52 - Solicitation Provisions and Contract Clauses
+
+
+Part 52 - Solicitation Provisions
+and Contract Clauses
+
+
+52.000 Scope of part.
+
+
+Subpart 52.1 - Instructions for Using Provisions and Clauses
+
+
+52.100 Scope of subpart.
+
+
+52.101 Using Part 52.
+
+
+52.102 Incorporating provisions and clauses.
+
+
+52.103 Identification of provisions and clauses.
+
+
+52.104 Procedures for modifying and completing provisions and clauses.
+
+
+52.105 Procedures for using alternates.
+
+
+52.106 [Reserved]
+
+
+52.107 Provisions and clauses prescribed in subpart 52.1.
+
+
+Subpart 52.2 - Text of Provisions and Clauses
+
+
+52.200 Scope of subpart.
+
+
+52.201 [Reserved]
+
+
+52.201-1 Acquisition 360: Voluntary Survey.
+
+
+52.202 [Reserved]
+
+
+52.202-1 Definitions.
+
+
+52.203 [Reserved]
+
+
+52.203-1 [Reserved]
+
+
+52.203-2 Certificate of Independent Price Determination.
+
+
+52.203-3 Gratuities.
+
+
+52.203-4 [Reserved]
+
+
+52.203-5 Covenant Against Contingent Fees.
+
+
+52.203-6 Restrictions on Subcontractor Sales to the Government.
+
+
+52.203-7 Anti-Kickback Procedures.
+
+
+52.203-8 Cancellation, Rescission, and Recovery of Funds for Illegal or Improper Activity.
+
+
+52.203-9 [Reserved]
+
+
+52.203-10 Price or Fee Adjustment for Illegal or Improper Activity.
+
+
+52.203-11 Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions.
+
+
+52.203-12 Limitation on Payments to Influence Certain Federal Transactions.
+
+
+52.203-13 Contractor Code of Business Ethics and Conduct.
+
+
+52.203-14 Display of Hotline Poster(s).
+
+
+52.203-15 Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009.
+
+
+52.203-16 Preventing Personal Conflicts of Interest.
+
+
+52.203-17 Contractor Employee Whistleblower Rights.
+
+
+52.203-18 Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements-Representation.
+
+
+52.203-19 Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements.
+
+
+52.204 [Reserved]
+
+
+52.204-1 Approval of Contract.
+
+
+52.204-2 Security Requirements.
+
+
+52.204-3 Taxpayer Identification.
+
+
+52.204-4 [Reserved]
+
+
+52.204-5 Women-Owned Business (Other Than Small Business).
+
+
+52.204-6 Unique Entity Identifier.
+
+
+52.204-7 System for Award Management.
+
+
+52.204-8 Annual Representations and Certifications.
+
+
+52.204-9 Personal Identity Verification of Contractor Personnel.
+
+
+52.204-10 Reporting Executive Compensation and First-Tier Subcontract Awards.
+
+
+52.204-11 [Reserved]
+
+
+52.204-12 Unique Entity Identifier Maintenance.
+
+
+52.204-13 System for Award Management Maintenance.
+
+
+52.204-14 Service Contract Reporting Requirements.
+
+
+52.204-15 Service Contract Reporting Requirements for Indefinite-Delivery Contracts.
+
+
+52.204-16 Commercial and Government Entity Code Reporting.
+
+
+52.204-17 Ownership or Control of Offeror.
+
+
+52.204-18 Commercial and Government Entity Code Maintenance.
+
+
+52.204-19 Incorporation by Reference of Representations and Certifications.
+
+
+52.204-20 Predecessor of Offeror.
+
+
+52.204-21 Basic Safeguarding of Covered Contractor Information Systems.
+
+
+52.204-22 Alternative Line Item Proposal.
+
+
+52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.
+
+
+52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.
+
+
+52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+
+
+52.204-26 Covered Telecommunications Equipment or Services-Representation.
+
+
+52.204-27 Prohibition on a ByteDance Covered Application.
+
+
+52.204-28 Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts.
+
+
+52.204-29 Federal Acquisition Supply Chain Security Act Orders—Representation and Disclosures.
+
+
+52.204-30 Federal Acquisition Supply Chain Security Act Orders—Prohibition.
+
+
+52.205 [Reserved]
+
+
+52.206 [Reserved]
+
+
+52.207 [Reserved]
+
+
+52.207-1 Notice of Standard Competition.
+
+
+52.207-2 Notice of Streamlined Competition.
+
+
+52.207-3 Right of First Refusal of Employment.
+
+
+52.207-4 Economic Purchase Quantity-Supplies.
+
+
+52.207-5 Option to Purchase Equipment.
+
+
+52.207-6 Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts).
+
+
+52.208 [Reserved]
+
+
+52.208-1 [Reserved]
+
+
+52.208-2 [Reserved]
+
+
+52.208-3 [Reserved]
+
+
+52.208-4 Vehicle Lease Payments.
+
+
+52.208-5 Condition of Leased Vehicles.
+
+
+52.208-6 Marking of Leased Vehicles.
+
+
+52.208-7 Tagging of Leased Vehicles.
+
+
+52.208-8 [Reserved]
+
+
+52.208-9 Contractor Use of Mandatory Sources of Supply or Services.
+
+
+52.209 [Reserved]
+
+
+52.209-1 Qualification Requirements.
+
+
+52.209-2 Prohibition on Contracting with Inverted Domestic Corporations-Representation.
+
+
+52.209-3 First Article Approval-Contractor Testing.
+
+
+52.209-4 First Article Approval-Government Testing.
+
+
+52.209-5 Certification Regarding Responsibility Matters.
+
+
+52.209-6 Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, Proposed for Debarment, or Voluntarily Excluded.
+
+
+52.209-7 Information Regarding Responsibility Matters.
+
+
+52.209-8 [Reserved]
+
+
+52.209-9 Updates of Publicly Available Information Regarding Responsibility Matters.
+
+
+52.209-10 Prohibition on Contracting with Inverted Domestic Corporations.
+
+
+52.209-11 Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law.
+
+
+52.209-12 Certification Regarding Tax Matters.
+
+
+52.209-13 Violation of Arms Control Treaties or Agreements-Certification.
+
+
+52.209-14 Reserve Officer Training Corps and Military Recruiting on Campus.
+
+
+52.210 [Reserved]
+
+
+52.210-1 Market Research.
+
+
+52.211 [Reserved]
+
+
+52.211-1 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29.
+
+
+52.211-2 Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) website.
+
+
+52.211-3 Availability of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions.
+
+
+52.211-4 Availability for Examination of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions.
+
+
+52.211-5 Material Requirements.
+
+
+52.211-6 Brand Name or Equal.
+
+
+52.211-7 Alternatives to Government-Unique Standards.
+
+
+52.211-8 Time of Delivery.
+
+
+52.211-9 Desired and Required Time of Delivery.
+
+
+52.211-10 Commencement, Prosecution, and Completion of Work.
+
+
+52.211-11 Liquidated Damages-Supplies, Services, or Research and Development.
+
+
+52.211-12 Liquidated Damages-Construction.
+
+
+52.211-13 Time Extensions.
+
+
+52.211-14 Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use.
+
+
+52.211-15 Defense Priority and Allocation Requirements.
+
+
+52.211-16 Variation in Quantity.
+
+
+52.211-17 Delivery of Excess Quantities.
+
+
+52.211-18 Variation in Estimated Quantity.
+
+
+52.212 [Reserved]
+
+
+52.212-1 Instructions to Offerors—Commercial Products and Commercial Services.
+
+
+52.212-2 Evaluation—Commercial Products and Commercial Services.
+
+
+52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services.
+
+
+52.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services.
+
+
+52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services.
+
+
+52.213 [Reserved]
+
+
+52.213-1 Fast Payment Procedure.
+
+
+52.213-2 Invoices.
+
+
+52.213-3 Notice to Supplier.
+
+
+52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services).
+
+
+52.214 [Reserved]
+
+
+52.214-1 [Reserved]
+
+
+52.214-2 [Reserved]
+
+
+52.214-3 Amendments to Invitations for Bids.
+
+
+52.214-4 False Statements in Bids.
+
+
+52.214-5 Submission of Bids.
+
+
+52.214-6 Explanation to Prospective Bidders.
+
+
+52.214-7 Late Submissions, Modifications, and Withdrawals of Bids.
+
+
+52.214-8 [Reserved]
+
+
+52.214-9 [Reserved]
+
+
+52.214-10 Contract Award-Sealed Bidding.
+
+
+52.214-11 [Reserved]
+
+
+52.214-12 Preparation of Bids.
+
+
+52.214-13 [Reserved]
+
+
+52.214-14 Place of Performance-Sealed Bidding.
+
+
+52.214-15 Period for Acceptance of Bids.
+
+
+52.214-16 Minimum Bid Acceptance Period.
+
+
+52.214-17 [Reserved]
+
+
+52.214-18 Preparation of Bids-Construction.
+
+
+52.214-19 Contract Award-Sealed Bidding-Construction.
+
+
+52.214-20 Bid Samples.
+
+
+52.214-21 Descriptive Literature.
+
+
+52.214-22 Evaluation of Bids for Multiple Awards.
+
+
+52.214-23 Late Submissions, Modifications, Revisions, and Withdrawals of Technical Proposals under Two-Step Sealed Bidding.
+
+
+52.214-24 Multiple Technical Proposals.
+
+
+52.214-25 Step Two of Two-Step Sealed Bidding.
+
+
+52.214-26 Audit and Records-Sealed Bidding.
+
+
+52.214-27 Price Reduction for Defective Certified Cost or Pricing Data-Modifications-Sealed Bidding.
+
+
+52.214-28 Subcontractor Certified Cost or Pricing Data-Modifications-Sealed Bidding.
+
+
+52.214-29 Order of Precedence-Sealed Bidding.
+
+
+52.214-30 [Reserved]
+
+
+52.214-31 Facsimile Bids.
+
+
+52.214-32 [Reserved]
+
+
+52.214-33 [Reserved]
+
+
+52.214-34 Submission of Offers in the English Language.
+
+
+52.214-35 Submission of Offers in U.S. Currency.
+
+
+52.215 [Reserved]
+
+
+52.215-1 Instructions to Offerors-Competitive Acquisition.
+
+
+52.215-2 Audit and Records-Negotiation.
+
+
+52.215-3 Request for Information or Solicitation for Planning Purposes.
+
+
+52.215-4 [Reserved]
+
+
+52.215-5 Facsimile Proposals.
+
+
+52.215-6 Place of Performance.
+
+
+52.215-7 [Reserved]
+
+
+52.215-8 Order of Precedence-Uniform Contract Format.
+
+
+52.215-9 Changes or Additions to Make-or-Buy Program.
+
+
+52.215-10 Price Reduction for Defective Certified Cost or Pricing Data.
+
+
+52.215-11 Price Reduction for Defective Certified Cost or Pricing Data-Modifications.
+
+
+52.215-12 Subcontractor Certified Cost or Pricing Data.
+
+
+52.215-13 Subcontractor Certified Cost or Pricing Data-Modifications.
+
+
+52.215-14 Integrity of Unit Prices.
+
+
+52.215-15 Pension Adjustments and Asset Reversions.
+
+
+52.215-16 Facilities Capital Cost of Money.
+
+
+52.215-17 Waiver of Facilities Capital Cost of Money.
+
+
+52.215-18 Reversion or Adjustment of Plans for Postretirement Benefits (PRB) Other Than Pensions.
+
+
+52.215-19 Notification of Ownership Changes.
+
+
+52.215-20 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data.
+
+
+52.215-21 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data-Modifications.
+
+
+52.215-22 Limitations on Pass-Through Charges-Identification of Subcontract Effort.
+
+
+52.215-23 Limitations on Pass-Through Charges.
+
+
+52.216 [Reserved]
+
+
+52.216-1 Type of Contract.
+
+
+52.216-2 Economic Price Adjustment-Standard Supplies.
+
+
+52.216-3 Economic Price Adjustment-Semistandard Supplies.
+
+
+52.216-4 Economic Price Adjustment-Labor and Material.
+
+
+52.216-5 Price Redetermination-Prospective.
+
+
+52.216-6 Price Redetermination-Retroactive.
+
+
+52.216-7 Allowable Cost and Payment.
+
+
+52.216-8 Fixed Fee.
+
+
+52.216-9 Fixed Fee-Construction.
+
+
+52.216-10 Incentive Fee.
+
+
+52.216-11 Cost Contract-No Fee.
+
+
+52.216-12 Cost-Sharing Contract-No Fee.
+
+
+52.216-13 [Reserved]
+
+
+52.216-14 [Reserved]
+
+
+52.216-15 Predetermined Indirect Cost Rates.
+
+
+52.216-16 Incentive Price Revision-Firm Target.
+
+
+52.216-17 Incentive Price Revision-Successive Targets.
+
+
+52.216-18 Ordering.
+
+
+52.216-19 Order Limitations.
+
+
+52.216-20 Definite Quantity.
+
+
+52.216-21 Requirements.
+
+
+52.216-22 Indefinite Quantity.
+
+
+52.216-23 Execution and Commencement of Work.
+
+
+52.216-24 Limitation of Government Liability.
+
+
+52.216-25 Contract Definitization.
+
+
+52.216-26 Payments of Allowable Costs Before Definitization.
+
+
+52.216-27 Single or Multiple Awards.
+
+
+52.216-28 Multiple Awards for Advisory and Assistance Services.
+
+
+52.216-29 Time-and-Materials/Labor-Hour Proposal Requirements—Other Than Commercial Acquisition With Adequate Price Competition.
+
+
+52.216-30 Time-and-Materials/Labor-Hour Proposal Requirements—Other Than Commercial Acquisition Without Adequate Price Competition.
+
+
+52.216-31 Time-and-Materials/Labor-Hour Proposal Requirements—Commercial Acquisition.
+
+
+52.216-32 Task-Order and Delivery-Order Ombudsman.
+
+
+52.217 [Reserved]
+
+
+52.217-1 [Reserved]
+
+
+52.217-2 Cancellation Under Multi-year Contracts.
+
+
+52.217-3 Evaluation Exclusive of Options.
+
+
+52.217-4 Evaluation of Options Exercised at Time of Contract Award.
+
+
+52.217-5 Evaluation of Options.
+
+
+52.217-6 Option for Increased Quantity.
+
+
+52.217-7 Option for Increased Quantity-Separately Priced Line Item.
+
+
+52.217-8 Option to Extend Services.
+
+
+52.217-9 Option to Extend the Term of the Contract.
+
+
+52.217-10 Reverse Auction
+
+
+52.217-11 Reverse Auction—Orders.
+
+
+52.217-12 Reverse Auction Services.
+
+
+52.218 [Reserved]
+
+
+52.219 [Reserved]
+
+
+52.219-1 Small Business Program Representations.
+
+
+52.219-2 Equal Low Bids.
+
+
+52.219-3 Notice of HUBZone Set-Aside or Sole-Source Award.
+
+
+52.219-4 Notice of Price Evaluation Preference for HUBZone Small Business Concerns.
+
+
+52.219-5 [Reserved]
+
+
+52.219-6 Notice of Total Small Business Set-Aside.
+
+
+52.219-7 Notice of Partial Small Business Set-Aside.
+
+
+52.219-8 Utilization of Small Business Concerns.
+
+
+52.219-9 Small Business Subcontracting Plan.
+
+
+52.219-10 Incentive Subcontracting Program.
+
+
+52.219-11 Special 8(a) Contract Conditions.
+
+
+52.219-12 Special 8(a) Subcontract Conditions.
+
+
+52.219-13 Notice of Set-Aside of Orders.
+
+
+52.219-14 Limitations on Subcontracting.
+
+
+52.219-15 [Reserved]
+
+
+52.219-16 Liquidated Damages-Subcontracting Plan.
+
+
+52.219-17 Section 8(a) Award.
+
+
+52.219-18 Notification of Competition Limited to Eligible 8(a) Participants.
+
+
+52.219-19 [Reserved]
+
+
+52.219-20 [Reserved]
+
+
+52.219-21 [Reserved]
+
+
+52.219-22 [Reserved]
+
+
+52.219-23 [Reserved]
+
+
+52.219-24 [Reserved]
+
+
+52.219-25 [Reserved]
+
+
+52.219-26 [Reserved]
+
+
+52.219-27 Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program.
+
+
+52.219-28 Postaward Small Business Program Rerepresentation.
+
+
+52.219-29 Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns.
+
+
+52.219-30 Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program.
+
+
+52.219-31 Notice of Small Business Reserve.
+
+
+52.219-32 Orders Issued Directly Under Small Business Reserves
+
+
+52.219-33 Nonmanufacturer Rule.
+
+
+52.220 [Reserved]
+
+
+52.221 [Reserved]
+
+
+52.222 [Reserved]
+
+
+52.222-1 Notice to the Government of Labor Disputes.
+
+
+52.222-2 Payment for Overtime Premiums.
+
+
+52.222-3 Convict Labor.
+
+
+52.222-4 Contract Work Hours and Safety Standards -Overtime Compensation.
+
+
+52.222-5 Construction Wage Rate Requirements-Secondary Site of the Work.
+
+
+52.222-6 Construction Wage Rate Requirements.
+
+
+52.222-7 Withholding of Funds.
+
+
+52.222-8 Payrolls and Basic Records.
+
+
+52.222-9 Apprentices and Trainees.
+
+
+52.222-10 Compliance with Copeland Act Requirements.
+
+
+52.222-11 Subcontracts (Labor Standards).
+
+
+52.222-12 Contract Termination-Debarment.
+
+
+52.222-13 Compliance with Construction Wage Rate Requirements and Related Regulations.
+
+
+52.222-14 Disputes Concerning Labor Standards.
+
+
+52.222-15 Certification of Eligibility.
+
+
+52.222-16 Approval of Wage Rates.
+
+
+52.222-17 [Reserved]
+
+
+52.222-18 Certification Regarding Knowledge of Child Labor for Listed End Products.
+
+
+52.222-19 Child Labor-Cooperation with Authorities and Remedies.
+
+
+52.222-20 Contracts for Materials, Supplies, Articles, and Equipment.
+
+
+52.222-21 Prohibition of Segregated Facilities.
+
+
+52.222-22 Previous Contracts and Compliance Reports.
+
+
+52.222-23 Notice of Requirement for Affirmative Action to Ensure Equal Employment Opportunity for Construction.
+
+
+52.222-24 Preaward On-Site Equal Opportunity Compliance Evaluation.
+
+
+52.222-25 Affirmative Action Compliance.
+
+
+52.222-26 Equal Opportunity.
+
+
+52.222-27 Affirmative Action Compliance Requirements for Construction.
+
+
+52.222-28 [Reserved]
+
+
+52.222-29 Notification of Visa Denial.
+
+
+52.222-30 Construction Wage Rate Requirements-Price Adjustment (None or Separately Specified Method).
+
+
+52.222-31 Construction Wage Rate Requirements-Price Adjustment (Percentage Method).
+
+
+52.222-32 Construction Wage Rate Requirements-Price Adjustment (Actual Method).
+
+
+52.222-33 Notice of Requirement for Project Labor Agreement.
+
+
+52.222-34 Project Labor Agreement.
+
+
+52.222-35 Equal Opportunity for Veterans.
+
+
+52.222-36 Equal Opportunity for Workers with Disabilities.
+
+
+52.222-37 Employment Reports on Veterans.
+
+
+52.222-38 Compliance with Veterans’ Employment Reporting Requirements.
+
+
+52.222-39 [Reserved]
+
+
+52.222-40 Notification of Employee Rights Under the National Labor Relations Act.
+
+
+52.222-41 Service Contract Labor Standards.
+
+
+52.222-42 Statement of Equivalent Rates for Federal Hires.
+
+
+52.222-43 Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts).
+
+
+52.222-44 Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment.
+
+
+52.222-45 [Reserved]
+
+
+52.222-46 Evaluation of Compensation for Professional Employees.
+
+
+52.222-47 [Reserved]
+
+
+52.222-48 Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Certification.
+
+
+52.222-49 Service Contract Labor Standards-Place of Performance Unknown.
+
+
+52.222-50 Combating Trafficking in Persons.
+
+
+52.222-51 Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Requirements.
+
+
+52.222-52 Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services-Certification.
+
+
+52.222-53 Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services-Requirements.
+
+
+52.222-54 Employment Eligibility Verification.
+
+
+52.222-55 Minimum Wages for Contractor Workers Under Executive Order 14026.
+
+
+52.222-56 Certification Regarding Trafficking in Persons Compliance Plan.
+
+
+52.222-57 [Reserved].
+
+
+52.222-58 [Reserved].
+
+
+52.222-59 [Reserved].
+
+
+52.222-60 [Reserved].
+
+
+52.222-61 [Reserved].
+
+
+52.222-62 Paid Sick Leave Under Executive Order 13706.
+
+
+52.223 [Reserved]
+
+
+52.223-1 Biobased Product Certification.
+
+
+52.223-2 Reporting of Biobased Products Under Service and Construction Contracts.
+
+
+52.223-3 Hazardous Material Identification and Material Safety Data.
+
+
+52.223-4 Recovered Material Certification.
+
+
+52.223-5 Pollution Prevention and Right-to-Know Information.
+
+
+52.223-6 [Reserved]
+
+
+52.223-7 Notice of Radioactive Materials.
+
+
+52.223-8 [Reserved]
+
+
+52.223-9 Estimate of Percentage of Recovered Material Content for EPA-Designated Items.
+
+
+52.223-10 Waste Reduction Program.
+
+
+52.223-11 Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons.
+
+
+52.223-12 Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners.
+
+
+52.223-13 [Reserved]
+
+
+52.223-14 [Reserved]
+
+
+52.223-15 [Reserved]
+
+
+52.223-16 [Reserved]
+
+
+52.223-17 [Reserved]
+
+
+52.223-18 [Reserved]
+
+
+52.223-19 Compliance with Environmental Management Systems.
+
+
+52.223-20 Aerosols.
+
+
+52.223-21 Foams.
+
+
+52.223-22 Public Disclosure of Greenhouse Gas Emissions and Reduction Goals-Representation.
+
+
+52.223-23 Sustainable Products and Services.
+
+
+52.224 [Reserved]
+
+
+52.224-1 Privacy Act Notification.
+
+
+52.224-2 Privacy Act.
+
+
+52.224-3 Privacy Training.
+
+
+52.225 [Reserved]
+
+
+52.225-1 Buy American-Supplies
+
+
+52.225-2 Buy American Certificate.
+
+
+52.225-3 Buy American-Free Trade Agreements-Israeli Trade Act.
+
+
+52.225-4 Buy American-Free Trade Agreements-Israeli Trade Act Certificate.
+
+
+52.225-5 Trade Agreements.
+
+
+52.225-6 Trade Agreements Certificate.
+
+
+52.225-7 Waiver of Buy American Statute for Civil Aircraft and Related Articles.
+
+
+52.225-8 Duty-Free Entry.
+
+
+52.225-9 Buy American-Construction Materials.
+
+
+52.225-10 Notice of Buy American Requirement-Construction Materials.
+
+
+52.225-11 Buy American-Construction Materials under Trade Agreements.
+
+
+52.225-12 Notice of Buy American Requirement-Construction Materials Under Trade Agreements.
+
+
+52.225-13 Restrictions on Certain Foreign Purchases.
+
+
+52.225-14 Inconsistency between English Version and Translation of Contract.
+
+
+52.225-15 [Reserved]
+
+
+52.225-16 [Reserved]
+
+
+52.225-17 Evaluation of Foreign Currency Offers.
+
+
+52.225-18 Place of Manufacture.
+
+
+52.225-19 Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States.
+
+
+52.225-20 Prohibition on Conducting Restricted Business Operations in Sudan-Certification.
+
+
+52.225-21 Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials.
+
+
+52.225-22 Notice of Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials.
+
+
+52.225-23 Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements.
+
+
+52.225-24 Notice of Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials Under Trade Agreements.
+
+
+52.225-25 Prohibition on Contracting With Entities Engaging in Certain Activities or Transactions Relating to Iran—Representation and Certifications.
+
+
+52.225-26 Contractors Performing Private Security Functions Outside the United States.
+
+
+52.226 [Reserved]
+
+
+52.226-1 Utilization of Indian Organizations and Indian-Owned Economic Enterprises.
+
+
+52.226-2 Historically Black College or University and Minority Institution Representation.
+
+
+52.226-3 Disaster or Emergency Area Representation.
+
+
+52.226-4 Notice of Disaster or Emergency Area Set-Aside.
+
+
+52.226-5 Restrictions on Subcontracting Outside Disaster or Emergency Area.
+
+
+52.226-6 Promoting Excess Food Donation to Nonprofit Organizations.
+
+
+52.226-7 Drug-Free Workplace.
+
+
+52.226-8 Encouraging Contractor Policies to Ban Text Messaging While Driving.
+
+
+52.227 [Reserved]
+
+
+52.227-1 Authorization and Consent.
+
+
+52.227-2 Notice and Assistance Regarding Patent and Copyright Infringement.
+
+
+52.227-3 Patent Indemnity.
+
+
+52.227-4 Patent Indemnity-Construction Contracts.
+
+
+52.227-5 Waiver of Indemnity.
+
+
+52.227-6 Royalty Information.
+
+
+52.227-7 Patents-Notice of Government Licensee.
+
+
+52.227-8 [Reserved]
+
+
+52.227-9 Refund of Royalties.
+
+
+52.227-10 Filing of Patent Applications-Classified Subject Matter.
+
+
+52.227-11 Patent Rights-Ownership by the Contractor.
+
+
+52.227-12 [Reserved]
+
+
+52.227-13 Patent Rights-Ownership by the Government.
+
+
+52.227-14 Rights in Data-General.
+
+
+52.227-15 Representation of Limited Rights Data and Restricted Computer Software.
+
+
+52.227-16 Additional Data Requirements.
+
+
+52.227-17 Rights in Data-Special Works.
+
+
+52.227-18 Rights in Data-Existing Works.
+
+
+52.227-19 Commercial Computer Software License.
+
+
+52.227-20 Rights in Data-SBIR Program.
+
+
+52.227-21 Technical Data Declaration, Revision, and Withholding of Payment-Major Systems.
+
+
+52.227-22 Major System-Minimum Rights.
+
+
+52.227-23 Rights to Proposal Data (Technical).
+
+
+52.228 [Reserved]
+
+
+52.228-1 Bid Guarantee.
+
+
+52.228-2 Additional Bond Security.
+
+
+52.228-3 Workers’ Compensation Insurance (Defense Base Act).
+
+
+52.228-4 Workers’ Compensation and War-Hazard Insurance Overseas.
+
+
+52.228-5 Insurance-Work on a Government Installation.
+
+
+52.228-6 [Reserved]
+
+
+52.228-7 Insurance-Liability to Third Persons.
+
+
+52.228-8 Liability and Insurance-Leased Motor Vehicles.
+
+
+52.228-9 Cargo Insurance.
+
+
+52.228-10 Vehicular and General Public Liability Insurance.
+
+
+52.228-11 Individual Surety—Pledge of Assets.
+
+
+52.228-12 Prospective Subcontractor Requests for Bonds.
+
+
+52.228-13 Alternative Payment Protections.
+
+
+52.228-14 Irrevocable Letter of Credit.
+
+
+52.228-15 Performance and Payment Bonds-Construction.
+
+
+52.228-16 Performance and Payment Bonds-Other Than Construction.
+
+
+52.228-17 Individual Surety—Pledge of Assets (Bid Guarantee).
+
+
+52.229 [Reserved]
+
+
+52.229-1 State and Local Taxes.
+
+
+52.229-2 North Carolina State and Local Sales and Use Tax.
+
+
+52.229-3 Federal, State, and Local Taxes.
+
+
+52.229-4 Federal, State, and Local Taxes (State and Local Adjustments).
+
+
+52.229-5 [Reserved]
+
+
+52.229-6 Taxes-Foreign Fixed-Price Contracts.
+
+
+52.229-7 Taxes-Fixed-Price Contracts with Foreign Governments.
+
+
+52.229-8 Taxes-Foreign Cost-Reimbursement Contracts.
+
+
+52.229-9 Taxes-Cost-Reimbursement Contracts with Foreign Governments.
+
+
+52.229-10 State of New Mexico Gross Receipts and Compensating Tax.
+
+
+52.229-11 Tax on Certain Foreign Procurements—Notice and Representation.
+
+
+52.229-12 Tax on Certain Foreign Procurements.
+
+
+52.229-13 Taxes—Foreign Contracts in Afghanistan.
+
+
+52.229-14 Taxes—Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement).
+
+
+52.230 [Reserved]
+
+
+52.230-1 Cost Accounting Standards Notices and Certification.
+
+
+52.230-2 Cost Accounting Standards.
+
+
+52.230-3 Disclosure and Consistency of Cost Accounting Practices.
+
+
+52.230-4 Disclosure and Consistency of Cost Accounting Practices-Foreign Concerns.
+
+
+52.230-5 Cost Accounting Standards-Educational Institution.
+
+
+52.230-6 Administration of Cost Accounting Standards.
+
+
+52.230-7 Proposal Disclosure-Cost Accounting Practice Changes.
+
+
+52.231 [Reserved]
+
+
+52.232 [Reserved]
+
+
+52.232-1 Payments.
+
+
+52.232-2 Payments under Fixed-Price Research and Development Contracts.
+
+
+52.232-3 Payments under Personal Services Contracts.
+
+
+52.232-4 Payments under Transportation Contracts and Transportation-Related Services Contracts.
+
+
+52.232-5 Payments under Fixed-Price Construction Contracts.
+
+
+52.232-6 Payment under Communication Service Contracts with Common Carriers.
+
+
+52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts.
+
+
+52.232-8 Discounts for Prompt Payment.
+
+
+52.232-9 Limitation on Withholding of Payments.
+
+
+52.232-10 Payments under Fixed-Price Architect-Engineer Contracts.
+
+
+52.232-11 Extras.
+
+
+52.232-12 Advance Payments.
+
+
+52.232-13 Notice of Progress Payments.
+
+
+52.232-14 Notice of Availability of Progress Payments Exclusively for Small Business Concerns.
+
+
+52.232-15 Progress Payments Not Included.
+
+
+52.232-16 Progress Payments.
+
+
+52.232-17 Interest.
+
+
+52.232-18 Availability of Funds.
+
+
+52.232-19 Availability of Funds for the Next Fiscal Year.
+
+
+52.232-20 Limitation of Cost.
+
+
+52.232-21 [Reserved]
+
+
+52.232-22 Limitation of Funds.
+
+
+52.232-23 Assignment of Claims.
+
+
+52.232-24 Prohibition of Assignment of Claims.
+
+
+52.232-25 Prompt Payment.
+
+
+52.232-26 Prompt Payment for Fixed-Price Architect-Engineer Contracts.
+
+
+52.232-27 Prompt Payment for Construction Contracts.
+
+
+52.232-28 Invitation to Propose Performance-Based Payments.
+
+
+52.232-29 Terms for Financing of Purchases of Commercial Products and Commercial Services.
+
+
+52.232-30 Installment Payments for Commercial Products and Commercial Services.
+
+
+52.232-31 Invitation to Propose Financing Terms.
+
+
+52.232-32 Performance-Based Payments.
+
+
+52.232-33 Payment by Electronic Funds Transfer-System for Award Management.
+
+
+52.232-34 Payment by Electronic Funds Transfer-Other than System for Award Management.
+
+
+52.232-35 Designation of Office for Government Receipt of Electronic Funds Transfer Information.
+
+
+52.232-36 Payment by Third Party.
+
+
+52.232-37 Multiple Payment Arrangements.
+
+
+52.232-38 Submission of Electronic Funds Transfer Information with Offer.
+
+
+52.232-39 Unenforceability of Unauthorized Obligations.
+
+
+52.232-40 Providing Accelerated Payments to Small Business Subcontractors.
+
+
+52.233 [Reserved]
+
+
+52.233-1 Disputes.
+
+
+52.233-2 Service of Protest.
+
+
+52.233-3 Protest after Award.
+
+
+52.233-4 Applicable Law for Breach of Contract Claim.
+
+
+52.234 [Reserved]
+
+
+52.234-1 Industrial Resources Developed Under Title III, Defense Production Act.
+
+
+52.234-2 Notice of Earned Value Management System-Preaward Integrated Baseline Review.
+
+
+52.234-3 Notice of Earned Value Management System-Post Award Postaward Integrated Baseline Review.
+
+
+52.234-4 Earned Value Management System.
+
+
+52.235 [Reserved]
+
+
+52.236 [Reserved]
+
+
+52.236-1 Performance of Work by the Contractor.
+
+
+52.236-2 Differing Site Conditions.
+
+
+52.236-3 Site Investigation and Conditions Affecting the Work.
+
+
+52.236-4 Physical Data.
+
+
+52.236-5 Material and Workmanship.
+
+
+52.236-6 Superintendence by the Contractor.
+
+
+52.236-7 Permits and Responsibilities.
+
+
+52.236-8 Other Contracts.
+
+
+52.236-9 Protection of Existing Vegetation, Structures, Equipment, Utilities, and Improvements.
+
+
+52.236-10 Operations and Storage Areas.
+
+
+52.236-11 Use and Possession Prior to Completion.
+
+
+52.236-12 Cleaning Up.
+
+
+52.236-13 Accident Prevention.
+
+
+52.236-14 Availability and Use of Utility Services.
+
+
+52.236-15 Schedules for Construction Contracts.
+
+
+52.236-16 Quantity Surveys.
+
+
+52.236-17 Layout of Work.
+
+
+52.236-18 Work Oversight in Cost-Reimbursement Construction Contracts.
+
+
+52.236-19 Organization and Direction of the Work.
+
+
+52.236-20 [Reserved]
+
+
+52.236-21 Specifications and Drawings for Construction.
+
+
+52.236-22 Design Within Funding Limitations.
+
+
+52.236-23 Responsibility of the Architect-Engineer Contractor.
+
+
+52.236-24 Work Oversight in Architect-Engineer Contracts.
+
+
+52.236-25 Requirements for Registration of Designers.
+
+
+52.236-26 Preconstruction Conference.
+
+
+52.236-27 Site Visit (Construction).
+
+
+52.236-28 Preparation of Proposals-Construction.
+
+
+52.237 [Reserved]
+
+
+52.237-1 Site Visit.
+
+
+52.237-2 Protection of Government Buildings, Equipment, and Vegetation.
+
+
+52.237-3 Continuity of Services.
+
+
+52.237-4 Payment by Government to Contractor.
+
+
+52.237-5 Payment by Contractor to Government.
+
+
+52.237-6 Incremental Payment by Contractor to Government.
+
+
+52.237-7 Indemnification and Medical Liability Insurance.
+
+
+52.237-8 Restriction on Severance Payments to Foreign Nationals.
+
+
+52.237-9 Waiver of Limitation on Severance Payments to Foreign Nationals.
+
+
+52.237-10 Identification of Uncompensated Overtime.
+
+
+52.238 [Reserved]
+
+
+52.239 [Reserved]
+
+
+52.239-1 Privacy or Security Safeguards.
+
+
+52.240 [Reserved]
+
+
+52.240-1 Prohibition on Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act-Covered Foreign Entities.
+
+
+52.241 Utility Services Provisions and Clauses.
+
+
+52.241-1 Electric Service Territory Compliance Representation.
+
+
+52.241-2 Order of Precedence-Utilities.
+
+
+52.241-3 Scope and Duration of Contract.
+
+
+52.241-4 Change in Class of Service.
+
+
+52.241-5 Contractor’s Facilities.
+
+
+52.241-6 Service Provisions.
+
+
+52.241-7 Change in Rates or Terms and Conditions of Service for Regulated Services.
+
+
+52.241-8 Change in Rates or Terms and Conditions of Service for Unregulated Services.
+
+
+52.241-9 Connection Charge.
+
+
+52.241-10 Termination Liability.
+
+
+52.241-11 Multiple Service Locations.
+
+
+52.241-12 Nonrefundable, Nonrecurring Service Charge.
+
+
+52.241-13 Capital Credits.
+
+
+52.242 [Reserved]
+
+
+52.242-1 Notice of Intent to Disallow Costs.
+
+
+52.242-2 Production Progress Reports.
+
+
+52.242-3 Penalties for Unallowable Costs.
+
+
+52.242-4 Certification of Final Indirect Costs.
+
+
+52.242-5 Payments to Small Business Subcontractors.
+
+
+52.242-6 [Reserved]
+
+
+52.242-7 [Reserved]
+
+
+52.242-8 [Reserved]
+
+
+52.242-9 [Reserved]
+
+
+52.242-10 [Reserved]
+
+
+52.242-11 [Reserved]
+
+
+52.242-12 [Reserved]
+
+
+52.242-13 Bankruptcy.
+
+
+52.242-14 Suspension of Work.
+
+
+52.242-15 Stop-Work Order.
+
+
+52.242-16 [Reserved]
+
+
+52.242-17 Government Delay of Work.
+
+
+52.243 [Reserved]
+
+
+52.243-1 Changes-Fixed-Price.
+
+
+52.243-2 Changes-Cost-Reimbursement.
+
+
+52.243-3 Changes-Time-and-Materials or Labor-Hours.
+
+
+52.243-4 Changes.
+
+
+52.243-5 Changes and Changed Conditions.
+
+
+52.243-6 Change Order Accounting.
+
+
+52.243-7 Notification of Changes.
+
+
+52.244 [Reserved]
+
+
+52.244-1 [Reserved]
+
+
+52.244-2 Subcontracts.
+
+
+52.244-3 [Reserved]
+
+
+52.244-4 Subcontractors and Outside Associates and Consultants (Architect-Engineer Services).
+
+
+52.244-5 Competition in Subcontracting.
+
+
+52.244-6 Subcontracts for Commercial Products and Commercial Services.
+
+
+52.245 [Reserved]
+
+
+52.245-1 Government Property.
+
+
+52.245-2 Government Property Installation Operation Services.
+
+
+52.245-3 [Reserved]
+
+
+52.245-4 [Reserved]
+
+
+52.245-5 [Reserved]
+
+
+52.245-6 [Reserved]
+
+
+52.245-7 [Reserved]
+
+
+52.245-8 [Reserved]
+
+
+52.245-9 Use and Charges.
+
+
+52.246 [Reserved]
+
+
+52.246-1 Contractor Inspection Requirements.
+
+
+52.246-2 Inspection of Supplies-Fixed-Price.
+
+
+52.246-3 Inspection of Supplies-Cost-Reimbursement.
+
+
+52.246-4 Inspection of Services-Fixed-Price.
+
+
+52.246-5 Inspection of Services-Cost-Reimbursement.
+
+
+52.246-6 Inspection-Time-and-Material and Labor-Hour.
+
+
+52.246-7 Inspection of Research and Development-Fixed-Price.
+
+
+52.246-8 Inspection of Research and Development-Cost-Reimbursement.
+
+
+52.246-9 Inspection of Research and Development (Short Form).
+
+
+52.246-10 [Reserved]
+
+
+52.246-11 Higher-Level Contract Quality Requirement.
+
+
+52.246-12 Inspection of Construction.
+
+
+52.246-13 Inspection-Dismantling, Demolition, or Removal of Improvements.
+
+
+52.246-14 Inspection of Transportation.
+
+
+52.246-15 Certificate of Conformance.
+
+
+52.246-16 Responsibility for Supplies.
+
+
+52.246-17 Warranty of Supplies of a Noncomplex Nature.
+
+
+52.246-18 Warranty of Supplies of a Complex Nature.
+
+
+52.246-19 Warranty of Systems and Equipment under Performance Specifications or Design Criteria.
+
+
+52.246-20 Warranty of Services.
+
+
+52.246-21 Warranty of Construction.
+
+
+52.246-22 [Reserved]
+
+
+52.246-23 Limitation of Liability.
+
+
+52.246-24 Limitation of Liability-High-Value Items.
+
+
+52.246-25 Limitation of Liability-Services.
+
+
+52.246-26 Reporting Nonconforming Items.
+
+
+52.247 [Reserved]
+
+
+52.247-1 Commercial Bill of Lading Notations.
+
+
+52.247-2 Permits, Authorities, or Franchises.
+
+
+52.247-3 Capability to Perform a Contract for the Relocation of a Federal Office.
+
+
+52.247-4 Inspection of Shipping and Receiving Facilities.
+
+
+52.247-5 Familiarization with Conditions.
+
+
+52.247-6 Financial Statement.
+
+
+52.247-7 Freight Excluded.
+
+
+52.247-8 Estimated Weights or Quantities Not Guaranteed.
+
+
+52.247-9 Agreed Weight-General Freight.
+
+
+52.247-10 Net Weight-General Freight.
+
+
+52.247-11 Net Weight-Household Goods or Office Furniture.
+
+
+52.247-12 Supervision, Labor, or Materials.
+
+
+52.247-13 Accessorial Services-Moving Contracts.
+
+
+52.247-14 Contractor Responsibility for Receipt of Shipment.
+
+
+52.247-15 Contractor Responsibility for Loading and Unloading.
+
+
+52.247-16 Contractor Responsibility for Returning Undelivered Freight.
+
+
+52.247-17 Charges.
+
+
+52.247-18 Multiple Shipments.
+
+
+52.247-19 Stopping in Transit for Partial Unloading.
+
+
+52.247-20 Estimated Quantities or Weights for Evaluation of Offers.
+
+
+52.247-21 Contractor Liability for Personal Injury and/or Property Damage.
+
+
+52.247-22 Contractor Liability for Loss of and/or Damage to Freight other than Household Goods.
+
+
+52.247-23 Contractor Liability for Loss of and/or Damage to Household Goods.
+
+
+52.247-24 Advance Notification by the Government.
+
+
+52.247-25 Government-Furnished Equipment With or Without Operators.
+
+
+52.247-26 Government Direction and Marking.
+
+
+52.247-27 Contract Not Affected by Oral Agreement.
+
+
+52.247-28 Contractor’s Invoices.
+
+
+52.247-29 F.o.b. Origin.
+
+
+52.247-30 F.o.b. Origin, Contractor’s Facility.
+
+
+52.247-31 F.o.b. Origin, Freight Allowed.
+
+
+52.247-32 F.o.b. Origin, Freight Prepaid.
+
+
+52.247-33 F.o.b. Origin, with Differentials.
+
+
+52.247-34 F.o.b. Destination.
+
+
+52.247-35 F.o.b. Destination, Within Consignee’s Premises.
+
+
+52.247-36 F.a.s. Vessel, Port of Shipment.
+
+
+52.247-37 F.o.b. Vessel, Port of Shipment.
+
+
+52.247-38 F.o.b. Inland Carrier, Point of Exportation.
+
+
+52.247-39 F.o.b. Inland Point, Country of Importation.
+
+
+52.247-40 Ex Dock, Pier, or Warehouse, Port of Importation.
+
+
+52.247-41 C.& f. Destination.
+
+
+52.247-42 C.i.f. Destination.
+
+
+52.247-43 F.o.b. Designated Air Carrier’s Terminal, Point of Exportation.
+
+
+52.247-44 F.o.b. Designated Air Carrier’s Terminal, Point of Importation.
+
+
+52.247-45 F.o.b. Origin and/or F.o.b. Destination Evaluation.
+
+
+52.247-46 Shipping Point(s) Used in Evaluation of F.o.b. Origin Offers.
+
+
+52.247-47 Evaluation-F.o.b. Origin.
+
+
+52.247-48 F.o.b. Destination-Evidence of Shipment.
+
+
+52.247-49 Destination Unknown.
+
+
+52.247-50 No Evaluation of Transportation Costs.
+
+
+52.247-51 Evaluation of Export Offers.
+
+
+52.247-52 Clearance and Documentation Requirements-Shipments to DoD Air or Water Terminal Transshipment Points.
+
+
+52.247-53 Freight Classification Description.
+
+
+52.247-54 [Reserved]
+
+
+52.247-55 F.o.b. Point for Delivery of Government-Furnished Property.
+
+
+52.247-56 Transit Arrangements.
+
+
+52.247-57 Transportation Transit Privilege Credits.
+
+
+52.247-58 Loading, Blocking, and Bracing of Freight Car Shipments.
+
+
+52.247-59 F.o.b. Origin-Carload and Truckload Shipments.
+
+
+52.247-60 Guaranteed Shipping Characteristics.
+
+
+52.247-61 F.o.b. Origin-Minimum Size of Shipments.
+
+
+52.247-62 Specific Quantities Unknown.
+
+
+52.247-63 Preference for U.S.-Flag Air Carriers.
+
+
+52.247-64 Preference for Privately Owned U.S.-Flag Commercial Vessels.
+
+
+52.247-65 F.o.b. Origin, Prepaid Freight-Small Package Shipments.
+
+
+52.247-66 Returnable Cylinders.
+
+
+52.247-67 Submission of Transportation Documents for Audit.
+
+
+52.247-68 Report of Shipment (REPSHIP).
+
+
+52.247-69 Reporting Requirement for U.S.-Flag Air Carriers Regarding Training to Prevent Human Trafficking.
+
+
+52.248 [Reserved]
+
+
+52.248-1 Value Engineering.
+
+
+52.248-2 Value Engineering-Architect-Engineer.
+
+
+52.248-3 Value Engineering-Construction.
+
+
+52.249 [Reserved]
+
+
+52.249-1 Termination for Convenience of the Government (Fixed-Price) (Short Form).
+
+
+52.249-2 Termination for Convenience of the Government (Fixed-Price).
+
+
+52.249-3 Termination for Convenience of the Government (Dismantling, Demolition, or Removal of Improvements).
+
+
+52.249-4 Termination for Convenience of the Government (Services) (Short Form).
+
+
+52.249-5 Termination for Convenience of the Government (Educational and Other Nonprofit Institutions).
+
+
+52.249-6 Termination (Cost-Reimbursement).
+
+
+52.249-7 Termination (Fixed-Price Architect-Engineer).
+
+
+52.249-8 Default (Fixed-Price Supply and Service).
+
+
+52.249-9 Default (Fixed-Price Research and Development).
+
+
+52.249-10 Default (Fixed-Price Construction).
+
+
+52.249-11 [Reserved]
+
+
+52.249-12 Termination (Personal Services).
+
+
+52.249-13 [Reserved]
+
+
+52.249-14 Excusable Delays.
+
+
+52.250 [Reserved]
+
+
+52.250-1 Indemnification Under Public Law85-804.
+
+
+52.250-2 SAFETY Act Coverage Not Applicable.
+
+
+52.250-3 SAFETY Act Block Designation/Certification.
+
+
+52.250-4 SAFETY Act Pre-qualification Designation Notice.
+
+
+52.250-5 SAFETY ActEquitable Adjustment.
+
+
+52.251 [Reserved]
+
+
+52.251-1 Government Supply Sources.
+
+
+52.251-2 Interagency Fleet Management System Vehicles and Related Services.
+
+
+52.252 [Reserved]
+
+
+52.252-1 Solicitation Provisions Incorporated by Reference.
+
+
+52.252-2 Clauses Incorporated by Reference.
+
+
+52.252-3 Alterations in Solicitation.
+
+
+52.252-4 Alterations in Contract.
+
+
+52.252-5 Authorized Deviations in Provisions.
+
+
+52.252-6 Authorized Deviations in Clauses.
+
+
+52.253 [Reserved]
+
+
+52.253-1 Computer Generated Forms.
+
+
+Subpart 52.3 - Provision and Clause Matrix
+
+
+52.300 Scope of subpart.
+
+
+52.301 Solicitation provisions and contract clauses (Matrix).
+
+
+52.000 Scope of part.Subpart 52.1 - Instructions for Using Provisions and ClausesSubpart 52.2 - Text of Provisions and ClausesSubpart 52.3 - Provision and Clause MatrixParent topic: Federal Acquisition Regulation

@@ -1,0 +1,8 @@
+Heading: 42.1202 Responsibility for executing agreements.
+Text: (a) (a)
+						            If any of the affected contracts held by the transferor have been assigned to an administrative contracting officer (ACO) (see 2.1 and 42.202), the responsible contracting officer shall be-
+(b) (b)
+						            If none of the affected contracts held by the transferor have been assigned to an ACO, the contracting officer responsible for the largest unsettled (unbilled plus billed but unpaid) dollar balance of contracts shall be the responsible contracting officer.
+(c) (c)
+						            If several transferors are involved, the responsible contracting officer shall be-
+

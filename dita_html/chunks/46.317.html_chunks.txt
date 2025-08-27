@@ -1,0 +1,18 @@
+Heading: 46.317 Reporting Nonconforming
+Items.
+Text: (a) (a) Except
+as provided in paragraph (b) of this section, the contracting officer
+shall insert the clause at 52.246-26, Reporting Nonconforming
+Items, in solicitations and contracts - as follows:
+(b) (b) The contracting
+officer shall not insert the clause at 52.246-26,
+Reporting Nonconforming Items, in solicitations and contracts when
+acquiring—
+(c) (c) If required
+by agency policy, the contracting officer may modify paragraph (b)(4)
+of the clause at 52.246-26, but only to change
+the responsibility for the contractor to submit reports to the agency
+rather than to Government-Industry Data Exchange Program (GIDEP),
+so that the agency instead of the contractor submits reports to
+GIDEP within the mandatory 60 days.
+

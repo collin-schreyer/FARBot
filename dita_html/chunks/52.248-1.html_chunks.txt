@@ -1,0 +1,25 @@
+Heading: 52.248-1 Value Engineering.
+Text: (a) (a)
+General. The Contractor is encouraged to develop, prepare, and submit value engineering change proposals (VECP’s) voluntarily. The Contractor shall share in any net acquisition savings realized from accepted VECP’s, in accordance with the incentive sharing rates in paragraph (f) of this clause.
+(b) (b)
+Definitions.
+(c) (c)
+VECP preparation. As a minimum, the Contractor shall include in each VECP the information described in paragraphs (c)(1) through (8) of this clause. If the proposed change is affected by contractually required configuration management or similar procedures, the instructions in those procedures relating to format, identification, and priority assignment shall govern VECP preparation. The VECP shall include the following:
+(d) (d)
+Submission. The Contractor shall submit VECP’s to the Contracting Officer, unless this contract states otherwise. If this contract is administered by other than the contracting office, the Contractor shall submit a copy of the VECP simultaneously to the Contracting Officer and to the Administrative Contracting Officer.
+(e) (e) Government action.
+(f) (f)
+Sharing rates. If a VECP is accepted, the Contractor shall share in net acquisition savings according to the percentages shown in the table below. The percentage paid the Contractor depends upon-
+(g) (g) Calculating net acquisition savings.
+(h) (h)
+Contract adjustment. The modification accepting the VECP (or a subsequent modification issued as soon as possible after any negotiations are completed) shall-
+(i) (i) Concurrent and future contract savings.
+(j) (j)
+Collateral savings. If a VECP is accepted, the Contracting Officer will increase the instant contract amount, as specified in paragraph (h)(5) of this clause, by a rate from 20 to 100 percent, as determined by the Contracting Officer, of any projected collateral savings determined to be realized in a typical year of use after subtracting any Government costs not previously offset. However, the Contractor’s share of collateral savings will not exceed the contract’s firm-fixed-price, target price, target cost, or estimated cost, at the time the VECP is accepted, or $100,000, whichever is greater. The Contracting Officer will be the sole determiner of the amount of collateral savings.
+(k) (k)
+Relationship to other incentives. Only those benefits of an accepted VECP not rewardable under performance, design-to-cost (production unit cost, operating and support costs, reliability and maintainability), or similar incentives shall be rewarded under this clause. However, the targets of such incentives affected by the VECP shall not be adjusted because of VECP acceptance. If this contract specifies targets but provides no incentive to surpass them, the value engineering sharing shall apply only to the amount of achievement better than target.
+(l) (l)
+Subcontracts. The Contractor shall include an appropriate value engineering clause in any subcontract-valued at or above the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, and may include one in subcontracts of lesser value. In calculating any adjustment in this contract’s price for instant contract savings (or negative instant contract savings), the Contractor’s allowable development and implementation costs shall include any subcontractor’s allowable development and implementation costs, and any value engineering incentive payments to a subcontractor, clearly resulting from a VECP accepted by the Government under this contract. The Contractor may choose any arrangement for subcontractor value engineering incentive payments, provided, that the payments shall not reduce the Government’s share of concurrent or future contract savings or collateral savings.
+(m) (m)
+Data. The Contractor may restrict the Government’s right to use any part of a VECP or the supporting data by marking the following legend on the affected parts:
+

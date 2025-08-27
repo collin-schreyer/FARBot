@@ -1,0 +1,8 @@
+Heading: 52.204-6 Unique Entity Identifier.
+Text: (a) (a)
+Definition. As used in this provision-
+(b) (b)
+						            The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation "Unique Entity Identifier" followed by the unique entity identifier that identifies the Offeror's name and address exactly as stated in the offer. The Offeror also shall enter its EFT indicator, if applicable.
+(c) (c)
+						            If the Offeror does not have a unique entity identifier, it should contact the entity designated at www.sam.gov for establishment of the unique entity identifier directly to obtain one. The Offeror should be prepared to provide the following information:
+

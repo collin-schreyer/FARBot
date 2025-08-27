@@ -1,0 +1,11 @@
+Heading: 1.404 Class deviations.
+Text: (a) (a)
+                  
+						            For civilian agencies except NASA, class deviations may be authorized by agency heads or their designees, unless 1.405(e) is applicable. Delegation of this authority shall not be made below the head of a contracting activity. Authorization of class deviations by agency officials is subject to the following limitations:
+(b) (b)
+                  
+						            For DoD, class deviations shall be controlled, processed, and approved in accordance with the Defense FAR Supplement.
+(c) (c)
+                  
+						            For NASA, class deviations shall be controlled and approved by the Assistant Administrator for Procurement. Deviations shall be processed in accordance with agency regulations.
+

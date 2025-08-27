@@ -1,0 +1,6 @@
+Heading: 49.115 Settlement of terminated incentive contracts.
+Text: (a) (a)
+Fixed-price incentive contracts. The TCO shall settle terminated fixed-price incentive (FPI) contracts under the provisions of paragraph (j) of the clause at 52.216-16, Incentive Price Revision-Firm Target, and 52.249-2, Termination for Convenience of the Government (Fixed-Price).
+(b) (b)
+Cost-plus-incentive-fee contracts. The TCO shall settle terminated cost-plus-incentive-fee contracts under the clause at 52.249-6, Termination (Cost-Reimbursement).
+

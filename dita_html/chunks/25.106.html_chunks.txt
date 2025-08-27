@@ -1,0 +1,11 @@
+Heading: 25.106 
+         Determining reasonableness of
+            cost.
+Text: (a) (a) The contracting officer-
+(b) (b)
+For end products that are not critical items and do not contain critical
+                        components.
+(c) (c)
+For end products that are critical items or contain critical
+                     components.
+

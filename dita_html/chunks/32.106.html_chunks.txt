@@ -1,0 +1,12 @@
+Heading: 32.106 Order of preference.
+Text: (a) (a)
+						            Private financing without Government guarantee. It is not intended, however, that the contracting officer require the contractor to obtain private financing-
+(b) (b)
+						            Customary contract financing other than loan guarantees and certain advance payments (see 32.113).
+(c) (c)
+						            Loan guarantees.
+(d) (d)
+						            Unusual contract financing (see 32.114).
+(e) (e)
+						            Advance payments (see exceptions in 32.402(b)).
+

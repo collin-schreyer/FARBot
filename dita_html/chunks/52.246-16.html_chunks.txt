@@ -1,0 +1,10 @@
+Heading: 52.246-16 Responsibility for Supplies.
+Text: (a) (a)
+						            Titleto supplies furnished under this contract shall pass to the Government upon formal acceptance, regardless of when or where the Government takes physical possession, unless the contract specifically provides for earlier passage of title.
+(b) (b)
+						            Unless the contract specifically provides otherwise, risk of loss of or damage to supplies shall remain with the Contractor until, and shall pass to the Government upon-
+(c) (c)
+						            Paragraph (b) of this clause shall not apply to supplies that so fail to conform to contract requirements as to give a right of rejection. The risk of loss of or damage to such nonconforming supplies remains with the Contractor until cure or acceptance. After cure or acceptance, paragraph (b) of this clause shall apply.
+(d) (d)
+						            Under paragraph (b) of this clause, the Contractor shall not be liable for loss of or damage to supplies caused by the negligence of officers, agents, or employees of the Government acting within the scope of their employment.
+

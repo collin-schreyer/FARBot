@@ -1,0 +1,6 @@
+Heading: 4.1004 Establishing subline items.
+Text: (a) (a)
+Deliverable subline items. Deliverable subline items may be used for several related items that require separate identification. For example, instead of establishing multiple separate line items, subline items may be established for-
+(b) (b)
+Informational subline items.
+

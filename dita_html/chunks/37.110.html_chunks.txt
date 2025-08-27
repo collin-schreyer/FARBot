@@ -1,0 +1,11 @@
+Heading: 37.110 Solicitation provisions and contract clauses.
+Text: (a) (a)
+						            The contracting officer shall insert the provision at 52.237-1, Site Visit, in solicitations for services to be performed on Government installations, unless the solicitation is for construction.
+(b) (b)
+						            The contracting officer shall insert the clause at 52.237-2, Protection of Government Buildings, Equipment, and Vegetation, in solicitations and contracts for services to be performed on Government installations, unless a construction contract is contemplated.
+(c) (c)
+						            The contracting officer may insert the clause at 52.237-3, Continuity of Services, in solicitations and contracts for services, when-
+(d) (d)
+						            See 9.508 regarding the use of an appropriate provision and clause concerning the subject of conflict-of-interest, which may at times be significant in solicitations and contracts for services.
+(e) (e) The contracting officer shall also insert in solicitations and contracts for services the provisions and clauses prescribed elsewhere in the FAR, as appropriate for each acquisition, depending on the conditions that are applicable.
+

@@ -1,0 +1,14 @@
+Heading: 32.402 General.
+Text: (a) (a)
+						            A limitation on authority to grant advance payments under Pub.L.85-804 (50 U.S.C. 1431-1435) is described at 50.102-3(b)(4).
+(b) (b)
+						            Advance payments may be provided on any type of contract; however, the agency shall authorize advance payments sparingly. Except for the contracts described in 32.403(a) and (b), advance payment is the least preferred method of contract financing (see 32.106) and generally they should not be authorized if other types of financing are reasonably available to the contractor in adequate amounts. Loans and credit at excessive interest rates or other exorbitant charges, or loans from other Government agencies, are not considered reasonably available financing.
+(c) (c)
+						            If statutory requirements and standards for advance payment determinations are met, the contracting officer shall generally recommend that the agency authorize advance payments.
+(d) (d)
+						            If necessary, the agency may authorize advance payments in addition to progress or partial payments on the same contract (see 32.501-1(c)).
+(e) (e)
+						            Each agency that provides advance payments shall-
+(f) (f)
+						            If the contract provides for advance payments under Pub.L.85-804, the contracting officer shall ensure conformance with the requirements of 50.103-7.
+

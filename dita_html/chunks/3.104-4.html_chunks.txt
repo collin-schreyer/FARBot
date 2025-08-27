@@ -1,0 +1,22 @@
+Heading: 3.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information.
+Text: (a) (a)
+                  
+						            Except as specifically provided for in this subsection, no person or other entity may disclose contractor bid or proposal information or source selection information to any person other than a person authorized, in accordance with applicable agency regulations or procedures, by the agency head or the contracting officer to receive such information.
+(b) (b)
+                  
+						            Contractor bid or proposal information and source selection information must be protected from unauthorized disclosure in accordance with 14.401, 15.207, applicable law, and agency regulations.
+(c) (c)
+                  
+						            Individuals unsure if particular information is source selection information, as defined in 2.101, should consult with agency officials as necessary. Individuals responsible for preparing material that may be source selection information as described at paragraph (10) of the "source selection information" definition in 2.101 must mark the cover page and each page that the individual believes contains source selection information with the legend "Source Selection Information-See FAR
+2.101
+and 3.104." Although the information in paragraphs (1) through (9) of the definition in 2.101 is considered to be source selection information whether or not marked, all reasonable efforts must be made to mark such material with the same legend.
+(d) (d)
+                  
+						            Except as provided in paragraph (d)(3) of this subsection, the contracting officer must notify the contractor in writing if the contracting officer believes that proprietary information, contractor bid or proposal information, or information marked in accordance with 52.215-1(e) has been inappropriately marked. The contractor that has affixed the marking must be given an opportunity to justify the marking.
+(e) (e)
+                  
+						            This section does not restrict or prohibit-
+(f) (f)
+                  
+						            This section does not authorize-
+

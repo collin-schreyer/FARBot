@@ -1,0 +1,12 @@
+Heading: 23.302 
+         Hazardous material identification and notice of material safety data.
+Text: (a) (a)
+						            The Occupational Safety and Health Administration (OSHA) is responsible for issuing and administering regulations that require Government activities to apprise their employees of-
+(b) (b) To accomplish this objective, it is necessary to obtain certain information relative to the hazards which may be introduced into the workplace by the supplies being acquired. Accordingly, offerors and contractors are required to submit hazardous materials data whenever the supplies being acquired are identified as hazardous materials. The latest version of Federal Standard No. 313 (Material Safety Data Sheet, Preparation and Submission of) includes criteria for identification of hazardous materials.
+(c) (c)
+						            Hazardous material data (Material Safety Data Sheets (MSDS)) are required-
+(d) (d)
+						            MSDS’s must be submitted-
+(e) (e)
+						            The contracting officer shall provide a copy of all MSDS’s received to the safety officer or other designated individual.
+

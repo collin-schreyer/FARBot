@@ -1,0 +1,6 @@
+Heading: 31.001 Definitions.
+Text: (a) (a) Basic research,
+(b) (b) Applied research,
+(c) (c) Development, and
+(d) (d) Systems and other concept formulation studies.
+

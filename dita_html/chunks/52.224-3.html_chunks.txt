@@ -1,0 +1,13 @@
+Heading: 52.224-3 Privacy Training.
+Text: (a) (a)
+Definition. As used in this clause, "personally identifiable information" means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual. (See Office of Management and Budget (OMB) Circular A-130, Managing Federal Information as a Strategic Resource).
+(b) (b)
+						            The Contractor shall ensure that initial privacy training, and annual privacy training thereafter, is completed by contractor employees who-
+(c) (c)
+(d) (d)
+						            The Contractor shall maintain and, upon request, provide documentation of completion of privacy training to the Contracting Officer.
+(e) (e)
+						            The Contractor shall not allow any employee access to a system of records, or permit any employee to create, collect, use, process, store, maintain, disseminate, disclose, dispose or otherwise handle personally identifiable information, or to design, develop, maintain, or operate a system of records unless the employee has completed privacy training, as required by this clause.
+(f) (f)
+						            The substance of this clause, including this paragraph (f), shall be included in all subcontracts under this contract, when subcontractor employees will-
+

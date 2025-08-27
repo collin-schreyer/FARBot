@@ -1,0 +1,12 @@
+Heading: 52.104 Procedures for modifying and completing provisions and clauses.
+Text: (a) (a)
+						            The contracting officer must not modify provisions and clauses unless the FAR authorizes their modification. For example-
+(b) (b)
+						            When modifying provisions or clauses incorporated by reference, insert the changed wording directly below the title of the provision or clause identifying to the lowest level necessary (e.g., paragraph, sentence, word), to clearly indicate what is being modified.
+(c) (c)
+						            When modifying provisions or clauses incorporated in full text, modify the language directly by substituting the changed wording as permitted.
+(d) (d)
+						            When completing blanks in provisions or clauses incorporated by reference, insert the fill-in information directly below the title of the provision or clause identifying to the lowest level necessary to clearly indicate the blanks being filled in.
+(e) (e)
+						            When completing blanks in provisions or clauses incorporated in full text, insert the fill-in information in the blanks of the provision or clause.
+

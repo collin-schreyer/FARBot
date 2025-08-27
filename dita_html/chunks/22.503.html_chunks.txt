@@ -1,0 +1,13 @@
+Heading: 22.503 
+         Policy.
+Text: (a) (a)
+                  
+                  Executive Order (E.O.) 14063, Use of Project Labor Agreements for Federal Construction Projects, requires agencies to use project labor agreements in large-scale construction projects to promote economy and efficiency in the administration and completion of Federal construction projects.
+(b) (b)
+                  
+                  When awarding a contract in connection with a large-scale construction project (see 22.502), agencies shall require use of project labor agreements for contractors and subcontractors engaged in construction on the project, unless an exception at 22.504(d) applies.
+(c) (c)
+                  
+                  An agency may require the use of a project labor agreement on projects where the total cost to the Federal Government is less than that for a large-scale construction project, if appropriate.
+(d) (d) For indefinite-delivery indefinite-quantity (IDIQ) contracts the use of a project labor agreement may be required on an order-by-order basis rather than for the entire contract. For an order at or above $35 million an agency shall require the use of a project labor agreement unless an exception applies. See 22.504(d)(3) and 22.505(b)(3).
+

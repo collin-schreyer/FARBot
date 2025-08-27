@@ -1,0 +1,7 @@
+Heading: 52.224-2 Privacy Act.
+Text: (a) (a)
+						            The Contractor agrees to-
+(b) (b)
+						            In the event of violations of the Act, a civil action may be brought against the agency involved when the violation concerns the design, development, or operation of a system of records on individuals to accomplish an agency function, and criminal penalties may be imposed upon the officers or employees of the agency when the violation concerns the operation of a system of records on individuals to accomplish an agency function. For purposes of the Act, when the contract is for the operation of a system of records on individuals to accomplish an agency function, the Contractor is considered to be an employee of the agency.
+(c) (c)
+

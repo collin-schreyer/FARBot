@@ -1,0 +1,23 @@
+Heading: 22.1903 Applicability.
+Text: (a) (a)
+                  This subpart applies to
+contracts covered by the Service Contract Labor Standards statute
+(41 U.S.C. chapter 67,
+formerly known as the Service Contract Act, subpart  22.10),
+or the Wage Rate Requirements (Construction) statute (40 U.S.C. chapter 31, Subchapter IV,
+formerly known as the Davis Bacon Act, subpart  22.4), that
+require performance in whole or in part within the United States
+(the 50 States, the District of Columbia, Puerto Rico, the Northern
+Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands,
+Johnston Island, Wake Island, and the outer Continental Shelf as
+defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331, et seq.)).
+When performance is in part within and in part outside the United
+States, this subpart applies to the part of the contract that is
+performed within the United States.
+(b) (b)
+(c) (c) Agency
+Labor Advisors, as defined at 22.001,
+are listed at https://www.sam.gov, and are available
+to provide guidance and assistance with the application of this
+subpart.
+

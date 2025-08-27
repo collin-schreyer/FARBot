@@ -1,0 +1,13 @@
+Heading: 19.705-2 Determining the need for a subcontracting plan.
+Text: (a) (a)
+(b) (b)
+						            Determine whether subcontracting possibilities exist by considering relevant factors such as-
+(c) (c)
+						            If it is determined that there are no subcontracting possibilities, the determination shall include a detailed rationale, be approved at a level above the contracting officer, and placed in the contract file.
+(d) (d)
+						            In solicitations for negotiated acquisitions, the contracting officer may require the submission of subcontracting plans with initial offers, or at any other time prior to award. In determining when subcontracting plans should be required, as well as when and with whom plans should be negotiated, the contracting officer must consider the integrity of the competitive process, the goal of affording maximum practicable opportunity for small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns to participate, and the burden placed on offerors.
+(e) (e)
+						            A contract may not have more than one subcontracting plan. However, a contracting officer may establish separate subcontracting goals for each order under an indefinite-delivery, indefinite-quantity contract (19.705-1(b)(2)). When a contract modification exceeds the subcontracting plan threshold (see 19.702(a)) or an option is exercised, the goals of an existing subcontracting plan shall be amended to reflect any new subcontracting opportunities not envisioned at the time of contract award. These goal changes do not apply retroactively.
+(f) (f)
+						            If a subcontracting plan has been added to the contract due to a modification (see 19.702(a)(1)(iii)) or a size re-representation (see 19.301-2(e)), the subcontracting goals apply from the date of incorporation of the subcontracting plan into the contract and the contractor's achievements must be reported on the ISR (or the SF-294, if applicable) on a cumulative basis from the date of incorporation of the subcontracting plan into the contract.
+

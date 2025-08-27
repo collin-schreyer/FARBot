@@ -1,0 +1,8 @@
+Heading: 4.1403 Contract clause.
+Text: (a) (a)
+                  
+						            Except as provided in paragraph (b) of this section, the contracting officer shall insert the clause at 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards, in all solicitations and contracts of $30,000 or more.
+(b) (b)
+                  
+						            The clause is not prescribed for contracts that are not required to be reported in the Federal Procurement Data System (FPDS) (see subpart  4.6).
+

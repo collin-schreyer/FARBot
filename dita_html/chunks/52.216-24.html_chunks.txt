@@ -1,0 +1,5 @@
+Heading: 52.216-24 Limitation of Government Liability.
+Text: (a) (a) In performing this contract, the Contractor is not authorized to make expenditures or incur obligations exceeding __________ dollars.
+(b) (b)
+						            The maximum amount for which the Government shall be liable if this contract is terminated is ___________ dollars.
+

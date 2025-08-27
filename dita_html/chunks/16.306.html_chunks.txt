@@ -1,0 +1,11 @@
+Heading: 16.306 Cost-plus-fixed-fee contracts.
+Text: (a) (a)
+Description. A cost-plus-fixed-fee contract is a cost-reimbursement contract that provides for payment to the contractor of a negotiated fee that is fixed at the inception of the contract. The fixed fee does not vary with actual cost, but may be adjusted as a result of changes in the work to be performed under the contract. This contract type permits contracting for efforts that might otherwise present too great a risk to contractors, but it provides the contractor only a minimum incentive to control costs.
+(b) (b)
+                  
+						            Application.
+(c) (c)
+Limitations. No cost-plus-fixed-fee contract shall be awarded unless the contracting officer complies with all limitations in 15.404-4(c)(4)(i) and 16.301-3.
+(d) (d)
+Completion and term forms. A cost-plus-fixed-fee contract may take one of two basic forms-completion or term.
+

@@ -1,0 +1,16 @@
+Heading: 32.1110 Solicitation provision and contract clauses.
+Text: (a) (a)
+						            The contracting officer shall insert the clause at-
+(b) (b)
+						            If the head of the agency has authorized, in accordance with 32.1106, to use a nondomestic EFT mechanism, the contracting officer shall insert in solicitations and contracts a clause substantially the same as 52.232-33 or 52.232-34 that clearly addresses the nondomestic EFT mechanism.
+(c) (c)
+						            If EFT information is to be submitted to other than the payment office in accordance with agency procedures, the contracting officer shall insert in solicitations and contracts the clause at 52.232-35, Designation of Office for Government Receipt of Electronic Funds Transfer Information, or a clause substantially the same as 52.232-35 that clearly informs the contractor where to send the EFT information.
+(d) (d)
+						            If payment under a written contract will be made by a charge to a Government account with a third party such as a Governmentwide commercial purchase card, then the contracting officer shall insert the clause at 52.232-36, Payment by Third Party, in solicitations and contracts. Payment by a purchase card may also be made under a contract that does not contain the clause at 52.232-36, to the extent the contractor agrees to accept that method of payment. When the clause at 52.232-36 is included in a solicitation or contract, the contracting officer shall also insert the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate.
+(e) (e)
+						            If the contract or agreement provides for the use of delivery orders, and provides that the ordering office designate the method of payment for individual orders, the contracting officer shall insert, in the solicitation and contract or agreement, the clause at 52.232-37, Multiple Payment Arrangements, and, to the extent they are applicable, the clauses at-
+(f) (f)
+						            If more than one disbursing office will make payment under a contract or agreement, the contracting officer, or ordering office (if the contract provides for choices between EFT clauses on individual orders or classes of orders), shall include or identify the EFT clause appropriate for each office and shall identify the applicability by disbursing office and line item.
+(g) (g)
+						            If the solicitation contains the clause at 52.232-34, Payment by Electronic Funds Transfer-Other than System for Award Management, and an offeror is required to submit EFT information prior to award-
+

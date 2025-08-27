@@ -1,0 +1,6 @@
+Heading: 36.301 Use of two-phase design-build selection procedures.
+Text: (a) (a)
+						            During formal or informal acquisition planning (see part  7), if considering the use of two-phase design-build selection procedures, the contracting officer shall conduct the evaluation in paragraph (b) of this section.
+(b) (b)
+						            The two-phase design-build selection procedures shall be used when the contracting officer determines that this method is appropriate, based on the following:
+

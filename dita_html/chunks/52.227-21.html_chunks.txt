@@ -1,0 +1,8 @@
+Heading: 52.227-21 Technical Data Declaration, Revision, and Withholding of Payment-Major Systems.
+Text: (a) (a)
+Scope of declaration. The Contractor shall provide, in accordance with 41 U.S.C. 2302(e)(7), the following declaration with respect to all technical data that relate to a major system and that are delivered or required to be delivered under this contract or that are delivered within 3 years after acceptance of all items (other than technical data) delivered under this contract unless a different period is set forth in the contract. The Contracting Officer may release the Contractor from all or part of the requirements of this clause for specifically identified technical data items at any time during the period covered by this clause.
+(b) (b) Technical data declaration.
+(c) (c)
+Technical data revision. The Contractor also shall, at the request of the Contracting Officer, revise technical data that are subject to this clause to reflect engineering design changes made during the performance of this contract and affecting the form, fit, and function of any item (other than technical data) delivered under this contract. The Contractor may submit a request for an equitable adjustment to the terms and conditions of this contract for any revisions to technical data made pursuant to this paragraph.
+(d) (d) Withholding of payment.
+

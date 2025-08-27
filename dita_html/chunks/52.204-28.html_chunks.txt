@@ -1,0 +1,9 @@
+Heading: 52.204-28 
+         Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts.
+Text: (a) (a)
+Definitions. As used in this clause—
+(b) (b)
+Notice. During contract performance, the Contractor shall be required to comply with any of the following that apply: DHS FASCSA orders, DoD FASCSA orders, or DNI FASCSA orders. The applicable FASCSA order(s) will be identified in the request for quotation (see 8.405-2), or in the notice of intent to place an order (see 16.505(b)). FASCSA orders will be identified in paragraph (b)(1) of FAR 52.204-30, Federal Acquisition Supply Chain Security Act Orders—Prohibition, with its Alternate II.
+(c) (c)
+Removal. Upon notification from the contracting officer, during the performance of the contract, the Contractor shall promptly make any necessary changes or modifications to remove any covered article or any product or service produced or provided by a source that is subject to an applicable Governmentwide FASCSA order (see FAR 4.2303(b)).
+

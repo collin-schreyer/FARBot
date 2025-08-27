@@ -1,0 +1,12 @@
+Heading: 39.201 Scope of subpart.
+Text: (a) (a)
+                  This subpart implements
+section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), and
+the Architectural and Transportation Barriers Compliance Board's
+(U.S. Access Board) information and communication technology (ICT) accessibility
+standards at 36 CFR 1194.1.
+(b) (b) Further
+information on Section 508 is available via the Internet at http://www.section508.gov.
+(c) (c) When acquiring ICT, agencies must
+ensure that—
+

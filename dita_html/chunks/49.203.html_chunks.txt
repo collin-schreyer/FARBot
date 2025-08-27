@@ -1,0 +1,8 @@
+Heading: 49.203 Adjustment for loss.
+Text: (a) (a)
+						            In the negotiation or determination of any settlement, the TCO shall not allow profit if it appears that the contractor would have incurred a loss had the entire contract been completed. The TCO shall negotiate or determine the amount of loss and make an adjustment in the amount of settlement as specified in paragraph (b) or (c) of this section. In estimating the cost to complete, the TCO shall consider expected production efficiencies and other factors affecting the cost to complete.
+(b) (b)
+						            If the settlement is on an inventory basis (see 49.206-2(a)), the contractor shall not be paid more than the total of the amounts in paragraphs (b)(1), (2), and (3) of this section, less all disposal credits and all unliquidated advance and progress payments previously made under the contract:
+(c) (c)
+						            If the settlement is on a total cost basis (see 49.206-2(b)), the contractor shall not be paid more than the total of the amounts in paragraphs (c)(1) and (2) of this section, less all disposal and other credits, all advance and progress payments, and all other amounts previously paid under the contract:
+

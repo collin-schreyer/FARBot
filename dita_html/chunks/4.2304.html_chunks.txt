@@ -1,0 +1,17 @@
+Heading: 4.2304 
+         Procedures.
+Text: (a) (a)
+Identifying applicable FASCSA orders. The applicability of FASCSA orders to a particular acquisition depends on the contracting office's agency, the scope of the FASCSA order, the funding, and whether the requirement involves certain types of information systems (see the definition of FASCSA order at 4.2301). The contracting officer shall coordinate with the program office or requiring activity to identify the FASCSA order(s) that apply to the acquisition as follows:
+(b) (b)
+                  Federal Supply Schedules, Governmentwide acquisition contracts, multi-agency contracts specific procedures—
+(c) (c)
+Updating the solicitation or contract for new FASCSA orders. The contracting officer shall update a solicitation or contract if the program office or requiring activity determines it is necessary to:
+(d) (d)
+Agency specific procedures. The contracting officer shall follow agency procedures for implementing FASCSA orders not identified in SAM (see 4.2303(c)(2)).
+(e) (e)
+Disclosures. If an offeror provides a disclosure pursuant to paragraph (e) of 52.204-29, Federal Acquisition Supply Chain Security Act Orders—Representation and Disclosures, the contracting officer shall engage with the program office or requiring activity to determine whether to pursue a waiver, if available, in accordance with 4.2305 and agency procedures or not award to that offeror. For FASCSA orders handled at the order level, the disclosures language is found at paragraph (b)(5) of 52.204-30, Federal Acquisition Supply Chain Security Act Orders—Prohibition, with its Alternate II.
+(f) (f)
+Waiver. An acquisition may be either fully or partially covered by a waiver. Partial waiver coverage occurs when only portions of the products or services being procured or provided by a source are covered by an applicable waiver. If the requiring activity notifies the contracting officer that the acquisition is partially covered by an approved individual waiver or class waiver under 4.2305, then the contracting officer shall work with the program office or requiring activity to identify in the solicitation, RFQ, or order, the covered articles or services produced by or provided by a source that are subject to the waiver (see 41 CFR 201–1.304(b)).
+(g) (g)
+Reporting. If a contractor provides a report pursuant to paragraph (c) of 52.204-30, Federal Acquisition Supply Chain Security Act Orders—Prohibition, the contracting officer shall engage with the agency supply chain risk management program in accordance with agency procedures.
+

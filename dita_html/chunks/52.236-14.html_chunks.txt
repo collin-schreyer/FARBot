@@ -1,0 +1,6 @@
+Heading: 52.236-14 Availability and Use of Utility Services.
+Text: (a) (a)
+						            The Government shall make all reasonably required amounts of utilities available to the Contractor from existing outlets and supplies, as specified in the contract. Unless otherwise provided in the contract, the amount of each utility service consumed shall be charged to or paid for by the Contractor at prevailing rates charged to the Government or, where the utility is produced by the Government, at reasonable rates determined by the Contracting Officer. The Contractor shall carefully conserve any utilities furnished without charge.
+(b) (b)
+						            The Contractor, at its expense and in a workmanlike manner satisfactory to the Contracting Officer, shall install and maintain all necessary temporary connections and distribution lines, and all meters required to measure the amount of each utility used for the purpose of determining charges. Before final acceptance of the work by the Government, the Contractor shall remove all the temporary connections, distribution lines, meters, and associated paraphernalia.
+

@@ -1,0 +1,8 @@
+Heading: 28.103-2 Performance bonds.
+Text: (a) (a)
+						            Performance bonds may be required for contracts exceeding the simplified acquisition threshold when necessary to protect the Government’s interest. The following situations may warrant a performance bond:
+(b) (b)
+						            The Government may require additional performance bond protection when a contract price is increased.
+(c) (c)
+						            The contracting officer must determine the contractor’s responsibility (see subpart  9.1) even though a bond has been or can be obtained.
+

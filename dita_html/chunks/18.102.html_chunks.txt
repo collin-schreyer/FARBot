@@ -1,0 +1,8 @@
+Heading: 18.102 System for Award Management.
+Text: (a) (a)
+						            In accordance with 4.1102, contractors are not required to be registered in the System for Award Management (SAM) at the time of submission of offers or quotations for—
+(b) (b)
+						            However, contractors are required to be registered in SAM in order to gain access to the Disaster Response Registry.
+(c) (c)
+						            Contracting officers shall consult the Disaster Response Registry via https://www.sam.gov., Search Records, Advanced Search, Disaster Response Registry Search to determine the availability of contractors for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205).
+

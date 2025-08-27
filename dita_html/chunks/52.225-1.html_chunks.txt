@@ -1,0 +1,24 @@
+Heading: 52.225-1 Buy American-Supplies
+Text: (a) (a)
+Definitions.
+As used in this clause—
+(b) (b)
+41 U.S.C. chapter 83,
+Buy American, provides a preference for domestic end products for
+supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the
+domestic content test of the Buy American statute is waived for
+an end product that is a COTS item (see 12.505(a)(1)), except
+that for an end product that consists wholly or predominantly of
+iron or steel or a combination of both, the domestic content test
+is applied only to the iron and steel content of the end product,
+excluding COTS fasteners.
+(c) (c)
+                   Offerors
+may obtain from the Contracting Officer a list of foreign articles
+that the Contracting Officer will treat as domestic for this contract.
+(d) (d)
+                   The Contractor
+shall deliver only domestic end products except to the extent that
+it specified delivery of foreign end products in the provision of
+the solicitation entitled "Buy American Certificate."
+

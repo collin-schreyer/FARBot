@@ -1,0 +1,6 @@
+Heading: 37.502 Exclusions.
+Text: (a) (a)
+						            This subpart does not apply to services that are-
+(b) (b)
+						            Services obtained under contracts below the simplified acquisition threshold and services incidental to supply contracts also are excluded from the requirements of this subpart. However, good management practices and contract administration techniques should be used regardless of the contracting method.
+

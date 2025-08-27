@@ -1,0 +1,10 @@
+Heading: 46.803 Policy.
+Text: (a) (a)
+General. The Government will generally act as a self-insurer by relieving contractors, as specified in this subpart, of liability for loss of or damage to property of the Government that (1) occurs after acceptance of supplies delivered or services performed under a contract and (2) results from defects or deficiencies in the supplies or services. However, the Government will not relieve the contractor of liability for loss of or damage to the contract end item itself, except for high-value items.
+(b) (b)
+High-value items. In contracts requiring delivery of high-value items, the Government will relieve contractors of contractual liability for loss of or damage to those items. However, this relief shall not limit the Government’s rights arising under the contract to-
+(c) (c)
+Exception. The Government will not provide contractual relief under paragraphs (a) and (b) of this section when contractor liability can be preserved without increasing the contract price.
+(d) (d)
+Limitations. Subject to the specific terms of the limitation of liability clause included in the contract, the relief provided under paragraphs (a) and (b) of this section does not apply-
+

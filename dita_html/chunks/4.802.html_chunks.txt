@@ -1,0 +1,20 @@
+Heading: 4.802 Contract files.
+Text: (a) (a)
+                  
+						            A contract file should generally consist of-
+(b) (b)
+                  
+						            Normally, each file should be kept separately; however, if appropriate, any or all of the files may be combined; e.g., if all functions or any combination of the functions are performed by the same office.
+(c) (c)
+                  
+						            Files must be maintained at organizational levels that ensure-
+(d) (d)
+                  
+						            If the contract files or file segments are decentralized (e.g., by type or function) to various organizational elements or to other outside offices, responsibility for their maintenance must be assigned. A central control and, if needed, a locator system should be established to ensure the ability to locate promptly any contract files.
+(e) (e)
+                  
+						            Contents of contract files that are contractor bid or proposal information or source selection information as defined in 2.101 must be protected from disclosure to unauthorized persons (see 3.104-4).
+(f) (f)
+                  
+						            Agencies may retain contract files in any medium (paper, electronic, microfilm, etc.) or any combination of media, as long as the requirements of this subpart are satisfied.
+

@@ -1,0 +1,30 @@
+Heading: 13.005 List of laws inapplicable
+to contracts and subcontracts at or below the simplified acquisition threshold.
+Text: (a) (a)
+                   The following laws are inapplicable
+to all contracts and subcontracts (if otherwise applicable to subcontracts)
+at or below the simplified acquisition threshold pursuant to 41 U.S.C. 1905:
+(b) (b)
+                  
+                  The Federal Acquisition
+Regulatory Council (FAR Council) will include any law enacted after
+October 13, 1994, that sets forth policies, procedures, requirements,
+or restrictions for the acquisition of property or services, on
+the list set forth in paragraph (a) of this section. The FAR Council
+may make exceptions when it determines in writing that it is in the
+best interest of the Government that the enactment should apply
+to contracts or subcontracts not greater than the simplified acquisition
+threshold.
+(c) (c)
+                   The provisions
+of paragraph (b) of this section do not apply to laws that-
+(d) (d)
+                   Any individual
+may petition the Administrator, Office of Federal Procurement Policy
+(OFPP), to include any applicable provision of law not included
+on the list set forth in paragraph (a) of this section unless the
+FAR Council has already determined in writing that the law is applicable.
+The Administrator, OFPP, will include the law on the list in paragraph (a)
+of this section unless the FAR Council makes a determination that
+it is applicable within 60 days of receiving the petition.
+

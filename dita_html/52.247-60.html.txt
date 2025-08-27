@@ -1,0 +1,80 @@
+52.247-60 Guaranteed Shipping Characteristics.
+
+
+52.247-60 Guaranteed Shipping Characteristics.
+
+As prescribed in 
+47.305-16(b)(1), insert the following clause:
+
+Guaranteed Shipping Characteristics (Aug 2025)
+
+
+(a) The offeror is requested to complete paragraph (a)(1) of this clause, for each part or component which is packed or packaged separately. This information will be used to determine transportation costs for evaluation purposes. If the offeror does not furnish sufficient data in paragraph (a)(1) of this clause, to permit determination by the Government of the item shipping costs, evaluation will be based on the shipping characteristics submitted by the offeror whose offer produces the highest transportation costs or in the absence thereof, by the Contracting Officer’s best estimate of the actual transportation costs. If the item shipping costs, based on the actual shipping characteristics, exceed the item shipping costs used for evaluation purposes, the Contractor agrees that the contract price shall be reduced by an amount equal to the difference between the transportation costs actually incurred, and the costs which would have been incurred
+                  if the evaluated shipping characteristics had been accurate.
+
+(1) To be completed by the offeror:
+
+(i)
+Type of container: Wood Box □, Fiber Box □, Barrel □, Reel □, Drum □, Other (Specify) _____;
+
+(ii)
+Shipping configuration: Knocked-down □, Set-up □, Nested □, Other (specify) _____;
+
+(iii)
+Size of container: _____" (Length), x_____" (Width), x_____" (Height) = _____ Cubic Ft;
+
+(iv) Number of items per container _____ each;
+
+(v) Gross weight of container and contents _____ Lbs;
+
+(vi) Palletized/skidded □ Yes, □ No;
+
+(vii) Number of containers per pallet/skid _____;
+
+(viii) Weight of empty pallet bottom/skid and sides _____ Lbs;
+
+(ix) Size of pallet/skid and contents _____ Lbs Cube _____;
+
+(x)
+Number of containers or pallets/skids per railcar _____ *
+
+
+(A)
+Size of railcar _____
+
+
+
+(B)
+Type of railcar _____
+
+
+
+(xi)
+Number of containers or pallets/skids per trailer _____*
+
+
+(A)
+Size of trailer _____ Ft
+
+
+(B)
+Type of trailer _____
+
+
+
+* Number of complete units (line item) to be shipped in carrier’s equipment.
+
+
+(2) To be completed by the Government after evaluation but before contract award:
+
+(i) Rate used in evaluation _____;
+
+(ii) Tender/Tariff _____;
+
+(iii) Item _____.
+
+(b) The guaranteed shipping characteristics requested in paragraph (a)(1) of this clause do not establish actual transportation requirements, which are specified elsewhere in this solicitation. The guaranteed shipping characteristics will be used only for the purpose of evaluating offers and establishing any liability of the successful offeror for increased transportation costs resulting from actual shipping characteristics which differ from those used for evaluation in accordance with paragraph (a) of this clause.
+
+(End of clause)
+
+Parent topic: 52.247 [Reserved]

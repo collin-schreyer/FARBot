@@ -1,0 +1,20 @@
+Heading: 31.205-16 Gains and losses on disposition or impairment of depreciable property or other capital assets.
+Text: (a) (a)
+						            Gains and losses from the sale, retirement, or other disposition (but see 31.205-19) of depreciable property shall be included in the year in which they occur as credits or charges to the cost grouping(s) in which the depreciation or amortization applicable to those assets was included (but see paragraph (f) of this subsection). However, no gain or loss shall be recognized as a result of the transfer of assets in a business combination (see 31.205-52).
+(b) (b)
+						            Notwithstanding the provisions in paragraph (c) of this subsection, when costs of depreciable property are subject to the sale and leaseback limitations in 31.205-11(h)(1) or 31.205-36(b)(2)-
+(c) (c)
+						            Gains and losses on disposition of tangible capital assets, including those acquired under capital leases (see 31.205-11(h)), shall be considered as adjustments of depreciation costs previously recognized. The gain or loss for each asset disposed of is the difference between the net amount realized, including insurance proceeds from involuntary conversions, and its undepreciated balance.
+(d) (d)
+						            The gain recognized for contract costing purposes shall be limited to the difference between the acquisition cost (or for assets acquired under a capital lease, the value at which the leased asset is capitalized) of the asset and its undepreciated balance (except see paragraphs (e)(2)(i) or (ii) of this subsection).
+(e) (e)
+						            Special considerations apply to an involuntary con-version which occurs when a contractor’s property is destroyed by events over which the owner has no control, such as fire, windstorm, flood, accident, theft, etc., and an insurance award is recovered. The following govern involuntary conversions:
+(f) (f)
+						            Gains and losses on the disposition of depreciable property shall not be recognized as a separate charge or credit when-
+(g) (g)
+						            Gains and losses arising from mass or extraordinary sales, retirements, or other disposition other than through business combinations shall be considered on a case-by-case basis.
+(h) (h)
+						            Gains and losses of any nature arising from the sale or exchange of capital assets other than depreciable property shall be excluded in computing contract costs.
+(i) (i)
+						            With respect to long-lived tangible and identifiable intangible assets held for use, no loss shall be allowed for a write-down from carrying value to fair value as a result of impairments caused by events or changes in circumstances (e.g., environmental damage, idle facilities arising from a declining business base, etc.). If depreciable property or other capital assets have been written down from carrying value to fair value due to impairments, gains or losses upon disposition shall be the amounts that would have been allowed had the assets not been written down.
+

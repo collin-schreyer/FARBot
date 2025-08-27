@@ -1,0 +1,25 @@
+Heading: 14.503-1 Step one.
+Text: (a) (a)
+                  
+						            Requests for technical proposals shall be synopsized in accordance with part  5. The request must include, as a minimum, the following:
+(b) (b)
+                  
+						            Information on delivery or performance requirements may be of assistance to bidders in determining whether or not to submit a proposal and may be included in the request. The request shall also indicate that the information is not binding on the Government and that the actual delivery or performance requirements will be contained in the invitation issued under step two.
+(c) (c)
+                  
+						            Upon receipt, the contracting officer shall-
+(d) (d)
+                  
+						            The contracting officer shall establish a time period for evaluating technical proposals. The period may vary with the complexity and number of proposals involved. However, the evaluation should be completed quickly.
+(e) (e)
+(f) (f)
+(g) (g)
+                  
+						            When a technical proposal is found unacceptable (either initially or after clarification), the contracting officer shall promptly notify the offeror of the basis of the determination and that a revision of the proposal will not be considered. Upon written request, the contracting officer shall debrief unsuccessful offerors (see 15.505 and 15.506).
+(h) (h)
+                  
+						            Late technical proposals are governed by 15.208(b), (c), and (f).
+(i) (i)
+                  
+						            If it is necessary to discontinue two-step sealed bidding, the contracting officer shall include a statement of the facts and circumstances in the contract file. Each offeror shall be notified in writing. When step one results in no acceptable technical proposal or only one acceptable technical proposal, the acquisition may be continued by negotiation.
+

@@ -1,0 +1,21 @@
+Heading: 19.302 Protesting a small business representation or rerepresentation.
+Text: (a) (a)
+(b) (b)
+                  
+						            Any time after offers are received by the contracting officer, or in the case of bids, opened, the contracting officer may question the small business representation of any offeror in a specific offer by filing a contracting officer's protest (see paragraph (c) of this section).
+(c) (c)
+(d) (d)
+                  In order to affect a specific solicitation, a protest must be timely. SBA's regulations on timeliness are contained in 13 CFR 121.1004. SBA's regulations on timeliness related to protests of disadvantaged status are contained in 13 CFR part 124, subpart B.
+(e) (e)
+                  
+						            Upon receipt of a protest from or forwarded by the Contracting Office, the SBA will-
+(f) (f)
+(g) (g)
+(h) (h)
+                  
+						            An appeal from an SBA size determination may be filed by any concern or other interested party whose protest of the small business representation of another concern has been denied by an SBA Government Contracting Area Director, any concern or other interested party that has been adversely affected by an SBA Government Contracting Area Director’s decision, or the SBA Associate Administrator for the SBA program involved. The appeal must be filed with the Office of Hearings and Appeals, Small Business Administration, Suite 5900, 409 3 rd Street, SW., Washington, DC 20416, within the time limits and in strict accordance with the procedures contained in Subpart C of 13 CFR 134. It is within the discretion of the SBA Judge whether to accept an appeal from a size determination. If a post-award appeal is submitted to OHA within the time limits specified in Subpart C of 13 CFR 134, the contracting officer shall consider suspending contract performance until an SBA Judge decides the appeal. SBA will inform the contracting officer of its ruling on the appeal. SBA’s decision, if received before award, will apply to the pending acquisition. If the contracting officer has made a written determination in accordance with (g)(1) or (2) of this section, the contract has been awarded, the SBA rulings is received after award, and OHA finds the protested concern to be ineligible for award, the contracting officer shall terminate the contract unless termination is not in the best interests of the Government, in keeping with the circumstances described in the written determination. However, the contracting officer shall not exercise any options or award further task or delivery orders.
+(i) (i)
+                  
+						            SBA will dismiss untimely protests. A protest that is not timely, even though received before award, shall be forwarded to the SBA Government Contracting Area Office (see paragraph (c)(1) of this section), with a notation on it that the protest is not timely. A protest received by a contracting officer after award of a contract shall be forwarded to the SBA Government Contracting Area Office with a notation that award has been made.
+(j) (j) When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Postaward Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract.
+

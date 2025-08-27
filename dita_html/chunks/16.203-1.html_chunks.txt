@@ -1,0 +1,8 @@
+Heading: 16.203-1 Description.
+Text: (a) (a)
+                  
+						            A fixed-price contract with economic price adjustment provides for upward and downward revision of the stated contract price upon the occurrence of specified contingencies. Economic price adjustments are of three general types:
+(b) (b)
+                  
+						            The contracting officer may use a fixed-price contract with economic price adjustment in conjunction with an award-fee incentive (see 16.404) and performance or delivery incentives (see 16.402-2 and 16.402-3) when the award fee or incentive is based solely on factors other than cost. The contract type remains fixed-price with economic price adjustment when used with these incentives.
+

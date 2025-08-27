@@ -1,0 +1,6 @@
+Heading: 31.201-3 Determining reasonableness.
+Text: (a) (a)
+						            A cost is reasonable if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business. Reasonableness of specific costs must be examined with particular care in connection with firms or their separate divisions that may not be subject to effective competitive restraints. No presumption of reasonableness shall be attached to the incurrence of costs by a contractor. If an initial review of the facts results in a challenge of a specific cost by the contracting officer or the contracting officer’s representative, the burden of proof shall be upon the contractor to establish that such cost is reasonable.
+(b) (b)
+						            What is reasonable depends upon a variety of considerations and circumstances, including-
+

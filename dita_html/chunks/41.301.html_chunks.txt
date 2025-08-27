@@ -1,0 +1,10 @@
+Heading: 41.301 Requirements.
+Text: (a) (a)
+						            Requests for delegations of GSA contracting authority assistance with a proposed contract as provided in 41.203, and the submission of other information required by this part, shall be sent or submitted to the General Services Administration (GSA) region in which service is required. The names and locations of GSA regional offices are available from the:
+(b) (b)
+						            Requests for contracting assistance for utility services shall be sent not later than 120 days prior to the date new services are required to commence or an existing contract will expire. Requests for assistance shall contain the following information:
+(c) (c)
+						            For new utility service requirements, the agency shall furnish the information in paragraph (a) of this section and the following as applicable:
+(d) (d)
+						            For existing utility service, the agency shall furnish GSA the information in paragraph (b) of this section and the following, as applicable:
+

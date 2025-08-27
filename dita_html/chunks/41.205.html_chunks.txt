@@ -1,0 +1,10 @@
+Heading: 41.205 Separate contracts.
+Text: (a) (a)
+						            In the absence of an areawide contract or interagency agreement (see 41.206), agencies shall acquire utility services by separate contract subject to this part, and subject to agency contracting authority.
+(b) (b)
+						            If an agency enters into a separate contract, the contracting officer shall document the contract file with the following information:
+(c) (c)
+						            If requesting GSA	assistance with a separate contract, the requesting agency shall furnish the	technical and acquisition data specified in 41.205(b), 41.301, and	such other data as GSA may deem necessary.
+(d) (d)
+						            A contract exceeding a 1-year period, but not exceeding tenyears (except pursuant to 41.103), may be justified, and is usually required, where any of the following circumstances exist:
+

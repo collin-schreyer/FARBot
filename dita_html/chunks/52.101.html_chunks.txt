@@ -1,0 +1,14 @@
+Heading: 52.101 Using Part 52.
+Text: (a) (a)
+Definition. "Modification," as used in this subpart, means a minor change in the details of a provision or clause that is specifically authorized by the FAR and does not alter the substance of the provision or clause (see 52.104).
+(b) (b)
+Numbering—
+(c) (c)
+Prescriptions. Each provision or clause in subpart  52.2 is prescribed at that place in the FAR text where the subject matter of the provision or clause receives its primary treatment. The prescription includes all conditions, requirements, and instructions for using the provision or clause and its alternates, if any. The provision or clause may be referred to in other FAR locations.
+(d) (d)
+Introductory text. Within subpart  52.2, the introductory text of each provision or clause includes a cross-reference to the location in the FAR subject text that prescribes its use.
+(e) (e)
+						            Matrix.
+(f) (f)
+Dates. Since they are subject to revision from time to time, all provisions, clauses, and alternates are dated; e.g.,(Dec 1983). To avoid questions concerning which version of any provision, clause, or alternate is operative in any given solicitation or contract, its date shall be included whether it is incorporated by reference or in full text.
+

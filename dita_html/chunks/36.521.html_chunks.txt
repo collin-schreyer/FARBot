@@ -1,0 +1,6 @@
+Heading: 36.521 Specifications and drawings for construction.
+Text: (a) (a)
+						            Use the clause with its AlternateI, if reproducible shop drawings are needed; or
+(b) (b)
+						            Use the clause with its AlternateII, if reproducible shop drawings are not needed.
+

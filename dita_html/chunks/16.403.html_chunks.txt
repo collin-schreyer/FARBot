@@ -1,0 +1,8 @@
+Heading: 16.403 Fixed-price incentive contracts.
+Text: (a) (a)
+Description. A fixed-price incentive contract is a fixed-price contract that provides for adjusting profit and establishing the final contract price by application of a formula based on the relationship of total final negotiated cost to total target cost. The final price is subject to a price ceiling, negotiated at the outset. The two forms of fixed-price incentive contracts, firm target and successive targets, are further described in 16.403-1 and 16.403-2 below.
+(b) (b)
+Application. A fixed-price incentive contract is appropriate when-
+(c) (c)
+Billing prices. In fixed-price incentive contracts, billing prices are established as an interim basis for payment. These billing prices may be adjusted, within the ceiling limits, upon request of either party to the contract, when it becomes apparent that final negotiated cost will be substantially different from the target cost.
+

@@ -1,0 +1,9 @@
+Heading: 19.804-3 SBA acceptance.
+Text: (a) (a)
+						            Upon receipt of the contracting office's offering letter, SBA will determine whether to accept the requirement for the 8(a) program. SBA’s decision whether to accept the requirement will be transmitted to the contracting office in writing within 10 working days of receipt of the offer if the contract is likely to exceed the simplified acquisition threshold and within two working days of receipt if the contract is at or below the simplified acquisition threshold. The contracting office may grant an extension of these time periods, if requested by SBA.
+(b) (b)
+						            As part of the acceptance process, SBA will review the appropriateness of the NAICS code designation assigned to the requirement by the contracting officer.
+(c) (c)
+Sole source 8(a) awards. If an appropriate match exists, SBA will advise the contracting officer whether it will participate in contract negotiations or whether SBA will authorize the contracting officer to negotiate directly with the identified 8(a) participant. Where SBA has delegated its contract execution functions to a contracting agency, SBA will also identify that delegation in its acceptance letter. For a joint venture, SBA will determine eligibility as part of its acceptance of a sole-source requirement and will approve the joint venture agreement prior to award in accordance with 13 CFR
+                  124.513(e).
+

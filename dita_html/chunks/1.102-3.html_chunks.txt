@@ -1,0 +1,6 @@
+Heading: 1.102-3 
+         Evaluating agency acquisition processes.
+Text: (a) (a)Agencies are encouraged to develop internal procedures seeking voluntary feedback from interested parties in an acquisition to assess process strengths and weaknesses and improve effectiveness and efficiency of the acquisition process. Agencies may—
+(b) (b)Contracting officers are encouraged to insert the provision 52.201-1, Acquisition 360: Voluntary Survey, in accordance with agency procedures.
+(c) (c)Contracting officers shall not review information until after contract award and shall not consider it in the award decision.
+

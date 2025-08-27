@@ -1,0 +1,12 @@
+Heading: 52.240-1 Prohibition on Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act-Covered Foreign Entities.
+Text: (a) (a)
+Definitions. As used in this clause—
+(b) (b)
+Prohibition. The Contractor is prohibited from—
+(c) (c)
+Procedures. The Contractor shall search SAM at https://www.sam.gov for the FASC-maintained list of American Security Drone Act-covered foreign entities prior to proposing, or using in performance of the contract, any unmanned aircraft system. Additionally, the Contractor shall ensure any effort or expenditure associated with a FASC-prohibited unmanned aircraft system is consistent with a corresponding exemption, exception, or waiver determination expressly stated in the contract.
+(d) (d)
+Exemptions, exceptions, and waivers. The prohibitions in this clause do not apply where the agency has determined an exemption, exception, or waiver applies and the contract indicates that such a determination has been made. [See sections 1823 through 1825 and 1832 of Public Law 118-31 (41 U.S.C. 3901 note prec.) for statutory requirements pertaining to exemptions, exceptions, and waivers.].
+(e) (e)
+Subcontracts. The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services.
+

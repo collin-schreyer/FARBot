@@ -1,0 +1,8 @@
+Heading: 4.1800 Scope of subpart.
+Text: (a) (a)
+                  
+						            This subpart prescribes policies and procedures for identification of commercial and government entities. The Commercial and Government Entity (CAGE) code system may be used, among other things, to–
+(b) (b)
+                  
+						            For information on the unique entity identifier, which is a different identifier, see 4.605 and the provisions at 52.204-6, Unique Entity Identifier, and 52.204-7, System for Award Management.
+

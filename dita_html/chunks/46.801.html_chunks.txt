@@ -1,0 +1,9 @@
+Heading: 46.801 Applicability.
+Text: (a) (a)
+                  This subpart does not apply
+to commercial products and commercial services. This subpart applies
+to contracts other than those for—
+(b) (b) See subpart  46.7, Warranties,
+for policies and procedures concerning contractor liability caused
+by nonconforming technical data.
+

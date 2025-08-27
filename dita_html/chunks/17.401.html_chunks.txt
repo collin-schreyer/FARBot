@@ -1,0 +1,16 @@
+Heading: 17.401 General.
+Text: (a) (a)
+						            Reduce delivery time.
+(b) (b)
+						            Achieve geographic dispersion of suppliers.
+(c) (c)
+						            Maximize the use of scarce tooling or special equipment.
+(d) (d)
+						            Achieve economies in production.
+(e) (e)
+						            Ensure uniformity and reliability in equipment, compatibility or standardization of components, and interchangeability of parts.
+(f) (f)
+						            Eliminate problems in the use of proprietary data that cannot be resolved by more satisfactory solutions.
+(g) (g)
+						            Facilitate the transition from development to production and to subsequent competitive acquisition of end items or major components.
+

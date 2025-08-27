@@ -1,0 +1,29 @@
+Heading: 52.246-26 Reporting Nonconforming
+Items.
+Text: (a) (a)
+Definitions. As
+used in this clause—
+(b) (b) The Contractor
+shall—
+(c) (c) The Contractor
+shall not submit a report as required by paragraph (b)(4) of this
+clause, if—
+(d) (d) Reports
+submitted in accordance with paragraph (b)(4) of this clause shall
+not include—
+(e) (e) Additional guidance on the use of GIDEP is provided at  https://www.gidep.org/login?returnUrl=%2Fdashboard.
+(f) (f) If this
+is a contract with the Department of Defense, as provided in paragraph
+(c)(5) of section 818 of the National Defense Authorization Act
+for Fiscal Year 2012 (Pub. L. 112-81), the Contractor or subcontractor
+that provides a written report or notification under this clause
+that the end item, component, part, or material contained electronic
+parts (i.e., an integrated circuit, a discrete electronic
+component (including, but not limited to, a transistor, capacitor,
+resistor, or diode), or a circuit assembly)) that are counterfeit
+electronic parts or suspect counterfeit electronic parts shall not
+be subject to civil liability on the basis of such reporting, provided
+that the Contractor or any subcontractor made a reasonable effort to
+determine that the report was factual.
+(g) (g) Subcontracts.
+

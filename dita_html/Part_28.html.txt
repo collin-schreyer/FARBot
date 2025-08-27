@@ -1,0 +1,199 @@
+Part 28 - Bonds and Insurance
+
+
+Part 28 - Bonds and Insurance
+
+
+28.000 Scope of part.
+
+
+28.001 Definitions.
+
+
+Subpart 28.1 - Bonds and Other Financial Protections
+
+
+28.100 Scope of subpart.
+
+
+28.101 Bid guarantees.
+
+
+28.101-1 Policy on use.
+
+
+28.101-2 Solicitation provision or contract clause.
+
+
+28.101-3 Authority of an attorney-in-fact for a bid bond.
+
+
+28.101-4 Noncompliance with bid guarantee requirements.
+
+
+28.102 Performance and payment bonds and alternative payment protections for construction contracts.
+
+
+28.102-1 General.
+
+
+28.102-2 Amount required.
+
+
+28.102-3 Contract clauses.
+
+
+28.103 Performance and payment bonds for other than construction contracts.
+
+
+28.103-1 General.
+
+
+28.103-2 Performance bonds.
+
+
+28.103-3 Payment bonds.
+
+
+28.103-4 Contract clause.
+
+
+28.104 Annual performance bonds.
+
+
+28.105 Other types of bonds.
+
+
+28.105-1 Advance payment bonds.
+
+
+28.105-2 Patent infringement bonds.
+
+
+28.106 Administration.
+
+
+28.106-1 Bonds and bond-related forms.
+
+
+28.106-2 Substitution of surety bonds.
+
+
+28.106-3 Additional bond and security.
+
+
+28.106-4 Contract clause.
+
+
+28.106-5 Consent of surety.
+
+
+28.106-6 Furnishing information.
+
+
+28.106-7 Withholding contract payments.
+
+
+28.106-8 Payment to subcontractors or suppliers.
+
+
+Subpart 28.2 - Sureties and Other Security for Bonds
+
+
+28.200 Scope of subpart.
+
+
+28.201 Requirements for security.
+
+
+28.202 Acceptability of corporate sureties.
+
+
+28.203 Individual Sureties.
+
+
+28.203-1 Acceptability of individual sureties.
+
+
+28.203-2 Substitution of assets.
+
+
+28.203-3 Release of security interest.
+
+
+28.203-4 Solicitation provision and contract clause.
+
+
+28.203-5 Exclusion of individual sureties.
+
+
+28.204 Alternatives in lieu of corporate or individual sureties.
+
+
+28.204-1 United States bonds or notes.
+
+
+28.204-2 Certified or cashier’s checks, bank drafts, money orders, or currency.
+
+
+28.204-3 Irrevocable letter of credit.
+
+
+28.204-4 Contract clause.
+
+
+Subpart 28.3 - Insurance
+
+
+28.301 Policy.
+
+
+28.302 Notice of cancellation or change.
+
+
+28.303 Insurance against loss of or damage to Government property.
+
+
+28.304 Risk-pooling arrangements.
+
+
+28.305 Overseas workers’ compensation and war-hazard insurance.
+
+
+28.306 Insurance under fixed-price contracts.
+
+
+28.307 Insurance under cost-reimbursement contracts.
+
+
+28.307-1 Group insurance plans.
+
+
+28.307-2 Liability.
+
+
+28.308 Self-insurance.
+
+
+28.309 Contract clauses for workers’ compensation insurance.
+
+
+28.310 Contract clause for work on a Government installation.
+
+
+28.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.
+
+
+28.311-1 Contract clause.
+
+
+28.311-2 Agency solicitation provisions and contract clauses.
+
+
+28.312 Contract clause for insurance of leased motor vehicles.
+
+
+28.313 Contract clauses for insurance of transportation or transportation-related services.
+
+
+28.000 Scope of part.28.001 Definitions.Subpart 28.1 - Bonds and Other Financial ProtectionsSubpart 28.2 - Sureties and Other Security for BondsSubpart 28.3 - InsuranceParent topic: Federal Acquisition Regulation

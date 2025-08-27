@@ -1,0 +1,19 @@
+Heading: 15.204-2 Part I-The Schedule.
+Text: (a) (a)
+                  
+						            Section A, Solicitation/contract form.
+(b) (b)
+Section B, Supplies or services and prices/costs. Include a brief description of the supplies or services; e.g., item number, national stock number/part number if applicable, nouns, nomenclature, and quantities. (This includes incidental deliverables such as manuals and reports.)
+(c) (c)
+Section C, Description/specifications/statement of work. Include any description or specifications needed in addition to Section B (see part  11, Describing Agency Needs).
+(d) (d)
+Section D, Packaging and marking. Provide packaging, packing, preservation, and marking requirements, if any.
+(e) (e)
+Section E, Inspection and acceptance. Include inspection, acceptance, quality assurance, and reliability requirements (see part  46, Quality Assurance).
+(f) (f)
+Section F, Deliveries or performance. Specify the requirements for time, place, and method of delivery or performance (see subpart  11.4, Delivery or Performance Schedules, and 47.301-1).
+(g) (g)
+Section G, Contract administration data. Include any required accounting and appropriation data and any required contract administration information or instructions other than those on the solicitation form. Include a statement that the offeror should include the payment address in the proposal, if it is different from that shown for the offeror.
+(h) (h)
+Section H, Special contract requirements. Include a clear statement of any special contract requirements that are not included in Section I, Contract clauses, or in other sections of the uniform contract format.
+

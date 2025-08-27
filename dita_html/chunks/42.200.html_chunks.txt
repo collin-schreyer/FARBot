@@ -1,0 +1,5 @@
+Heading: 40.200 Scope of subpart.
+Text: (a) (a) This subpart provides policies and procedures to implement security prohibitions and exclusions that restrict Federal agencies from procuring, obtaining, or using certain products, services, or sources.
+(b) (b) The following prohibitions and exclusions are implemented in this subpart:
+(c) (c) Additional security prohibitions and exclusions are found at subparts 4.20 through 4.23 and 25.7.
+

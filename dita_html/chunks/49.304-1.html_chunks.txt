@@ -1,0 +1,6 @@
+Heading: 49.304-1 General.
+Text: (a) (a)
+						            In a partial termination, the TCO shall limit the settlement to an adjustment of the fee, if any, and with the concurrence of the contracting office to a reduction in the estimated cost. The TCO shall adjust the fee as provided in 49.304-2 and 49.305, unless-
+(b) (b)
+						            In the case of the exceptions in paragraph (a), the procedures in 49.302 and 49.303 apply.
+

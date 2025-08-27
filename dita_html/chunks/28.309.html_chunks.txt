@@ -1,0 +1,6 @@
+Heading: 28.309 Contract clauses for workers’ compensation insurance.
+Text: (a) (a)
+						            The contracting officer shall insert the clause at 52.228-3, Workers’ Compensation Insurance (Defense Base Act), in solicitations and contracts when the Defense Base Act applies (see 28.305) and-
+(b) (b)
+						            The contracting officer shall insert the clause at 52.228-4, Worker’s Compensation and War-Hazard Insurance Overseas, in solicitations and contracts when the contract will be a public-work contract performed outside the United States and the Secretary of Labor waives the applicability of the Defense Base Act (see 28.305(d)).
+

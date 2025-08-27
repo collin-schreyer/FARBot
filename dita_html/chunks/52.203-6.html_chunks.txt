@@ -1,0 +1,20 @@
+Heading: 52.203-6 Restrictions on Subcontractor
+Sales to the Government.
+Text: (a) (a) Except
+as provided in (b) of this clause, the Contractor shall not enter
+into any agreement with an actual or prospective subcontractor,
+nor otherwise act in any manner, which has or may have the effect
+of restricting sales by such subcontractors directly to the Government
+of any item or process (including computer software) made or furnished
+by the subcontractor under this contract or under any follow-on
+production contract.
+(b) (b) The prohibition
+in (a) of this clause does not preclude the Contractor from asserting
+rights that are otherwise authorized by law or regulation.
+(c) (c) The Contractor
+agrees to incorporate the substance of this clause, including this
+paragraph (c), in all subcontracts under this contract which exceed
+the simplified acquisition threshold, as defined in Federal Acquisition
+Regulation 2.101 on the date of subcontract
+award.
+

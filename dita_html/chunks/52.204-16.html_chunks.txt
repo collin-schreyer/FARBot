@@ -1,0 +1,16 @@
+Heading: 52.204-16 Commercial and Government Entity Code Reporting.
+Text: (a) (a)
+Definition. As used in this provision –
+(b) (b)
+						            The Offeror shall provide its CAGE code with its offer with its name and location address or otherwise include it prominently in its proposal. The CAGE code must be for that name and location address. Insert the word "CAGE" before the number. The CAGE code is required prior to award.
+(c) (c)
+						             CAGE codes may be obtained via–
+(d) (d)
+						             Additional guidance for establishing and maintaining CAGE codes is available at https://cage.dla.mil.
+(e) (e)
+						            When a CAGE code is required for the immediate owner and/or the highest-level owner by Federal Acquisition Regulation (FAR) 52.204-17 or 52.212-3(p), the Offeror shall obtain the respective CAGE code from that entity to supply the CAGE code to the Government.
+(f) (f)
+						             Do not delay submission of the offer pending receipt of a CAGE code.
+(g) (g)
+						            If the solicitation includes FAR clause 52.204-2, Security Requirements, a subcontractor requiring access to classified information under a contract shall be identified with a CAGE code on the DD Form 254. The Contractor shall require a subcontractor requiring access to classified information to provide its CAGE code with its name and location address or otherwise include it prominently in the proposal. Each location of subcontractor performance listed on the DD Form 254 is required to reflect a corresponding unique CAGE code for each listed location unless the work is being performed at a Government facility, in which case the agency location code shall be used. The CAGE code must be for that name and location address. Insert the word "CAGE" before the number. The CAGE code is required prior to award.
+

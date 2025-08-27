@@ -1,0 +1,14 @@
+Heading: 4.703 Policy.
+Text: (a) (a)
+                  
+						            Except as stated in 4.703(b), contractors shall make available	records, which includes books, documents, accounting procedures and	practices, and other data, regardless of type and regardless of whether such	items are in written form, in the form of computer data, or in any other	form, and other supporting evidence to satisfy contract negotiation,	administration, and audit requirements of the contracting agencies and the	Comptroller General for-
+(b) (b)
+                  
+						            Contractors shall make	available the foregoing records and supporting evidence for a longer period	of time than is required in 4.703(a)	if-
+(c) (c)
+                  
+						            Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form unless they contain significant information not shown on the record copy. Original records need not be maintained or produced in an audit if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+(d) (d)
+                  
+						            If the information described in paragraph (a) of this section is maintained on a computer, contractors shall retain the computer data on a reliable medium for the time periods prescribed. Contractors may transfer computer data in machine readable form from one reliable computer medium to another. Contractors’ computer data retention and transfer procedures shall maintain the integrity, reliability, and security of the original computer data. Contractors shall also retain an audit trail describing the data transfer. For the record retention time periods prescribed, contractors shall not destroy, discard, delete, or write over such computer data.
+

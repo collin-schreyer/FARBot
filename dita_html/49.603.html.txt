@@ -1,0 +1,8 @@
+49.603 Formats for termination for convenience settlement agreements.
+
+
+49.603 Formats for termination for convenience settlement agreements.
+
+The formats to be used for termination for convenience settlement agreements should be substantially as shown in this section (see 49.109). Termination contracting officers (TCO’s) may, however, modify the contents of these agreements to conform with special termination clauses prescribed or authorized by their agencies (e.g., see 49.501 and 49.505(c)).
+
+49.603-1 Fixed price contracts-complete termination.49.603-2 Fixed-price contracts-partial termination.49.603-3 Cost reimbursement contracts-complete termination, if settlement includes cost.49.603-4 Cost-reimbursement contracts-complete termination, with settlement limited to fee.49.603-5 Cost-reimbursement contracts-partial termination.49.603-6 No-cost settlement agreement-complete termination.49.603-7 No-cost settlement agreement-partial termination.49.603-8 Fixed-price contracts-settlements with subcontractors only.49.603-9 Settlement of reservations.Parent topic: Subpart 49.6 - Contract Termination Forms and Formats

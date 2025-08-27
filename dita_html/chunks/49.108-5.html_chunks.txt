@@ -1,0 +1,8 @@
+Heading: 49.108-5 Recognition of judgments and arbitration awards.
+Text: (a) (a)
+						            When a subcontractor obtains a final judgment against a prime contractor, the TCO shall, for the purposes of settling the prime contract, treat the amount of the judgment as a cost of settling with the contractor, to the extent the judgment is properly allocable to the terminated portion of the prime contract, if-
+(b) (b)
+						            If the conditions in paragraphs (a)(1) through (5) of this section are not all met, the TCO may allow the contractor the part of the judgment considered fair for settling the subcontract settlement proposal, giving due regard to the policies in this part for settlement of proposals.
+(c) (c)
+						            When a contractor and a subcontractor submit the subcontractor’s settlement proposal to arbitration under any applicable law or contract provision, the TCO shall recognize the arbitration award as the cost of settling the proposal of the contractor to the same extent and under the same conditions as in paragraphs (a) and (b) of this section.
+

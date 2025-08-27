@@ -1,0 +1,8 @@
+Heading: 43.204 Administration.
+Text: (a) (a)
+Change order documentation. When change orders are not forward priced, they require two documents: the change order and a supplemental agreement reflecting the resulting equitable adjustment in contract terms. If an equitable adjustment in the contract price or delivery terms or both can be agreed upon in advance, only a supplemental agreement need be issued, but administrative changes and changes issued pursuant to a clause giving the Government a unilateral right to make a change (e.g., an option clause) initially require only one document.
+(b) (b)
+Definitization.
+(c) (c)
+Complete and final equitable adjustments. To avoid subsequent controversies that may result from a supplemental agreement containing an equitable adjustment as the result of a change order, the contracting officer should-
+

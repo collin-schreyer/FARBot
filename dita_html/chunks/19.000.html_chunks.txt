@@ -1,0 +1,7 @@
+Heading: 19.000 Scope of part.
+Text: (a) (a) This part implements the
+                  acquisition-related sections of the Small Business Act (15 U.S.C. 631, et seq.),
+                  applicable sections of the Armed Services Procurement Act (10 U.S.C. 3063–3064 and 3203), 41 U.S.C. 3104, and Executive Order
+                  12138, May 18, 1979. It covers—
+(b) (b)
+

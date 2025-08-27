@@ -1,0 +1,6 @@
+Heading: 45.202 Evaluation procedures.
+Text: (a) (a)
+						            The contracting officer shall consider any potentially unfair competitive advantage that may result from an offeror or contractor possessing Government property. This shall be done by adjusting the offers by applying, for evaluation purposes only, a rental equivalent evaluation factor as specified in FAR 52.245-9.
+(b) (b)
+						            The contracting officer shall ensure the offeror’s property management plans, methods, practices, or procedures for accounting for property are consistent with the requirements of the solicitation.
+

@@ -1,0 +1,11 @@
+Heading: 39.204 
+         Exceptions.
+Text: (a) (a) The requirements in 39.203 do not apply to
+acquisitions for—
+(b) (b) The contracting
+officer shall receive, as a part of the requirements documentation,
+written confirmation from the requiring activity that an exception,
+in accordance with paragraph (a)(1), (2), or (3) of this section,
+applies to the ICT supply or service (see 7.105(b)(5)(iv)). This
+documentation shall be maintained in the contract file.
+

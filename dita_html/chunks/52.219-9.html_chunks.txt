@@ -1,0 +1,93 @@
+Heading: 52.219-9 Small Business Subcontracting
+Plan.
+Text: (a) (a) This
+clause does not apply to small business concerns.
+(b) (b)
+Definitions.
+As used in this clause—
+(c) (c)
+(d) (d) The Offeror’s
+subcontracting plan shall include the following:
+(e) (e) In order
+to effectively implement this plan to the extent consistent with
+efficient contract performance, the Contractor shall perform the
+following functions:
+(f) (f) A master
+subcontracting plan on a plant or division-wide basis that contains
+all the elements required by paragraph (d) of this clause, except
+goals, may be incorporated by reference as a part of the subcontracting
+plan required of the Offeror by this clause; provided-
+(g) (g) A commercial
+plan is the preferred type of subcontracting plan for contractors
+furnishing commercial products
+and commercial services. The commercial plan shall relate to
+the offeror’s planned subcontracting generally, for both commercial
+and Government business, rather than solely to the Government contract.
+Once the Contractor’s commercial plan has been approved, the Government
+will not require another subcontracting plan from the same Contractor
+while the plan remains in effect, as long as the product or service
+being provided by the Contractor continues to meet the definition
+of a commercial product
+or commercial service. A Contractor with a commercial plan
+shall comply with the reporting requirements stated in paragraph
+(d)(10) of this clause by submitting one SSR in eSRS for all contracts
+covered by its commercial plan. A Contractor authorized to use a
+commercial subcontracting plan shall include in its subcontracting
+goals and in its SSR all indirect costs, with the exception of those
+such as the following: Employee salaries and benefits; payments
+for petty cash; depreciation; interest; income taxes; property taxes;
+lease payments; bank fees; fines, claims, and dues; original equipment
+manufacturer relationships during warranty periods (negotiated up
+front with the product); utilities and other services purchased
+from a municipality or an entity solely authorized by the municipality
+to provide those services in a particular geographical region; and
+philanthropic contributions. This report shall be acknowledged or
+rejected in eSRS by the Contracting Officer who approved the plan.
+This report shall be submitted within 30 days after the end of the
+Government’s fiscal year.
+(h) (h) Prior
+compliance of the offeror with other such subcontracting plans under
+previous contracts will be considered by the Contracting Officer
+in determining the responsibility of the offeror for award of the
+contract.
+(i) (i) A contract
+may have no more than one subcontracting plan. When a contract modification
+exceeds the subcontracting plan threshold in FAR 19.702(a), or an option
+is exercised, the goals of the existing subcontracting plan shall
+be amended to reflect any new subcontracting opportunities. When
+the goals in a subcontracting plan are amended, these goal changes do
+not apply retroactively.
+(j) (j) Subcontracting
+plans are not required from subcontractors when the prime contract
+contains the clause at FAR 52.212-5, Contract
+Terms and Conditions Required to Implement Statutes or Executive
+Orders-Commercial Products
+and Commercial Services, or when the subcontractor provides
+a commercial product or
+commercial service subject to the clause at FAR 52.244-6, Subcontracts
+for Commercial Products
+and Commercial Services, under a prime contract.
+(k) (k) The failure
+of the Contractor or subcontractor to comply in good faith with
+(1) the clause of this contract entitled "Utilization Of Small Business
+Concerns;" or (2) an approved plan required by this clause, shall
+be a material breach of the contract and may be considered in any
+past performance evaluation of the Contractor.
+(l) (l) The Contractor
+shall submit ISRs and SSRs using the web-based eSRS at http://www.esrs.gov.
+Purchases from a corporation, company, or subdivision that is an
+affiliate of the Contractor or subcontractor are not included in
+these reports. Subcontract awards by affiliates shall be treated
+as subcontract awards by the Contractor. Subcontract award data
+reported by the Contractor and subcontractors shall be limited to
+awards made to their immediate next-tier subcontractors. Credit cannot
+be taken for awards made to lower tier subcontractors, unless the
+Contractor or subcontractor has been designated to receive a small
+business or small disadvantaged business credit from an ANC or Indian
+tribe. Only subcontracts involving performance in the United States
+or its outlying areas should be included in these reports with the
+exception of subcontracts under a contract awarded by the State
+Department or any other agency that has statutory or regulatory
+authority to require subcontracting plans for subcontracts performed
+outside the United States and its outlying areas.
+

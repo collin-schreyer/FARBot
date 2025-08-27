@@ -1,0 +1,10 @@
+Heading: 32.1003 Criteria for use.
+Text: (a) (a)
+						            The contracting officer and offeror agree on the performance-based payment terms;
+(b) (b)
+						            The contract, individual order, or line item is a fixed-price type;
+(c) (c)
+						            For indefinite delivery contracts, the individual order does not provide for progress payments; and
+(d) (d)
+						            For other than indefinite delivery contracts, the contract does not provide for progress payments.
+

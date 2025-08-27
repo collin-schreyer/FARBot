@@ -1,0 +1,12 @@
+Heading: 9.105-1 Obtaining information.
+Text: (a) (a)
+                  
+						            Before making a determination of responsibility, the contracting officer shall possess or obtain information sufficient to be satisfied that a prospective contractor currently meets the applicable standards in 9.104.
+(b) (b)
+(c) (c)
+                  
+						            In making the determination of responsibility, the contracting officer shall consider information available through FAPIIS (see 9.104-6) with regard to the offeror and any immediate owner, predecessor, or subsidiary identified for that offeror in FAPIIS, including information that is linked to FAPIIS such as from SAM, and CPARS, as well as any other relevant past performance information on the offeror (see 9.104-1(c) and subpart  42.15). In addition, the contracting officer should use the following sources of information to support such determinations:
+(d) (d)
+                  
+						            Contracting offices and cognizant contract administration offices that become aware of circumstances casting doubt on a contractor’s ability to perform contracts successfully shall promptly exchange relevant information.
+

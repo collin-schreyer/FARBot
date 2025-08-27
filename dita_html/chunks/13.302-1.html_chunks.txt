@@ -1,0 +1,26 @@
+Heading: 13.302-1 General.
+Text: (a) (a) Except as provided under the unpriced
+purchase order method (see 13.302-2),
+purchase orders generally are issued on a fixed-price basis. See 12.207 for acquisition
+of commercial products
+and commercial services.
+(b) (b) Purchase
+orders shall-
+(c) (c) The contracting
+officer’s signature on purchase orders shall be in accordance with 4.101 and the definitions
+at 2.101. Facsimile and electronic
+signature may be used in the production of purchase orders by automated
+methods.
+(d) (d) Limit the
+distribution of copies of purchase orders and related forms to the
+minimum deemed essential for administration and transmission of
+contractual information.
+(e) (e) In accordance
+with 31 U.S.C.3332, electronic
+funds transfer (EFT) is required for payments except as provided
+in 32.1110. See subpart  32.11 for
+instructions for use of the appropriate clause in purchase orders.
+When obtaining oral quotes, the contracting officer shall inform
+the quoter of the EFT clause that will be in any resulting purchase
+order.
+

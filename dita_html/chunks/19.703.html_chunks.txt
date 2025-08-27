@@ -1,0 +1,9 @@
+Heading: 19.703 Eligibility requirements for participating in the program.
+Text: (a) (a)
+						            Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
+(b) (b)
+						            The contractor, the contracting officer, or any other interested party can challenge a subcontractor's size status representation by filing a protest, in accordance with 13 CFR 121.1001 through 121.1008.
+(c) (c)
+(d) (d)
+                  Protests challenging the socioeconomic status of a HUBZone small business concern must be filed in accordance with 13 CFR 126.801.
+

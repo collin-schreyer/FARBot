@@ -1,0 +1,6 @@
+Heading: 52.237-8 Restriction on Severance Payments to Foreign Nationals.
+Text: (a) (a)
+						            The Federal Acquisition Regulation (FAR), at 31.205-6(g)(6), limits the cost allowability of severance payments to foreign nationals employed under a service contract performed outside the United States unless the agency grants a waiver pursuant to FAR 37.113-1 before contract award.
+(b) (b)
+						            In making the determination concerning the granting of a waiver, the agency will determine that-
+

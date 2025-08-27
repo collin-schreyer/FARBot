@@ -1,0 +1,12 @@
+Heading: 39.103 Modular contracting.
+Text: (a) (a)
+						            This section implements 41 U.S.C. 2308. Modular contracting is intended to reduce program risk and to incentivize contractor performance while meeting the Government’s need for timely access to rapidly changing technology. Consistent with the agency’s information technology architecture, agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.101) of information technology. Agencies may also use modular contracting to acquire non-major systems of information technology.
+(b) (b)
+						            When using modular contracting, an acquisition of a system of information technology may be divided into several smaller acquisition increments that-
+(c) (c)
+						            The characteristics of an increment may vary depending upon the type of information technology being acquired and the nature of the system being developed. The following factors may be considered:
+(d) (d)
+						            For each increment, contracting officers shall choose an appropriate contracting technique that facilitates the acquisition of subsequent increments. Pursuant to parts  16 and 17 of the Federal Acquisition Regulation, contracting officers shall select the contract type and method appropriate to the circumstances (e.g., indefinite delivery, indefinite quantity contracts, single contract with options, successive contracts, multiple awards, task order contracts). Contract(s) shall be structured to ensure that the Government is not required to procure additional increments.
+(e) (e)
+						            To avoid obsolescence, a modular contract for information technology should, to the maximum extent practicable, be awarded within 180 days after the date on which the solicitation is issued. If award cannot be made within 180 days, agencies should consider cancellation of the solicitation in accordance with 14.209 or 15.206(e). To the maximum extent practicable, deliveries under the contract should be scheduled to occur within 18 months after issuance of the solicitation.
+

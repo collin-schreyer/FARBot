@@ -1,0 +1,16 @@
+Heading: 32.302 Authority.
+Text: (a) (a)
+						            Department of Defense.
+(b) (b)
+						            Department of Energy.
+(c) (c)
+						            Department of Commerce.
+(d) (d)
+						            Department of the Interior.
+(e) (e)
+						            Department of Agriculture.
+(f) (f)
+						            General Services Administration.
+(g) (g)
+						            National Aeronautics and Space Administration.
+

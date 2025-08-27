@@ -1,0 +1,10 @@
+Heading: 52.229-11 Tax on Certain Foreign Procurements—Notice and Representation.
+Text: (a) (a)
+Definitions. As used in this provision—
+(b) (b) Unless exempted, there is a 2 percent tax of the amount of a specified Federal procurement payment on any foreign person receiving such payment. See 26 U.S.C. 5000C and its implementing regulations at 26 CFR 1.5000C-1 through 1.5000C-7.
+(c) (c) Exemptions from withholding under this provision are described at 26 CFR 1.5000C-1(d)(5) through (7). The Offeror would claim an exemption from the withholding by using the Department of the Treasury Internal Revenue Service Form W-14, Certificate of Foreign Contracting Party Receiving Federal Procurement Payments, available via the internet at www.irs.gov/w14. Any exemption claimed and self-certified on the IRS Form W-14 is subject to audit by the IRS. Any disputes regarding the imposition and collection of the 26 U.S.C. 5000C tax are adjudicated by the IRS as the 26 U.S.C. 5000C tax is a tax matter, not a contract issue. The IRS Form W-14 is provided to the acquiring agency rather than to the IRS.
+(d) (d) For purposes of withholding under 26 U.S.C. 5000C, the Offeror represents that
+(e) (e) If the Offeror represents it is a foreign person in paragraph (d)(1) of this provision, then—
+(f) (f) If the Offeror selects "is" in paragraph (d)(1) and "partial or no exemption" in paragraph (d)(2) of this provision, the Offeror will be subject to withholding in accordance with the clause at FAR 52.229-12, Tax on Certain Foreign Procurements, in any resulting contract.
+(g) (g) A taxpayer may, for a fee, seek advice from the Internal Revenue Service (IRS) as to the proper tax treatment of a transaction. This is called a private letter ruling. Also, the IRS may publish a revenue ruling, which is an official interpretation by the IRS of the Internal Revenue Code, related statutes, tax treaties, and regulations. A revenue ruling is the conclusion of the IRS on how the law is applied to a specific set of facts. For questions relating to the interpretation of the IRS regulations go to https://www.irs.gov/help/tax-law-questions.
+

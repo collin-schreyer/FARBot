@@ -1,0 +1,6 @@
+Heading: 52.217-9 Option to Extend the Term of the Contract.
+Text: (a) (a) The Government may extend the term of this contract by written notice to the Contractor within _____ [insert the period of time within which the Contracting Officer may exercise the option]; provided that the Government gives the Contractor a preliminary written notice of its intent to extend at least _____ days[60days unless a different number of days is inserted] before the contract expires. The preliminary notice does not commit the Government to an extension.
+(b) (b)
+						            If the Government exercises this option, the extended contract shall be considered to include this option clause.
+(c) (c) The total duration of this contract, including the exercise of any options under this clause, shall not exceed ___________ (months) (years).
+

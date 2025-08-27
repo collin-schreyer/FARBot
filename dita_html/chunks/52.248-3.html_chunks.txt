@@ -1,0 +1,18 @@
+Heading: 52.248-3 Value Engineering-Construction.
+Text: (a) (a)
+General. The Contractor is encouraged to develop, prepare, and submit value engineering change proposals (VECP’s) voluntarily. The Contractor shall share in any instant contract savings realized from accepted VECP’s, in accordance with paragraph (f) of this clause.
+(b) (b)
+Definitions. "Collateral costs," as used in this clause, means agency costs of operation, maintenance, logistic support, or Government-furnished property.
+(c) (c)
+VECP preparation. As a minimum, the Contractor shall include in each VECP the information described in paragraphs (c)(1) through (7) of this clause. If the proposed change is affected by contractually required configuration management or similar procedures, the instructions in those procedures relating to format, identification, and priority assignment shall govern VECP preparation. The VECP shall include the following:
+(d) (d)
+Submission. The Contractor shall submit VECP’s to the Resident Engineer at the worksite, with a copy to the Contracting Officer.
+(e) (e) Government action.
+(f) (f) Sharing-
+(g) (g)
+Collateral savings. If a VECP is accepted, the Contracting Officer will increase the instant contract amount by 20 percent of any projected collateral savings determined to be realized in a typical year of use after subtracting any Government costs not previously offset. However, the Contractor’s share of collateral savings will not exceed the contract’s firm-fixed-price or estimated cost, at the time the VECP is accepted, or $100,000, whichever is greater. The Contracting Officer is the sole determiner of the amount of collateral savings.
+(h) (h)
+Subcontracts. The Contractor shall include an appropriate value engineering clause in any subcontract of $75,000 or more and may include one in subcontracts of lesser value. In computing any adjustment in this contract’s price under paragraph (f) of this clause, the Contractor’s allowable development and implementation costs shall include any subcontractor’s allowable development and implementation costs clearly resulting from a VECP accepted by the Government under this contract, but shall exclude any value engineering incentive payments to a subcontractor. The Contractor may choose any arrangement for subcontractor value engineering incentive payments; provided, that these payments shall not reduce the Government’s share of the savings resulting from the VECP.
+(i) (i)
+Data. The Contractor may restrict the Government’s right to use any part of a VECP or the supporting data by marking the following legend on the affected parts:
+

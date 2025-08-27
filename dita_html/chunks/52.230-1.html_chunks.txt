@@ -1,0 +1,7 @@
+Heading: 52.230-1 Cost Accounting Standards Notices and Certification.
+Text: (a) (a) Any contract in excess of the lower CAS threshold specified in Federal Acquisition Regulation (FAR) 30.201-4(b) resulting from this solicitation will be subject to the requirements of the Cost Accounting Standards Board (48 CFR chapter 99), except for those contracts which are exempt as specified in 48 CFR 9903.201-1.
+(b) (b) Any offeror submitting a proposal which, if accepted, will result in a contract subject to the requirements of 
+48 CFR chapter 99
+must, as a condition of contracting, submit a Disclosure Statement as required by 48 CFR 9903.202. When required, the Disclosure Statement must be submitted as a part of the offeror’s proposal under this solicitation unless the offeror has already submitted a Disclosure Statement disclosing the practices used in connection with the pricing of this proposal. If an applicable Disclosure Statement has already been submitted, the offeror may satisfy the requirement for submission by providing the information requested in paragraph (c) of Part I of this provision.
+(c) (c) Check the appropriate box below:
+

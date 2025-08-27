@@ -1,0 +1,6 @@
+Heading: 28.310 Contract clause for work on a Government installation.
+Text: (a) (a)
+						            Insert the clause at 52.228-5, Insurance-Work on a Government Installation, in solicitations and contracts if a fixed-price contract is contemplated, the contract amount is expected to exceed the simplified acquisition threshold, and the contract will require work on a Government installation, unless-
+(b) (b)
+						            The contracting officer may insert the clause at 52.228-5 in solicitations and contracts described in paragraphs (a)(1) and (2) of this section if it is in the Government’s interest to do so.
+

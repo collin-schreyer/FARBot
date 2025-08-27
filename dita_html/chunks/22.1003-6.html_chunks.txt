@@ -1,0 +1,6 @@
+Heading: 22.1003-6 Repair distinguished	from remanufacturing of equipment.
+Text: (a) (a)
+						            Contracts principally for remanufacturing	of equipment which is so extensive as to be equivalent to manufacturing	are subject to 41 U.S.C. chapter 65, rather than to the Service	Contract Labor Standards statute. Remanufacturing shall be deemed	to be manufacturing when the criteria in either paragraphs (a)(1) or (a)(2)	of this section are met.
+(b) (b)
+						            Remanufacturing	does not include the repair of damaged or broken equipment which	does not require a complete teardown, overhaul, and rebuild as described	in subparagraphs(a)(1) and (a)(2) of this subsection, or the periodic	and routine maintenance, preservation, care, adjustment, upkeep,	or servicing of equipment to keep it in usable, serviceable, working order.	Such contracts typically are billed on an hourly rate (labor plus	materials and parts) basis. Any contract principally for this type	of work is subject to the Service Contract Labor Standards statute.	Examples of such work include the following:
+

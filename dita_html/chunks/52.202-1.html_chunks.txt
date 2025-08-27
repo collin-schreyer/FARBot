@@ -1,0 +1,12 @@
+Heading: 52.202-1 Definitions.
+Text: (a) (a)
+						            The	solicitation, or amended solicitation, provides a different definition;
+(b) (b)
+						            The contracting	parties agree to a different definition;
+(c) (c)
+						            The part,	subpart, or section of the FAR where the provision or clause is	prescribed provides a different meaning;
+(d) (d)
+						            The word	or term is defined in FAR part  31, for use	in the cost principles and procedures;	or
+(e) (e)
+						            The word or term defines an	acquisition-related threshold, and if the threshold is adjusted	for inflation as set forth in FAR 1.109(a), then the changed	threshold applies throughout the remaining term of the contract,	unless there is a subsequent threshold adjustment; see FAR 1.109(d).
+

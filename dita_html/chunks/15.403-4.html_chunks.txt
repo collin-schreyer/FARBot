@@ -1,0 +1,13 @@
+Heading: 15.403-4 
+         Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35).
+Text: (a) (a)
+(b) (b)
+                  
+						            When certified cost or pricing data are required, the contracting officer shall require the contractor or prospective contractor to submit to the contracting officer (and to have any subcontractor or prospective subcontractor submit to the prime contractor or appropriate subcontractor tier) the following in support of any proposal:
+(c) (c)
+                  
+						            If certified cost or pricing data are requested and submitted by an offeror, but an exception is later found to apply, the data must not be considered certified cost or pricing data as defined in 2.101 and must not be certified in accordance with 15.406-2
+(d) (d)
+                  
+						            The requirements of this subsection also apply to contracts entered into by an agency on behalf of a foreign government.
+

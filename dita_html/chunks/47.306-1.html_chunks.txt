@@ -1,0 +1,16 @@
+Heading: 47.306-1 Transportation cost determinations.
+Text: (a) (a)
+						            A complete description of the commodity being acquired including packaging instructions.
+(b) (b)
+						            Planned date of award.
+(c) (c)
+						            Date of initial shipment.
+(d) (d)
+						            Total quantity to be shipped (including weight and cubic content, when appropriate).
+(e) (e)
+						            Delivery schedule.
+(f) (f)
+						            Contract period.
+(g) (g)
+						            Possible use of transit privileges, including stopoffs for partial loading or unloading, or both.
+

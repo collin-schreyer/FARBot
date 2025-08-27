@@ -1,0 +1,6 @@
+Heading: 52.227-3 Patent Indemnity.
+Text: (a) (a)
+						            The	Contractor shall indemnify the Government and its officers, agents,	and employees against liability, including costs, for infringement	of any United States patent (except a patent issued upon an application	that is now or may hereafter be withheld from issue pursuant to	a Secrecy Order under 35 U.S.C. 181) arising	out of the manufacture or delivery of supplies, the performance	of services, or the construction, alteration, modification, or repair	of real property (hereinafter referred to as "construction work")	under this contract, or out of the use or disposal by or for the	account of the Government of such supplies or construction work.
+(b) (b)
+						            This indemnity	shall not apply unless the Contractor shall have been informed as	soon as practicable by the Government of the suit or action alleging	such infringement and shall have been given such opportunity as	is afforded by applicable laws, rules, or regulations to participate	in its defense. Further, this indemnity shall not apply to—
+

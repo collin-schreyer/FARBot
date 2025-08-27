@@ -1,0 +1,11 @@
+Heading: 27.305-2 Administration by the Government.
+Text: (a) (a)
+						            Agencies should establish and maintain appropriate follow-up procedures to protect the Government’s interest and to check that subject inventions are identified and disclosed, and when appropriate, patent applications are filed, and that the Government’s rights therein are established and protected. Follow-up activities for contracts that include a clause referenced in 27.304-2 should be coordinated with the appropriate agency.
+(b) (b)
+(c) (c)
+						            Contracting activities should establish appropriate procedures to detect and correct failures by the contractor to comply with its obligations under the patent rights clauses, such as failures to disclose and report subject inventions, both during and after contract performance. Government effort to review and correct contractor compliance with its patent rights obligations should be directed primarily toward contracts that are more likely to result in subject inventions significant in number or quality. These contracts include contracts of a research, developmental, or experimental nature; contracts of a large dollar amount; and any other contracts when there is reason to believe the contractor may not be complying with its contractual obligations. Other contracts may be reviewed using a spot-check method, as feasible. Appropriate follow-up procedures and activities may include the investigation or review of selected contracts or contractors by those qualified in patent and technical matters to detect failures to comply with contract obligations.
+(d) (d)
+						            Follow-up activities should include, where appropriate, use of Government patent personnel-
+(e) (e)
+						            If a contractor or subcontractor does not have a clear understanding of its obligations under the clause, or its procedures for complying with the clause are deficient, the contracting officer should explain to the contractor its obligations. The withholding of payments provision (if any) of the patent rights clause may be invoked if the contractor fails to meet the obligations required by the patents rights clause. Significant or repeated failures by a contractor to comply with the patent rights obligation in its contracts shall be documented and made a part of the general file (see 4.801(c)(3)).
+

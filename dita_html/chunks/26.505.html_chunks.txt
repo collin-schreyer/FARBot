@@ -1,0 +1,7 @@
+Heading: 26.505 Suspension of payments, termination of contract, and debarment and suspension actions.
+Text: (a) (a) After determining in writing that adequate evidence to suspect any of the causes at paragraph (d) of this section exists, the contracting officer may suspend contract payments in accordance with the procedures at 32.503-6(a)(1).
+(b) (b) After determining in writing that any of the causes at paragraph (d) of this section exist, the contracting officer may terminate the contract for default.
+(c) (c) Upon initiating action under paragraph (a) or (b) of this section, the contracting officer shall refer the case to the agency suspending and debarring official, in accordance with agency procedures, pursuant to subpart  9.4.
+(d) (d) The specific causes for suspension of contract payments, termination of a contract for default, or suspension and debarment are-
+(e) (e) A determination under this section to suspend contract payments, terminate a contract for default, or debar or suspend a contractor may be waived by the agency head for a particular contract, in accordance with agency procedures, only if such waiver is necessary to prevent a severe disruption of the agency operation to the detriment of the Federal Government or the general public (see subpart  9.4). The waiver authority of the agency head cannot be delegated.
+

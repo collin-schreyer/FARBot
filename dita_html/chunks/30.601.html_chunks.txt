@@ -1,0 +1,8 @@
+Heading: 30.601 Responsibility.
+Text: (a) (a)
+						            The CFAO shall perform CAS administration for all contracts and subcontracts in a business unit, even when the contracting officer retains other administration functions. The CFAO shall make all CAS-related required determinations and findings (see subpart  1.7) for all CAS-covered contracts and subcontracts, including-
+(b) (b)
+						            Within 30 days after the award of any new contract subject to CAS, the contracting officer making the award shall request the CFAO to perform administration for CAS matters (see subpart  42.2). For subcontract awards, the contractor awarding the subcontract must follow the procedures at 52.230-6(l), (m), and (n).
+(c) (c)
+						            In performing CAS administration, the CFAO shall request and consider the advice of the auditor as appropriate (see 1.602-2).
+

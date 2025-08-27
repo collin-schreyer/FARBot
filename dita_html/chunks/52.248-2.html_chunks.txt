@@ -1,0 +1,12 @@
+Heading: 52.248-2 Value Engineering-Architect-Engineer.
+Text: (a) (a)
+General. The Contractor shall (1) perform value engineering (VE) services and submit progress reports as specified in the Schedule; and (2) submit to the Contracting Officer any resulting value engineering proposals (VEP’s). Value engineering activities shall be performed concurrently with, and without delay to, the schedule set forth in the contract. The services shall include VE evaluation and review and study of design documents immediately following completion of the 35 percent design state or at such stages as the Contracting Officer may direct. Each separately priced line item for VE services shall define specifically the scope of work to be accomplished and may include VE studies of items other than design documents. The Contractor shall be paid as the contract specifies for this effort, but shall not share in savings which may result from acceptance and use of VEP’s by the Government.
+(b) (b)
+Definitions. "Life cycle cost," as used in this clause, is the sum of all costs over the useful life of a building, system or product. It includes the cost of design, construction, acquisition, operation, maintenance, and salvage (resale) value, if any.
+(c) (c)
+Submissions. After award of an architect-engineering contract the contractor shall-
+(d) (d)
+VEP preparation. As a minimum, the contractor shall include the following information in each VEP:
+(e) (e)
+VEP acceptance. Approved VEP’s shall be implemented by bilateral modification to this contract.
+

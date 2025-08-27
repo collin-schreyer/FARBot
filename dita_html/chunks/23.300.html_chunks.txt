@@ -1,0 +1,5 @@
+Heading: 23.300 
+         Scope of subpart.
+Text: (a) (a) Acquiring deliverable items, other than ammunition and explosives, that require the furnishing of data involving hazardous materials. Agencies may prescribe special procedures for ammunition and explosives.
+(b) (b) Providing notification of radioactive materials prior to delivery.
+

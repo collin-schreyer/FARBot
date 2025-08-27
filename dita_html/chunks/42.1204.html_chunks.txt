@@ -1,0 +1,20 @@
+Heading: 42.1204 Applicability of novation agreements.
+Text: (a) (a)
+41 U.S.C.6305 prohibits transfer of Government contracts from the contractor to a third party. The Government may, when in its interest, recognize a third party as the successor in interest to a Government contract when the third party’s interest in the contract arises out of the transfer of-
+(b) (b)
+						            A novation agreement is unnecessary when there is a change in the ownership of a contractor as a result of a stock purchase, with no legal change in the contracting party, and when that contracting party remains in control of the assets and is the party performing the contract. However, whether there is a purchase of assets or a stock purchase, there may be issues related to the change in ownership that appropriately should be addressed in a formal agreement between the contractor and the Government (see 42.1203(e)).
+(c) (c)
+						            When it is in the Government’s interest not to concur in the transfer of a contract from one company to another company, the original contractor remains under contractual obligation to the Government, and the contract may be terminated for reasons of default, should the original contractor not perform.
+(d) (d)
+						            When considering whether to recognize a third party as a successor in interest to Government contracts, the responsible contracting officer shall identify and evaluate any significant organizational conflicts of interest in accordance with subpart  9.5. If the responsible contracting officer determines that a conflict of interest cannot be resolved, but that it is in the best interest of the Government to approve the novation request, a request for a waiver may be submitted in accordance with the procedures at 9.503.
+(e) (e)
+						            When a contractor asks the Government to recognize a successor in interest, the contractor shall submit to the responsible contracting officer three signed copies of the proposed novation agreement and one copy each, as applicable, of the following:
+(f) (f)
+						            Except as provided in paragraph (g) of this section, the contractor shall submit to the responsible contracting officer one copy of each of the following documents, as applicable, as the documents become available:
+(g) (g)
+						            If the Government has acquired the documents during its participation in the pre-merger or pre-acquisition review process, or the Government’s interests are adequately protected with an alternative formulation of the information, the responsible contracting officer may modify the list of documents to be submitted by the contractor.
+(h) (h)
+						            When recognizing a successor in interest to a Government contract is consistent with the Government’s interest, the responsible contracting officer shall execute a novation agreement with the transferor and the transferee. It shall ordinarily provide in part that-
+(i) (i)
+						            The responsible contracting officer shall use the following format for agreements when the transferor and transferee are corporations and all the transferor’s assets are transferred. This format may be adapted to fit specific cases and may be used as a guide in preparing similar agreements for other situations.
+

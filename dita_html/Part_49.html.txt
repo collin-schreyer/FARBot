@@ -1,0 +1,349 @@
+Part 49 - Termination of Contracts
+
+
+Part 49 - Termination of Contracts
+
+
+49.000 Scope of part.
+
+
+49.001 Definitions.
+
+
+49.002 Applicability.
+
+
+Subpart 49.1 - General Principles
+
+
+49.100 Scope of subpart.
+
+
+49.101 Authorities and responsibilities.
+
+
+49.102 Notice of termination.
+
+
+49.103 Methods of settlement.
+
+
+49.104 Duties of prime contractor after receipt of notice of termination.
+
+
+49.105 Duties of termination contracting officer after issuance of notice of termination.
+
+
+49.105-1 Termination status reports.
+
+
+49.105-2 Release of excess funds.
+
+
+49.105-3 Termination case file.
+
+
+49.105-4 Cleanup of construction site.
+
+
+49.106 Fraud or other criminal conduct.
+
+
+49.107 Audit of prime contract settlement proposals and subcontract settlements.
+
+
+49.108 Settlement of subcontract settlement proposals.
+
+
+49.108-1 Subcontractor’s rights.
+
+
+49.108-2 Prime contractor’s rights and obligations.
+
+
+49.108-3 Settlement procedure.
+
+
+49.108-4 Authorization for subcontract settlements without approval or ratification.
+
+
+49.108-5 Recognition of judgments and arbitration awards.
+
+
+49.108-6 Delay in settling subcontractor settlement proposals.
+
+
+49.108-7 Government assistance in settling subcontracts.
+
+
+49.108-8 Assignment of rights under subcontracts.
+
+
+49.109 Settlement agreements.
+
+
+49.109-1 General.
+
+
+49.109-2 Reservations.
+
+
+49.109-3 Government property.
+
+
+49.109-4 No-cost settlement.
+
+
+49.109-5 Partial settlements.
+
+
+49.109-6 Joint settlement of two or more settlement proposals.
+
+
+49.109-7 Settlement by determination.
+
+
+49.110 Settlement negotiation memorandum.
+
+
+49.111 Review of proposed settlements.
+
+
+49.112 Payment.
+
+
+49.112-1 Partial payments.
+
+
+49.112-2 Final payment.
+
+
+49.113 Cost principles.
+
+
+49.114 Unsettled contract changes.
+
+
+49.115 Settlement of terminated incentive contracts.
+
+
+Subpart 49.2 - Additional Principles for Fixed-Price Contracts Terminated for Convenience
+
+
+49.201 General.
+
+
+49.202 Profit.
+
+
+49.203 Adjustment for loss.
+
+
+49.204 Deductions.
+
+
+49.205 Completed end items.
+
+
+49.206 Settlement proposals.
+
+
+49.206-1 Submission of settlement proposals.
+
+
+49.206-2 Bases for settlement proposals.
+
+
+49.206-3 Submission of inventory disposal schedules.
+
+
+49.207 Limitation on settlements.
+
+
+49.208 Equitable adjustment after partial termination.
+
+
+Subpart 49.3 - Additional Principles for Cost-Reimbursement Contracts Terminated for Convenience
+
+
+49.301 General.
+
+
+49.302 Discontinuance of vouchers.
+
+
+49.303 Procedure after discontinuing vouchers.
+
+
+49.303-1 Submission of settlement proposal.
+
+
+49.303-2 Submission of inventory disposal schedules.
+
+
+49.303-3 Audit of settlement proposal.
+
+
+49.303-4 Adjustment of indirect costs.
+
+
+49.303-5 Final settlement.
+
+
+49.304 Procedure for partial termination.
+
+
+49.304-1 General.
+
+
+49.304-2 Submission of settlement proposal (fee only).
+
+
+49.304-3 Submission of vouchers.
+
+
+49.305 Adjustment of fee.
+
+
+49.305-1 General.
+
+
+49.305-2 Construction contracts.
+
+
+Subpart 49.4 - Termination for Default
+
+
+49.401 General.
+
+
+49.402 Termination of fixed-price contracts for default.
+
+
+49.402-1 The Government’s right.
+
+
+49.402-2 Effect of termination for default.
+
+
+49.402-3 Procedure for default.
+
+
+49.402-4 Procedure in lieu of termination for default.
+
+
+49.402-5 Memorandum by the contracting officer.
+
+
+49.402-6 Repurchase against contractor’s account.
+
+
+49.402-7 Other damages.
+
+
+49.402-8 Reporting Information.
+
+
+49.403 Termination of cost-reimbursement contracts for default.
+
+
+49.404 Surety-takeover agreements.
+
+
+49.405 Completion by another contractor.
+
+
+49.406 Liquidation of liability.
+
+
+Subpart 49.5 - Contract Termination Clauses
+
+
+49.501 General.
+
+
+49.502 Termination for convenience of the Government.
+
+
+49.503 Termination for convenience of the Government and default.
+
+
+49.504 Termination of fixed-price contracts for default.
+
+
+49.505 Other termination clauses.
+
+
+Subpart 49.6 - Contract Termination Forms and Formats
+
+
+49.601 Notice of termination for convenience.
+
+
+49.601-1 Electronic notice.
+
+
+49.601-2 Letter notice.
+
+
+49.602 Forms for settlement of terminated contracts.
+
+
+49.602-1 Termination settlement proposal forms.
+
+
+49.602-2 Inventory forms.
+
+
+49.602-3 Schedule of accounting information.
+
+
+49.602-4 Partial payments.
+
+
+49.602-5 Settlement agreement.
+
+
+49.603 Formats for termination for convenience settlement agreements.
+
+
+49.603-1 Fixed price contracts-complete termination.
+
+
+49.603-2 Fixed-price contracts-partial termination.
+
+
+49.603-3 Cost reimbursement contracts-complete termination, if settlement includes cost.
+
+
+49.603-4 Cost-reimbursement contracts-complete termination, with settlement limited to fee.
+
+
+49.603-5 Cost-reimbursement contracts-partial termination.
+
+
+49.603-6 No-cost settlement agreement-complete termination.
+
+
+49.603-7 No-cost settlement agreement-partial termination.
+
+
+49.603-8 Fixed-price contracts-settlements with subcontractors only.
+
+
+49.603-9 Settlement of reservations.
+
+
+49.604 Release of excess funds under terminated contracts.
+
+
+49.605 Request to settle subcontractor settlement proposals.
+
+
+49.606 Granting subcontract settlement authorization.
+
+
+49.607 Delinquency notices.
+
+
+49.000 Scope of part.49.001 Definitions.49.002 Applicability.Subpart 49.1 - General PrinciplesSubpart 49.2 - Additional Principles for Fixed-Price Contracts Terminated for ConvenienceSubpart 49.3 - Additional Principles for Cost-Reimbursement Contracts Terminated for ConvenienceSubpart 49.4 - Termination for DefaultSubpart 49.5 - Contract Termination ClausesSubpart 49.6 - Contract Termination Forms and FormatsParent topic: Federal Acquisition Regulation

@@ -1,0 +1,11 @@
+Heading: 3.104-8 Criminal and civil penalties, and further administrative remedies.
+Text: (a) (a)
+                  
+						            An official who knowingly fails to comply with the requirements of 3.104-3 is subject to the penalties and administrative action set forth in 41 U.S.C. 2105.
+(b) (b)
+                  
+						            An offeror who engages in employment discussion with an official subject to the restrictions of 3.104-3, knowing that the official has not complied with 3.104-3(c)(1), is subject to the criminal, civil, or administrative penalties set forth in 41 U.S.C. 2105.
+(c) (c)
+                  
+						            An official who refuses to terminate employment discussions (see 3.104-5) may be subject to agency administrative actions under 5 CFR 2635.604(d) if the official’s disqualification from participation in a particular procurement interferes substantially with the individual’s ability to perform assigned duties.
+

@@ -1,0 +1,6 @@
+Heading: 53.105 Computer generation.
+Text: (a) (a)
+						            The forms prescribed by this part may be computer generated without exception approval (see 53.103), provided-
+(b) (b)
+						            The standards listed in paragraph (a)(2) of this section may also be used for submission of data set forth in other parts for which specific forms have not been prescribed.
+

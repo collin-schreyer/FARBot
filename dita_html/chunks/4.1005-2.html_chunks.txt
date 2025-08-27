@@ -1,0 +1,8 @@
+Heading: 4.1005-2 Exceptions.
+Text: (a) (a)
+Indefinite-delivery contracts-
+(b) (b)
+Item description and PSC. These data elements are not required in the line item if there are associated deliverable subline items that include the actual detailed identification. When this exception applies, use a general narrative description for the line item.
+(c) (c)
+Single unit price or single total price. The requirement for a single unit price or single total price at the line item level does not apply if any of the following conditions are present:
+

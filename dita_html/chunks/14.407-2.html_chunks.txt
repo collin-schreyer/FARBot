@@ -1,0 +1,11 @@
+Heading: 14.407-2 Apparent clerical mistakes.
+Text: (a) (a)
+                  
+						            Any clerical mistake, apparent on its face in the bid, may be corrected by the contracting officer before award. The contracting officer first shall obtain from the bidder a verification of the bid intended. Examples of apparent mistakes are-
+(b) (b)
+                  
+						            Correction of the bid shall be effected by attaching the verification to the original bid and a copy of the verification to the duplicate bid. Correction shall not be made on the face of the bid; however, it shall be reflected in the award document.
+(c) (c)
+                  
+						            Correction of bids submitted by electronic data interchange shall be effected by including in the electronic solicitation file the original bid, the verification request, and the bid verification.
+

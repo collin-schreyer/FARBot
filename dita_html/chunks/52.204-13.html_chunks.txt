@@ -1,0 +1,11 @@
+Heading: 52.204-13 System for Award Management Maintenance.
+Text: (a) (a)
+						             Definitions. As used in this clause—
+(b) (b)
+						             If the solicitation for this contract contained the provision 52.204-7 with its Alternate I, and the Contractor was unable to register prior to award, the Contractor shall be registered in SAM within 30 days after award or before three days prior to submission of the first invoice, whichever occurs first.
+(c) (c)
+						             The Contractor shall maintain registration in SAM during contract performance and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement. The Contractor is responsible for the currency, accuracy and completeness of the data within SAM, and for any liability resulting from the Government's reliance on inaccurate or incomplete data. To remain registered in SAM after the initial registration, the Contractor is required to review and update on an annual basis, from the date of initial registration or subsequent updates, its information in SAM to ensure it is current, accurate and complete. Updating information in SAM does not alter the terms and conditions of this contract and is not a substitute for a properly executed contractual document.
+(d) (d)
+(e) (e)
+						             Contractors may obtain additional information on registration and annual confirmation requirements at https://www.sam.gov.
+

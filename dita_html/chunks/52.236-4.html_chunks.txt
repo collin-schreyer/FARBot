@@ -1,0 +1,10 @@
+Heading: 52.236-4 Physical Data.
+Text: (a) (a)
+						            The indications of physical conditions on the drawings and in the specifications are the result of site investigations by __________ [insert a description of investigational methods used, such as surveys, auger borings, core borings, test pits, probings, test tunnels].
+(b) (b)
+						            Weather conditions __________ [insert a summary of weather records and warnings].
+(c) (c)
+						            Transportation facilities _________ [insert a summary of transportation facilities providing access from the site, including information about their availability and limitations].
+(d) (d)
+___________ [insert other pertinent information].
+

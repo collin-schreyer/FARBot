@@ -1,0 +1,38 @@
+Heading: 5.207 Preparation and transmittal
+of synopses.
+Text: (a) (a)
+Content. Each synopsis transmitted
+to the GPE must address the following data elements, as applicable:
+(b) (b)
+Transmittal.
+Transmissions to the GPE must be in accordance with the interface
+description available via the Internet at 
+                     https://www.sam.gov.
+(c) (c)
+General
+format for "Description." Prepare a clear and concise description
+of the supplies or services that is not unnecessarily restrictive
+of competition and will allow a prospective offeror to make an informed
+business judgment as to whether a copy of the solicitation should
+be requested including the following, as appropriate:
+(d) (d)
+Set-asides.
+When the proposed acquisition provides for a total or partial small
+business program set-aside, or when the proposed acquisition provides
+for a local area set-aside (see subpart  26.2), the
+contracting officer shall identify the type of set-aside in the
+synopsis and in the solicitation.
+(e) (e)
+Codes
+to be used in Synopses to identify services or supplies. Contracting
+officers must use one of the classification codes identified at 
+                     https://www.sam.gov
+                     
+                   to
+identify services or supplies in synopses.
+(f) (f)
+Notice
+of solicitation cancellation. Contracting officers may publish
+notices of solicitation cancellations (or indefinite suspensions)
+of proposed contract actions in the GPE.
+

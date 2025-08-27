@@ -1,0 +1,340 @@
+Part 47 - Transportation
+
+
+Part 47 - Transportation
+
+
+47.000 Scope of part.
+
+
+47.001 Definitions.
+
+
+47.002 Applicability.
+
+
+Subpart 47.1 - General
+
+
+47.101 Policies.
+
+
+47.102 Transportation insurance.
+
+
+47.103 Transportation Payment and Audit Regulation.
+
+
+47.103-1 General.
+
+
+47.103-2 Contract clause.
+
+
+47.104 Government rate tenders under sections 10721 and 13712 of the Interstate Commerce Act (49 U.S.C. 10721 and 13712).
+
+
+47.104-1 Government rate tender procedures.
+
+
+47.104-2 Fixed-price contracts.
+
+
+47.104-3 Cost-reimbursement contracts.
+
+
+47.104-4 Contract clauses.
+
+
+47.104-5 Citation of Government rate tenders.
+
+
+47.105 Transportation assistance.
+
+
+Subpart 47.2 - Contracts for Transportation or for Transportation-Related Services
+
+
+47.200 Scope of subpart.
+
+
+47.201 Definitions.
+
+
+47.202 Presolicitation planning.
+
+
+47.203 [Reserved]
+
+
+47.204 Single-movement contracts.
+
+
+47.205 Availability of term contracts and basic ordering agreements for transportation or for transportation-related services.
+
+
+47.206 Preparation of solicitations and contracts.
+
+
+47.207 Solicitation provisions, contract clauses, and special requirements.
+
+
+47.207-1 Qualifications of offerors.
+
+
+47.207-2 Duration of contract and time of performance.
+
+
+47.207-3 Description of shipment, origin, and destination.
+
+
+47.207-4 Determination of Weights.
+
+
+47.207-5 Contractor responsibilities.
+
+
+47.207-6 Rates and charges.
+
+
+47.207-7 Liability and insurance.
+
+
+47.207-8 Government responsibilities.
+
+
+47.207-9 Annotation and distribution of shipping and billing documents.
+
+
+47.207-10 Discrepancies incident to shipments.
+
+
+47.207-11 Volume movements within the contiguous United States.
+
+
+47.208 Report of shipment (REPSHIP).
+
+
+47.208-1 Advance notice.
+
+
+47.208-2 Contract clause.
+
+
+Subpart 47.3 - Transportation in Supply Contracts
+
+
+47.300 Scope of subpart.
+
+
+47.301 General.
+
+
+47.301-1 Responsibilities of contracting officers.
+
+
+47.301-2 Participation of transportation officers.
+
+
+47.301-3 Using the Defense Transportation System (DTS).
+
+
+47.302 Place of delivery-f.o.b. point.
+
+
+47.303 Standard delivery terms and contract clauses.
+
+
+47.303-1 F.o.b. origin.
+
+
+47.303-2 F.o.b. origin, contractor’s facility.
+
+
+47.303-3 F.o.b. origin, freight allowed.
+
+
+47.303-4 F.o.b. origin, freight prepaid.
+
+
+47.303-5 F.o.b. origin, with differentials.
+
+
+47.303-6 F.o.b. destination.
+
+
+47.303-7 F.o.b. destination, within consignee’s premises.
+
+
+47.303-8 F.a.s. vessel, port of shipment.
+
+
+47.303-9 F.o.b. vessel, port of shipment.
+
+
+47.303-10 F.o.b. inland carrier, point of exportation.
+
+
+47.303-11 F.o.b. inland point, country of importation.
+
+
+47.303-12 Ex dock, pier, or warehouse, port of importation.
+
+
+47.303-13 C. & f. destination.
+
+
+47.303-14 C.i.f. destination.
+
+
+47.303-15 F.o.b. designated air carrier’s terminal, point of exportation.
+
+
+47.303-16 F.o.b. designated air carrier’s terminal, point of importation.
+
+
+47.303-17 Contractor-prepaid commercial bills of lading, small package shipments.
+
+
+47.304 Determination of delivery terms.
+
+
+47.304-1 General.
+
+
+47.304-2 Shipments within CONUS.
+
+
+47.304-3 Shipments from CONUS for overseas delivery.
+
+
+47.304-4 Shipments originating outside CONUS.
+
+
+47.304-5 Exceptions.
+
+
+47.305 Solicitation provisions, contract clauses, and transportation factors.
+
+
+47.305-1 Solicitation requirements.
+
+
+47.305-2 Solicitations f.o.b. origin and f.o.b. destination-lowest overall cost.
+
+
+47.305-3 F.o.b. origin solicitations.
+
+
+47.305-4 F.o.b. destination solicitations.
+
+
+47.305-5 Destination unknown.
+
+
+47.305-6 Shipments to ports and air terminals.
+
+
+47.305-7 Quantity analysis, direct delivery, and reduction of crosshauling and backhauling.
+
+
+47.305-8 Consolidation of small shipments and the use of stopoff privileges.
+
+
+47.305-9 Commodity description and freight classification.
+
+
+47.305-10 Packing, marking, and consignment instructions.
+
+
+47.305-11 Options in shipment and delivery.
+
+
+47.305-12 Delivery of Government-furnished property.
+
+
+47.305-13 Transit arrangements.
+
+
+47.305-14 Mode of transportation.
+
+
+47.305-15 Loading responsibilities of contractors.
+
+
+47.305-16 Shipping characteristics.
+
+
+47.305-17 Returnable cylinders.
+
+
+47.306 Transportation factors in the evaluation of offers.
+
+
+47.306-1 Transportation cost determinations.
+
+
+47.306-2 Lowest overall transportation costs.
+
+
+47.306-3 Adequacy of loading and unloading facilities.
+
+
+Subpart 47.4 - Air Transportation by U.S.-Flag Carriers
+
+
+47.400 Scope of subpart.
+
+
+47.401 Definitions.
+
+
+47.402 Policy.
+
+
+47.403 Guidelines for implementation of the Fly America Act.
+
+
+47.403-1 Availability and unavailability of U.S.-flag air carrier service.
+
+
+47.403-2 Air transport agreements between the United States and foreign governments.
+
+
+47.403-3 Disallowance of expenditures.
+
+
+47.404 Air freight forwarders.
+
+
+47.405 Contract clauses.
+
+
+Subpart 47.5 - Ocean Transportation by U.S.-Flag Vessels
+
+
+47.500 Scope of subpart.
+
+
+47.501 Definitions.
+
+
+47.502 Policy.
+
+
+47.503 Applicability.
+
+
+47.504 Exceptions.
+
+
+47.505 Construction contracts.
+
+
+47.506 Procedures.
+
+
+47.507 Contract clauses.
+
+
+47.000 Scope of part.47.001 Definitions.47.002 Applicability.Subpart 47.1 - GeneralSubpart 47.2 - Contracts for Transportation or for Transportation-Related ServicesSubpart 47.3 - Transportation in Supply ContractsSubpart 47.4 - Air Transportation by U.S.-Flag CarriersSubpart 47.5 - Ocean Transportation by U.S.-Flag VesselsParent topic: Federal Acquisition Regulation

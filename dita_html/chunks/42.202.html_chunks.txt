@@ -1,0 +1,16 @@
+Heading: 42.202 Assignment of contract administration.
+Text: (a) (a)
+Delegating functions. As provided in agency procedures, contracting officers may delegate contract administration or specialized support services, either through interagency agreements or by direct request to the cognizant CAO listed in the Federal Directory of Contract Administration Services Components. The delegation should include-
+(b) (b)
+Special instructions. As necessary, the contracting officer also shall advise the contractor (and other activities as appropriate) of any functions withheld from or additional functions delegated to the CAO.
+(c) (c)
+Delegating additional functions. For individual contracts or groups of contracts, the contracting office may delegate to the CAO functions not listed in 42.302, provided that-
+(d) (d)
+Rescinding functions. The contracting officer at the requesting agency may rescind or recall a delegation to administer a contract or perform a contract administration function, except for functions pertaining to cost accounting standards and negotiation of forward pricing rates and indirect cost rates (also see 42.003). The requesting agency must coordinate with the ACO to establish a reasonable transition period prior to rescinding or recalling the delegation.
+(e) (e)
+						            Secondary delegations of contract administration.
+(f) (f)
+Special surveillance. For major system acquisitions (see part  34), the contracting officer may designate certain high risk or critical subsystems or components for special surveillance in addition to requesting supporting contract administration. This surveillance shall be conducted in a manner consistent with the policy of requesting that the cognizant CAO perform contract administration functions at a contractor’s facility (see 42.002).
+(g) (g)
+Refusing delegation of contract administration. An agency may decline a request for contract administration services on a case-by-case basis if resources of the agency are inadequate to accomplish the tasks. Declinations shall be in writing.
+

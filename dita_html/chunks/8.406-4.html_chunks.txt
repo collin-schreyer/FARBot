@@ -1,0 +1,14 @@
+Heading: 8.406-4 Termination for cause.
+Text: (a) (a)
+(b) (b)
+                  
+						            If the contractor asserts that the failure was excusable, the ordering activity contracting officer shall follow the procedures at 8.406-6, as appropriate.
+(c) (c)
+                  
+						            If the contractor is charged excess costs, the following apply:
+(d) (d)
+                  
+						            Only the schedule contracting officer may modify the contract to terminate for cause any, or all, supplies or services covered by the schedule contract. If the schedule contracting officer has terminated any supplies or services covered by the schedule contract, no further orders may be placed for those items. Orders placed prior to termination for cause shall be fulfilled by the contractor, unless terminated for the convenience of the Government by the ordering activity contracting officer.
+(e) (e)
+Reporting. An ordering activity contracting officer, in accordance with agency procedures, shall ensure that information related to termination for cause notices and any amendments are reported. In the event the termination for cause is subsequently converted to a termination for convenience, or is otherwise withdrawn, the contracting officer shall ensure that a notice of the conversion or withdrawal is reported. All reporting shall be in accordance with 42.1503(h).
+

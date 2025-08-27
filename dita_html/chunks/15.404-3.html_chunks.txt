@@ -1,0 +1,11 @@
+Heading: 15.404-3 Subcontract pricing considerations.
+Text: (a) (a)
+                  
+						             The contracting officer is responsible for the determination of a fair and reasonable price for the prime contract, including subcontracting costs. The contracting officer should consider whether a contractor or subcontractor has an approved purchasing system, has performed cost or price analysis of proposed subcontractor prices, or has negotiated the subcontract prices before negotiation of the prime contract, in determining the reasonableness of the prime contract price. This does not relieve the contracting officer from the responsibility to analyze the contractor’s submission, including subcontractor’s certified cost or pricing data.
+(b) (b)
+                  
+						             The prime contractor or subcontractor shall-
+(c) (c)
+                  
+						             Any contractor or subcontractor that is required to submit certified cost or pricing data also shall obtain and analyze certified cost or pricing data before awarding any subcontract, purchase order, or modification expected to exceed the certified cost or pricing data threshold, unless an exception in 15.403-1(b) applies to that action.
+

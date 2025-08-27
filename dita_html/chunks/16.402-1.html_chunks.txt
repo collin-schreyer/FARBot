@@ -1,0 +1,8 @@
+Heading: 16.402-1 Cost incentives.
+Text: (a) (a)
+                  
+						            Most incentive contracts include only cost incentives, which take the form of a profit or fee adjustment formula and are intended to motivate the contractor to effectively manage costs. No incentive contract may provide for other incentives without also providing a cost incentive (or constraint).
+(b) (b)
+                  
+						            Except for award-fee contracts (see 16.404 and 16.401(e)), incentive contracts include a target cost, a target profit or fee, and a profit or fee adjustment formula that (within the constraints of a price ceiling or minimum and maximum fee) provides that-
+

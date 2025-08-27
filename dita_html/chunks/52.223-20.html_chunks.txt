@@ -1,0 +1,8 @@
+Heading: 52.223-20 Aerosols.
+Text: (a) (a)
+Definitions. As used in this clause–
+(b) (b)
+						            Unless otherwise specified in the contract, the Contractor shall reduce its use, release, or emissions of high global warming potential hydrofluorocarbons, when feasible, from aerosol propellants or solvents under this contract. When determining feasibility of using a particular alternative, the Contractor shall consider environmental, technical, and economic factors such as–
+(c) (c) The Contractor shall refer to EPA's SNAP program to identify alternatives. The SNAP list of alternatives is found at 40 CFR part 82 subpart G with supplemental tables available at 
+                     https://www.epa.gov/snap/.
+

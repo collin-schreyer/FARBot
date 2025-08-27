@@ -1,0 +1,6 @@
+Heading: 46.202-2 Government reliance on inspection by contractor.
+Text: (a) (a)
+						            Except as specified in (b) of this section, the Government shall rely on the contractor to accomplish all inspection and testing needed to ensure that supplies or services acquired at or below the simplified acquisition threshold conform to contract quality requirements before they are tendered to the Government (see 46.301).
+(b) (b)
+						            The Government shall not rely on inspection by the contractor if the contracting officer determines that the Government has a need to test the supplies or services in advance of their tender for acceptance, or to pass judgment upon the adequacy of the contractor’s internal work processes. In making the determination, the contracting officer shall consider-
+

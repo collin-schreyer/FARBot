@@ -1,0 +1,37 @@
+Heading: 13.106-3 Award and documentation.
+Text: (a) (a)
+Basis for award. Before
+making award, the contracting officer must determine that the proposed
+price is fair and reasonable.
+(b) (b)
+File documentation
+and retention. Keep documentation to a minimum. Purchasing offices
+shall retain data supporting purchases (paper or electronic) to
+the minimum extent and duration necessary for management review
+purposes (see subpart  4.8).
+The following illustrate the extent to which quotation or offer
+information should be recorded:
+(c) (c)
+Notification. For
+acquisitions that do not exceed the simplified acquisition threshold
+and for which automatic notification is not provided through an
+electronic commerce method that employs widespread electronic public
+notice, notification to unsuccessful suppliers shall be given only
+if requested or required by 5.301.
+(d) (d)
+Request
+for information. If a supplier requests information on an award
+that was based on factors other than price alone, a brief explanation
+of the basis for the contract award decision shall be provided (see 15.503(b)(2)).
+(e) (e)
+Taxpayer
+Identification Number. If an oral solicitation is used, the
+contracting officer shall ensure that the copy of the award document
+sent to the payment office is annotated with the contractor’s Taxpayer
+Identification Number (TIN) and type of organization (see 4.203), unless this information
+will be obtained from some other source (e.g., centralized
+database). The contracting officer shall disclose to the contractor
+that the TIN may be used by the Government to collect and report
+on any delinquent amounts arising out of the contractor’s relationship
+with the Government (31 U.S.C. 7701(c)(3)).
+

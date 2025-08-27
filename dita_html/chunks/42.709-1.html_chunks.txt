@@ -1,0 +1,11 @@
+Heading: 42.709-1 Scope.
+Text: (a) (a) This section implements 
+                     10 U.S.C. 3743
+                     
+                   and 41 U.S.C. 4303. It covers the assessment of penalties against contractors which include unallowable indirect costs in-
+(b) (b) This section
+applies to all contracts in excess of $800,000, except fixed-price
+contracts without cost incentives or any firm-fixed-price contracts
+for the purchase of commercial
+products or commercial services.
+
