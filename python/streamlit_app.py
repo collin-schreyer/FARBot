@@ -34,6 +34,87 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# ============================================
+# AUTHENTICATION
+# ============================================
+# Credentials (in production, use environment variables or secrets)
+VALID_CREDENTIALS = {
+    "testuser": "farbot2025"
+}
+
+def check_password():
+    """Returns True if the user has entered valid credentials."""
+    
+    def password_entered():
+        """Checks whether a password entered by the user is correct."""
+        username = st.session_state.get("username", "")
+        password = st.session_state.get("password", "")
+        
+        if username in VALID_CREDENTIALS and VALID_CREDENTIALS[username] == password:
+            st.session_state["authenticated"] = True
+            # Clear password from session state for security
+            del st.session_state["password"]
+            logger.info(f"User '{username}' logged in successfully")
+        else:
+            st.session_state["authenticated"] = False
+            logger.warning(f"Failed login attempt for user '{username}'")
+
+    # First run or not authenticated
+    if "authenticated" not in st.session_state:
+        st.session_state["authenticated"] = False
+
+    if not st.session_state["authenticated"]:
+        # Show login form
+        st.markdown("""
+        <style>
+            .login-container {
+                max-width: 400px;
+                margin: 100px auto;
+                padding: 2rem;
+                background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+                border-radius: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            }
+            .login-header {
+                text-align: center;
+                margin-bottom: 2rem;
+            }
+            .login-header h1 {
+                color: #1a365d;
+                font-size: 2rem;
+            }
+            .login-header p {
+                color: #718096;
+            }
+        </style>
+        """, unsafe_allow_html=True)
+        
+        col1, col2, col3 = st.columns([1, 2, 1])
+        with col2:
+            st.markdown("""
+            <div class="login-header">
+                <h1>🏛️ FAR Chatbot</h1>
+                <p>Please log in to continue</p>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            st.text_input("Username", key="username")
+            st.text_input("Password", type="password", key="password")
+            st.button("🔐 Log In", on_click=password_entered, type="primary", use_container_width=True)
+            
+            if st.session_state.get("authenticated") == False and st.session_state.get("password") is None:
+                # Only show error after a failed attempt (password was cleared)
+                if "username" in st.session_state and st.session_state["username"]:
+                    st.error("❌ Invalid username or password")
+        
+        return False
+    
+    return True
+
+# Check authentication before showing the app
+if not check_password():
+    st.stop()
+
 # Enhanced CSS with clickable citations
 st.markdown("""
 <style>
@@ -599,11 +680,18 @@ with st.sidebar:
     
     st.markdown("---")
     
-    if st.button("🗑️ Clear Chat", type="secondary"):
-        st.session_state.chat_history = []
-        if st.session_state.chatbot:
-            st.session_state.chatbot.conversation = st.session_state.chatbot.conversation.__class__()
-        st.rerun()
+    col_clear, col_logout = st.columns(2)
+    with col_clear:
+        if st.button("🗑️ Clear Chat", type="secondary", use_container_width=True):
+            st.session_state.chat_history = []
+            if st.session_state.chatbot:
+                st.session_state.chatbot.conversation = st.session_state.chatbot.conversation.__class__()
+            st.rerun()
+    with col_logout:
+        if st.button("🚪 Logout", type="secondary", use_container_width=True):
+            st.session_state["authenticated"] = False
+            st.session_state.chat_history = []
+            st.rerun()
     
     st.markdown("""
     <div class="sidebar-card">
