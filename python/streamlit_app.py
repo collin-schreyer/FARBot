@@ -446,8 +446,41 @@ def load_chatbot():
     """Load the FAR chatbot (cached)"""
     try:
         logger.info("🔄 Loading FAR Chatbot...")
-        faiss_path = "dita_html/faiss_index.index"
-        texts_path = "dita_html/texts.txt"
+        
+        # Handle paths for both local and Streamlit Cloud deployment
+        # When running from python/ directory locally vs from repo root on cloud
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        repo_root = os.path.dirname(script_dir)  # Go up one level from python/
+        
+        # Try multiple path options
+        path_options = [
+            # From repo root (Streamlit Cloud)
+            (os.path.join(repo_root, "dita_html/faiss_index.index"), 
+             os.path.join(repo_root, "dita_html/texts.txt")),
+            # Relative to current working directory
+            ("dita_html/faiss_index.index", "dita_html/texts.txt"),
+            # Relative from python/ directory
+            ("../dita_html/faiss_index.index", "../dita_html/texts.txt"),
+        ]
+        
+        faiss_path = None
+        texts_path = None
+        
+        for fp, tp in path_options:
+            if os.path.exists(fp) and os.path.exists(tp):
+                faiss_path = fp
+                texts_path = tp
+                logger.info(f"✅ Found data files at: {fp}")
+                break
+        
+        if not faiss_path:
+            # List what we can find for debugging
+            logger.error(f"❌ Could not find data files. CWD: {os.getcwd()}")
+            logger.error(f"Script dir: {script_dir}")
+            logger.error(f"Repo root: {repo_root}")
+            if os.path.exists(repo_root):
+                logger.error(f"Repo root contents: {os.listdir(repo_root)}")
+            raise FileNotFoundError("Could not locate FAISS index and texts files")
         
         with st.spinner("🔄 Loading FAR Chatbot..."):
             chatbot = FARChatbot(
@@ -457,6 +490,7 @@ def load_chatbot():
             )
         return chatbot
     except Exception as e:
+        logger.error(f"❌ Error loading chatbot: {str(e)}")
         st.error(f"❌ Error loading chatbot: {str(e)}")
         return None
 
@@ -701,6 +735,35 @@ with st.sidebar:
         • Use specific terms for better results
     </div>
     """, unsafe_allow_html=True)
+    
+    st.markdown("---")
+    
+    # How it works button
+    if st.button("🔍 How It Works", use_container_width=True):
+        st.session_state.show_how_it_works = True
+
+# How it works section (using expander for compatibility with older Streamlit)
+if st.session_state.get('show_how_it_works', False):
+    st.markdown("---")
+    with st.container():
+        st.markdown("### 🔍 How FAR Bot Works")
+        # Image path - check both locations
+        image_path = "how_it_works.png"
+        if not os.path.exists(image_path):
+            image_path = "../how_it_works.png"
+        if os.path.exists(image_path):
+            st.image(image_path, use_column_width=True)
+        else:
+            st.markdown("""
+            **FAR Bot uses a RAG (Retrieval-Augmented Generation) pipeline:**
+            1. **Vector Search**: Your question is converted to embeddings and matched against 3,893 FAR sections
+            2. **Context Retrieval**: The most relevant FAR text chunks are retrieved
+            3. **AI Generation**: GPT-4 reads the actual FAR text and generates an accurate, cited answer
+            """)
+        if st.button("✕ Close", key="close_how_it_works"):
+            st.session_state.show_how_it_works = False
+            st.rerun()
+    st.markdown("---")
 
 # Main content
 if st.session_state.chatbot is None:
