@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Streamlit Web UI for the FAR Chatbot
+Enhanced Streamlit Web UI for the FAR Chatbot
+Features: Inline clickable citations, modern UI, expandable sources
 """
 
 import streamlit as st
@@ -9,6 +10,21 @@ from far_chatbot import FARChatbot
 import logging
 import os
 from datetime import datetime
+import re
+import markdown
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler('streamlit_app.log')
+    ]
+)
+logger = logging.getLogger(__name__)
+
+logger.info("🚀 Starting Enhanced FAR Chatbot...")
 
 # Configure page
 st.set_page_config(
@@ -18,85 +34,318 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for better styling
+# Enhanced CSS with clickable citations
 st.markdown("""
 <style>
+    /* Main container */
     .main-header {
         text-align: center;
-        padding: 1rem 0;
-        background: linear-gradient(90deg, #1f4e79, #2e5984);
+        padding: 1.5rem;
+        background: linear-gradient(135deg, #1a365d 0%, #2c5282 50%, #2b6cb0 100%);
         color: white;
-        border-radius: 10px;
+        border-radius: 16px;
         margin-bottom: 2rem;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
     }
     
-    .chat-message {
-        padding: 1rem;
-        border-radius: 10px;
-        margin: 1rem 0;
-        border-left: 4px solid #1f4e79;
+    .main-header h1 {
+        margin: 0;
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+    
+    .main-header p {
+        margin: 0.5rem 0 0 0;
+        opacity: 0.9;
+        font-size: 1.1rem;
+    }
+    
+    /* Chat messages */
+    .chat-container {
+        max-width: 900px;
+        margin: 0 auto;
     }
     
     .user-message {
-        background-color: #f0f2f6;
-        border-left-color: #ff6b6b;
+        background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+        padding: 1rem 1.25rem;
+        border-radius: 16px 16px 4px 16px;
+        margin: 1rem 0;
+        border-left: 4px solid #e53e3e;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
     
     .bot-message {
-        background-color: #e8f4fd;
-        border-left-color: #1f4e79;
-    }
-    
-    .search-results {
-        background-color: #f8f9fa;
-        padding: 1rem;
-        border-radius: 8px;
-        border: 1px solid #dee2e6;
+        background: linear-gradient(135deg, #ebf8ff 0%, #e6fffa 100%);
+        padding: 1.25rem 1.5rem;
+        border-radius: 16px 16px 16px 4px;
         margin: 1rem 0;
+        border-left: 4px solid #2b6cb0;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.08);
     }
     
-    .citation {
-        background-color: #fff3cd;
-        padding: 0.25rem 0.5rem;
-        border-radius: 4px;
-        font-family: monospace;
-        font-weight: bold;
-        color: #856404;
+    .bot-content {
+        line-height: 1.8;
+        color: #2d3748;
     }
     
-    .suggestion-button {
-        background-color: #e3f2fd;
-        border: 1px solid #1976d2;
-        border-radius: 20px;
-        padding: 0.5rem 1rem;
-        margin: 0.25rem;
-        color: #1976d2;
-        cursor: pointer;
-        display: inline-block;
-        transition: all 0.3s ease;
+    .bot-content h1, .bot-content h2, .bot-content h3, .bot-content h4 {
+        color: #1a365d;
+        margin-top: 1.25rem;
+        margin-bottom: 0.75rem;
+        font-weight: 600;
     }
     
-    .suggestion-button:hover {
-        background-color: #1976d2;
-        color: white;
+    .bot-content h3 {
+        font-size: 1.1rem;
+        border-bottom: 2px solid #bee3f8;
+        padding-bottom: 0.5rem;
     }
     
-    .conversation-context {
-        background-color: #f3e5f5;
-        border-left: 4px solid #9c27b0;
-        padding: 0.75rem;
+    .bot-content p {
+        margin: 0.75rem 0;
+    }
+    
+    .bot-content ul, .bot-content ol {
+        margin: 0.75rem 0;
+        padding-left: 1.5rem;
+    }
+    
+    .bot-content li {
         margin: 0.5rem 0;
+    }
+    
+    .bot-content strong {
+        color: #2c5282;
+    }
+    
+    .bot-content code {
+        background: #edf2f7;
+        padding: 2px 6px;
         border-radius: 4px;
         font-size: 0.9em;
     }
     
-    .sidebar-info {
-        background-color: #f8f9fa;
+    .message-header {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.75rem;
+        font-weight: 600;
+        color: #2d3748;
+    }
+    
+    .timestamp {
+        font-size: 0.75rem;
+        color: #718096;
+        font-weight: 400;
+    }
+    
+    /* Clickable citations - the star of the show! */
+    .citation-link {
+        background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+        padding: 2px 8px;
+        border-radius: 6px;
+        font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+        font-weight: 600;
+        font-size: 0.9em;
+        color: #92400e;
+        text-decoration: none;
+        cursor: pointer;
+        border: 1px solid #f59e0b;
+        transition: all 0.2s ease;
+        display: inline-block;
+        margin: 0 2px;
+    }
+    
+    .citation-link:hover {
+        background: linear-gradient(135deg, #fde68a 0%, #fbbf24 100%);
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);
+        color: #78350f;
+    }
+    
+    /* Source cards */
+    .source-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
         padding: 1rem;
-        border-radius: 8px;
+        margin: 0.75rem 0;
+        transition: all 0.2s ease;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    .source-card:hover {
+        border-color: #2b6cb0;
+        box-shadow: 0 4px 12px rgba(43, 108, 176, 0.15);
+    }
+    
+    .source-header {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .source-citation {
+        background: linear-gradient(135deg, #2b6cb0 0%, #3182ce 100%);
+        color: white;
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-family: 'SF Mono', 'Monaco', monospace;
+        font-weight: 600;
+        font-size: 0.85rem;
+    }
+    
+    .source-text {
+        color: #4a5568;
+        font-size: 0.9rem;
+        line-height: 1.6;
+        max-height: 150px;
+        overflow-y: auto;
+        padding-right: 0.5rem;
+    }
+    
+    .source-text::-webkit-scrollbar {
+        width: 4px;
+    }
+    
+    .source-text::-webkit-scrollbar-thumb {
+        background: #cbd5e0;
+        border-radius: 2px;
+    }
+    
+    /* Query analysis badge */
+    .analysis-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: #f0fff4;
+        border: 1px solid #9ae6b4;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        color: #276749;
+        margin: 0.25rem;
+    }
+    
+    /* Suggestion buttons */
+    .suggestion-pill {
+        background: linear-gradient(135deg, #e6fffa 0%, #b2f5ea 100%);
+        border: 1px solid #38b2ac;
+        border-radius: 25px;
+        padding: 0.5rem 1rem;
+        color: #234e52;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        display: inline-block;
+        margin: 0.25rem;
+    }
+    
+    .suggestion-pill:hover {
+        background: linear-gradient(135deg, #38b2ac 0%, #319795 100%);
+        color: white;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(56, 178, 172, 0.3);
+    }
+    
+    /* Context indicator */
+    .context-bar {
+        background: linear-gradient(90deg, #faf5ff 0%, #f3e8ff 100%);
+        border-left: 3px solid #9f7aea;
+        padding: 0.75rem 1rem;
+        border-radius: 0 8px 8px 0;
+        margin: 0.5rem 0;
+        font-size: 0.85rem;
+        color: #553c9a;
+    }
+    
+    /* Stats bar */
+    .stats-bar {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+        margin: 0.5rem 0;
+    }
+    
+    .stat-item {
+        background: #f7fafc;
+        padding: 0.25rem 0.75rem;
+        border-radius: 15px;
+        font-size: 0.8rem;
+        color: #4a5568;
+        border: 1px solid #e2e8f0;
+    }
+    
+    /* Sidebar styling */
+    .sidebar-card {
+        background: white;
+        border-radius: 12px;
+        padding: 1rem;
         margin: 1rem 0;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        border: 1px solid #e2e8f0;
+    }
+    
+    /* Loading animation */
+    .loading-step {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.5rem;
+        margin: 0.25rem 0;
+        border-radius: 8px;
+        font-size: 0.9rem;
+    }
+    
+    .loading-step.active {
+        background: #ebf8ff;
+        color: #2b6cb0;
+    }
+    
+    .loading-step.complete {
+        background: #f0fff4;
+        color: #276749;
+    }
+    
+    /* Divider */
+    .fancy-divider {
+        height: 2px;
+        background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+        margin: 1.5rem 0;
     }
 </style>
+<script>
+    // Handle citation link clicks - runs after DOM updates
+    function setupCitationLinks() {
+        document.querySelectorAll('.citation-link').forEach(link => {
+            if (!link.hasAttribute('data-handler-attached')) {
+                link.setAttribute('data-handler-attached', 'true');
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const url = this.getAttribute('data-url') || this.getAttribute('href');
+                    if (url) {
+                        window.open(url, '_blank');
+                    }
+                    return false;
+                });
+            }
+        });
+    }
+    
+    // Run on load and observe for changes
+    setupCitationLinks();
+    
+    // Use MutationObserver to handle dynamically added content
+    const observer = new MutationObserver(function(mutations) {
+        setupCitationLinks();
+    });
+    
+    observer.observe(document.body, { childList: true, subtree: true });
+</script>
 """, unsafe_allow_html=True)
 
 # Initialize session state
@@ -104,103 +353,200 @@ if 'chatbot' not in st.session_state:
     st.session_state.chatbot = None
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
-if 'show_search_details' not in st.session_state:
-    st.session_state.show_search_details = False
-if 'pending_suggestions' not in st.session_state:
-    st.session_state.pending_suggestions = []
+if 'show_sources' not in st.session_state:
+    st.session_state.show_sources = True
 if 'last_processed_question' not in st.session_state:
     st.session_state.last_processed_question = ""
+if 'source_texts' not in st.session_state:
+    st.session_state.source_texts = {}
 
 @st.cache_resource
 def load_chatbot():
-    """Load the enhanced FAR chatbot with GPT-5 support (cached for performance)"""
+    """Load the FAR chatbot (cached)"""
     try:
-        with st.spinner("🔄 Loading Enhanced FAR Chatbot with GPT-5... This may take a moment."):
+        logger.info("🔄 Loading FAR Chatbot...")
+        faiss_path = "dita_html/faiss_index.index"
+        texts_path = "dita_html/texts.txt"
+        
+        with st.spinner("🔄 Loading FAR Chatbot..."):
             chatbot = FARChatbot(
-                faiss_index_path="dita_html/faiss_index.index",
-                texts_path="dita_html/texts.txt",
-                use_gpt5=True  # Enable GPT-5 optimization
+                faiss_index_path=faiss_path,
+                texts_path=texts_path,
+                use_gpt5=True
             )
         return chatbot
     except Exception as e:
         st.error(f"❌ Error loading chatbot: {str(e)}")
         return None
 
-def format_response_with_citations(response):
-    """Format response to highlight citations"""
-    import re
-    # Find citations in format [XX.XXX] or [XX.XXX-X]
-    citation_pattern = r'\[([0-9]+\.[0-9]+(?:-[0-9]+)?)\]'
+def get_acquisition_gov_url(citation: str) -> str:
+    """
+    Convert a FAR citation to its acquisition.gov URL.
     
-    def replace_citation(match):
-        citation = match.group(1)
-        return f'<span class="citation">[{citation}]</span>'
-    
-    formatted_response = re.sub(citation_pattern, replace_citation, response)
-    return formatted_response
+    Examples:
+        19.502-2 -> https://www.acquisition.gov/far/19.502-2
+        2.101 -> https://www.acquisition.gov/far/2.101
+        19.502-2(a) -> https://www.acquisition.gov/far/19.502-2
+    """
+    # Remove any parenthetical subsections for the URL (e.g., "(a)" -> "")
+    base_citation = re.sub(r'\([a-z]\)$', '', citation)
+    return f"https://www.acquisition.gov/far/{base_citation}"
 
-def display_search_results(search_results):
-    """Display search results in an expandable section"""
-    with st.expander("🔍 View Search Results", expanded=False):
-        st.markdown("**Top relevant FAR sections found:**")
+def make_citations_clickable(response: str, search_results: list) -> str:
+    """Convert citation references to clickable links that open acquisition.gov"""
+    import markdown
+    
+    # Build a map of citations to their full text
+    citation_map = {}
+    for citation, full_text in search_results:
+        citation_map[citation] = full_text
+    
+    # Store in session state for the expander
+    st.session_state.source_texts = citation_map
+    
+    # Process citations BEFORE markdown conversion to avoid HTML interference
+    text = response
+    
+    # Helper to create citation link HTML
+    def make_link(citation):
+        url = get_acquisition_gov_url(citation)
+        return f'<a href="{url}" data-url="{url}" class="citation-link" title="View FAR {citation} on acquisition.gov">'
+    
+    # 1. Replace [FAR X.XXX] format -> clickable link
+    def replace_far_bracket(match):
+        citation = match.group(1)
+        return f'{make_link(citation)}[{citation}]</a>'
+    text = re.sub(r'\[FAR\s+(\d+\.\d+(?:-\d+)?(?:\([a-z]\))?)\]', replace_far_bracket, text)
+    
+    # 2. Replace [X.XXX] format (without FAR prefix) -> clickable link
+    def replace_bracket(match):
+        citation = match.group(1)
+        return f'{make_link(citation)}[{citation}]</a>'
+    text = re.sub(r'\[(\d+\.\d+(?:-\d+)?(?:\([a-z]\))?)\]', replace_bracket, text)
+    
+    # 3. Replace standalone "FAR X.XXX" format -> clickable link
+    # But avoid matching if already inside our link tags
+    def replace_standalone(match):
+        citation = match.group(1)
+        return f'{make_link(citation)}FAR {citation}</a>'
+    # Match FAR followed by citation number, but not if preceded by "View " (our title text)
+    text = re.sub(r'(?<!View )FAR\s+(\d+\.\d+(?:-\d+)?(?:\([a-z]\))?)', replace_standalone, text)
+    
+    # Now convert markdown to HTML (our links will be preserved)
+    formatted = markdown.markdown(text, extensions=['tables', 'fenced_code', 'nl2br'])
+    
+    return formatted
+
+def render_source_cards(search_results: list):
+    """Render expandable source cards with links to acquisition.gov"""
+    if not search_results:
+        return
+    
+    st.markdown("### 📚 Source Documents")
+    st.markdown("*Click any citation to view the full text on acquisition.gov*")
+    
+    for i, (citation, full_text) in enumerate(search_results[:8]):
+        citation_id = citation.replace(".", "_").replace("-", "_")
+        acq_url = get_acquisition_gov_url(citation)
         
-        for i, (citation, full_text) in enumerate(search_results, 1):
+        with st.expander(f"📄 FAR {citation}", expanded=False):
             st.markdown(f"""
-            <div class="search-results">
-                <strong>{i}. <span class="citation">[{citation}]</span></strong><br>
-                <small>{full_text}</small>
+            <div id="source_{citation_id}" class="source-card">
+                <div class="source-header">
+                    <a href="{acq_url}" target="_blank" class="source-citation" style="text-decoration:none;color:white;">
+                        🔗 FAR {citation} ↗
+                    </a>
+                </div>
+                <div class="source-text">{full_text[:1500]}{'...' if len(full_text) > 1500 else ''}</div>
+                <div style="margin-top:0.75rem;">
+                    <a href="{acq_url}" target="_blank" style="color:#2b6cb0;font-size:0.85rem;">
+                        📖 View full text on acquisition.gov →
+                    </a>
+                </div>
             </div>
             """, unsafe_allow_html=True)
 
-def display_conversation_context(topics, sections):
-    """Display current conversation context"""
-    if topics or sections:
-        context_items = []
-        if topics:
-            context_items.append(f"**Topics:** {', '.join(topics[:3])}")
-        if sections:
-            context_items.append(f"**Sections:** {', '.join(sections[-3:])}")
-        
+def render_chat_message(entry, index, total):
+    """Render a single chat message with clickable citations"""
+    # Unpack entry (handle different formats)
+    if len(entry) >= 10:
+        question, answer, suggestions, topics, sections, search_results, timestamp, analysis, context_size, model_used = entry[:10]
+    elif len(entry) == 7:
+        question, answer, suggestions, topics, sections, search_results, timestamp = entry
+        analysis, context_size, model_used = {}, 0, "unknown"
+    else:
+        question, answer, search_results, timestamp = entry[:4]
+        suggestions, topics, sections = [], [], []
+        analysis, context_size, model_used = {}, 0, "unknown"
+    
+    # User message
+    st.markdown(f"""
+    <div class="user-message">
+        <div class="message-header">
+            👤 You <span class="timestamp">{timestamp}</span>
+        </div>
+        {question}
+    </div>
+    """, unsafe_allow_html=True)
+    
+    # Context bar if we have topics
+    if topics:
+        topics_str = ", ".join(topics[:3])
         st.markdown(f"""
-        <div class="conversation-context">
-            <strong>💭 Conversation Context:</strong><br>
-            {' | '.join(context_items)}
+        <div class="context-bar">
+            💭 <strong>Topics:</strong> {topics_str}
         </div>
         """, unsafe_allow_html=True)
-
-def display_query_analysis(analysis, context_size, model_used):
-    """Display query analysis and processing details"""
-    if analysis:
-        query_type = analysis.get('type', 'general').title()
-        complexity = analysis.get('complexity', 0)
-        max_tokens = analysis.get('search_params', {}).get('max_tokens', 'unknown')
+    
+    # Bot response with clickable citations
+    formatted_answer = make_citations_clickable(answer, search_results if search_results else [])
+    
+    st.markdown(f"""
+    <div class="bot-message">
+        <div class="message-header">
+            🤖 FAR Bot <span class="timestamp">GPT-4 Turbo</span>
+        </div>
+        <div class="bot-content">
+            {formatted_answer}
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    # Stats bar
+    if analysis or context_size:
+        query_type = analysis.get('type', 'general').title() if analysis else 'General'
+        complexity = analysis.get('complexity', 0) if analysis else 0
         
         st.markdown(f"""
-        <div class="search-results">
-            <strong>🔍 Query Analysis:</strong><br>
-            <strong>Type:</strong> {query_type} | <strong>Complexity:</strong> {complexity}/5<br>
-            <strong>Context:</strong> {context_size} chunks | <strong>Model:</strong> {model_used}<br>
-            <strong>Max Tokens:</strong> {max_tokens}
+        <div class="stats-bar">
+            <span class="stat-item">📊 {query_type}</span>
+            <span class="stat-item">🎯 Complexity: {complexity}/5</span>
+            <span class="stat-item">📚 {context_size} sources</span>
+            <span class="stat-item">🤖 {model_used}</span>
         </div>
         """, unsafe_allow_html=True)
-
-def display_suggestions(suggestions):
-    """Display follow-up suggestions as clickable buttons"""
-    if suggestions:
-        st.markdown("### 💡 Follow-up Questions:")
-        
-        cols = st.columns(len(suggestions))
+    
+    # Source cards (only for most recent message)
+    if index == total - 1 and search_results and st.session_state.show_sources:
+        render_source_cards(search_results)
+    
+    # Suggestions (only for most recent)
+    if index == total - 1 and suggestions:
+        st.markdown("### 💡 Follow-up Questions")
+        cols = st.columns(min(len(suggestions), 3))
         for i, suggestion in enumerate(suggestions):
-            with cols[i]:
-                if st.button(f"💬 {suggestion}", key=f"suggestion_{i}_{hash(suggestion)}"):
+            with cols[i % 3]:
+                if st.button(f"💬 {suggestion}", key=f"sugg_{index}_{i}"):
                     st.session_state.selected_suggestion = suggestion
                     st.rerun()
+    
+    st.markdown('<div class="fancy-divider"></div>', unsafe_allow_html=True)
 
 # Main header
 st.markdown("""
 <div class="main-header">
     <h1>🏛️ FAR Chatbot</h1>
-    <p>Federal Acquisition Regulation Assistant</p>
+    <p>Federal Acquisition Regulation Assistant with Clickable Citations</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -213,141 +559,74 @@ with st.sidebar:
         st.session_state.chatbot = load_chatbot()
     
     if st.session_state.chatbot:
-        st.success("✅ Enhanced Chatbot loaded successfully!")
-        st.markdown(f"📊 **Index size:** 3,893 FAR sections")
-        st.markdown(f"🤖 **Model:** SentenceTransformer + OpenAI GPT-5")
-        st.markdown(f"🚀 **Context:** Up to 256k tokens (50+ chunks)")
-        st.markdown(f"⚡ **Dynamic:** Smart token allocation & query analysis")
+        st.success("✅ Chatbot Ready!")
+        st.markdown("""
+        <div class="sidebar-card">
+            <strong>📊 System Info</strong><br>
+            • 3,893 FAR sections indexed<br>
+            • GPT-4 Turbo powered<br>
+            • 50+ context chunks per query<br>
+            • Clickable inline citations
+        </div>
+        """, unsafe_allow_html=True)
     else:
-        st.error("❌ Chatbot failed to load")
+        st.error("❌ Failed to load")
     
     st.markdown("---")
     
-    # Advanced settings
-    st.markdown("## 🔧 Advanced Options")
-    show_search = st.checkbox("Show search results", value=st.session_state.show_search_details)
-    st.session_state.show_search_details = show_search
-    
-    show_analysis = st.checkbox("Show query analysis", value=False)
-    
-    # Context sizing (always comprehensive with GPT-4 Turbo)
-    st.markdown("**Context Strategy:**")
-    st.info("🚀 **Always using 50 chunks** for maximum comprehensive coverage with GPT-4 Turbo's large context window")
-    
-    # Always use maximum context
-    top_k = None  # Auto-determined (will be 50 for GPT-4 Turbo)
+    # Display options
+    st.markdown("### 🎨 Display Options")
+    st.session_state.show_sources = st.checkbox("Show source documents", value=True)
     
     st.markdown("---")
     
     # Sample questions
-    st.markdown("## 💡 Sample Questions")
-    sample_questions = [
+    st.markdown("### 💡 Try These Questions")
+    samples = [
         "What are small business set-asides?",
-        "What is the simplified acquisition threshold?",
+        "Explain the simplified acquisition threshold",
         "How do I protest a contract award?",
         "What are cost accounting standards?",
-        "When can I use sole source procurement?",
-        "What paperwork is needed for a $100K contract?",
+        "When can I use sole source?",
+        "What is the micro-purchase threshold?",
         "How do contract modifications work?",
-        "What are the requirements for competitive bidding?"
+        "What are competitive bidding requirements?"
     ]
     
-    for question in sample_questions:
-        if st.button(f"💬 {question}", key=f"sample_{hash(question)}"):
-            st.session_state.current_question = question
+    for q in samples:
+        if st.button(f"💬 {q}", key=f"sample_{hash(q)}"):
+            st.session_state.current_question = q
     
     st.markdown("---")
     
-    # Clear chat
-    if st.button("🗑️ Clear Chat History"):
+    if st.button("🗑️ Clear Chat", type="secondary"):
         st.session_state.chat_history = []
-        # Reset conversation context in chatbot
         if st.session_state.chatbot:
             st.session_state.chatbot.conversation = st.session_state.chatbot.conversation.__class__()
         st.rerun()
     
-    # Info section
     st.markdown("""
-    <div class="sidebar-info">
-        <h4>ℹ️ About</h4>
-        <p>This chatbot helps you navigate the Federal Acquisition Regulation (FAR) by providing accurate, cited answers to your procurement questions.</p>
-        
-        <p><strong>Features:</strong></p>
-        <ul>
-            <li>🔍 Semantic search across all FAR sections</li>
-            <li>📝 Proper citations for all answers</li>
-            <li>🤖 AI-powered explanations</li>
-            <li>⚡ Fast, accurate responses</li>
-        </ul>
+    <div class="sidebar-card">
+        <strong>ℹ️ Tips</strong><br>
+        • Click any <span style="background:#fef3c7;padding:2px 6px;border-radius:4px;font-family:monospace;">[citation]</span> to see the source<br>
+        • Ask follow-up questions for deeper info<br>
+        • Use specific terms for better results
     </div>
     """, unsafe_allow_html=True)
 
-# Main chat interface
+# Main content
 if st.session_state.chatbot is None:
-    st.error("❌ Please wait for the chatbot to load before asking questions.")
+    st.error("Please wait for the chatbot to load...")
     st.stop()
 
 # Display chat history
-for i, chat_entry in enumerate(st.session_state.chat_history):
-    # Handle multiple formats for backward compatibility
-    if len(chat_entry) == 4:
-        # Old format: (question, answer, search_results, timestamp)
-        question, answer, search_results, timestamp = chat_entry
-        suggestions = []
-        topics = []
-        sections = []
-        analysis = {}
-        context_size = 0
-        model_used = "unknown"
-    elif len(chat_entry) == 7:
-        # Previous format: (question, answer, suggestions, topics, sections, search_results, timestamp)
-        question, answer, suggestions, topics, sections, search_results, timestamp = chat_entry
-        analysis = {}
-        context_size = 0
-        model_used = "unknown"
-    else:
-        # New enhanced format: (question, answer, suggestions, topics, sections, search_results, timestamp, analysis, context_size, model_used)
-        question, answer, suggestions, topics, sections, search_results, timestamp, analysis, context_size, model_used = chat_entry
-    
-    # User message
-    st.markdown(f"""
-    <div class="chat-message user-message">
-        <strong>👤 You ({timestamp}):</strong><br>
-        {question}
-    </div>
-    """, unsafe_allow_html=True)
-    
-    # Show conversation context if available
-    if topics or sections:
-        display_conversation_context(topics, sections)
-    
-    # Show query analysis if enabled
-    if show_analysis and analysis:
-        display_query_analysis(analysis, context_size, model_used)
-    
-    # Bot response
-    formatted_answer = format_response_with_citations(answer)
-    st.markdown(f"""
-    <div class="chat-message bot-message">
-        <strong>🤖 FAR Bot (Enhanced):</strong><br>
-        {formatted_answer}
-    </div>
-    """, unsafe_allow_html=True)
-    
-    # Show suggestions for the most recent message
-    if i == len(st.session_state.chat_history) - 1 and suggestions:
-        display_suggestions(suggestions)
-    
-    # Search results if enabled
-    if st.session_state.show_search_details and search_results:
-        display_search_results(search_results)
-    
-    st.markdown("---")
+for i, entry in enumerate(st.session_state.chat_history):
+    render_chat_message(entry, i, len(st.session_state.chat_history))
 
 # Chat input
 st.markdown("## 💬 Ask a Question")
 
-# Handle sample question selection or suggestion clicks
+# Handle queued questions
 question = ""
 process_question = False
 
@@ -360,100 +639,64 @@ elif 'selected_suggestion' in st.session_state:
     del st.session_state.selected_suggestion
     process_question = True
 else:
-    # Show conversation context hint if we have ongoing conversation
-    placeholder_text = "e.g., What are the requirements for small business set-asides?"
+    placeholder = "Ask about FAR regulations, thresholds, procedures..."
     if st.session_state.chatbot and st.session_state.chatbot.conversation.current_topics:
-        current_topic = st.session_state.chatbot.conversation.current_topics[0]
-        placeholder_text = f"Ask a follow-up about {current_topic}, or start a new topic..."
+        topic = st.session_state.chatbot.conversation.current_topics[0]
+        placeholder = f"Follow up on {topic}, or ask something new..."
     
-    question = st.text_input(
-        "Enter your FAR-related question:",
-        placeholder=placeholder_text,
-        key="question_input"
-    )
+    question = st.text_input("Your question:", placeholder=placeholder, key="q_input")
 
-col1, col2 = st.columns([1, 4])
+col1, col2 = st.columns([1, 5])
 with col1:
-    ask_button = st.button("🚀 Ask Question", type="primary")
+    ask_btn = st.button("🚀 Ask", type="primary")
 
-# Only process if button was clicked or we have a queued question, and avoid reprocessing the same question
-should_process = False
-if process_question:
-    should_process = True
-elif ask_button and question.strip() and question != st.session_state.last_processed_question:
-    should_process = True
+should_process = process_question or (ask_btn and question.strip() and question != st.session_state.last_processed_question)
 
-if should_process:
-    if st.session_state.chatbot:
-        # Create a detailed progress indicator
-        progress_container = st.container()
+if should_process and st.session_state.chatbot:
+    with st.status("🔍 Processing your question...", expanded=True) as status:
+        st.write("📊 Analyzing query...")
+        time.sleep(0.3)
         
-        with progress_container:
-            # Step 1: Query Analysis
-            with st.spinner("🔍 **Step 1/5:** Analyzing query complexity and type..."):
-                time.sleep(0.5)  # Brief pause to show the step
-                st.success("✅ Query analyzed - determining optimal search strategy")
-            
-            # Step 2: Semantic Search
-            with st.spinner("🔎 **Step 2/5:** Searching 50 FAR sections with semantic similarity..."):
-                time.sleep(0.8)  # Brief pause to show the step
-                st.success("✅ Found relevant FAR sections across all regulations")
-            
-            # Step 3: Context Assembly
-            with st.spinner("📚 **Step 3/5:** Assembling comprehensive regulatory context..."):
-                time.sleep(0.5)
-                st.success("✅ Context assembled - including cross-references and definitions")
-            
-            # Step 4: AI Processing
-            with st.spinner("🤖 **Step 4/5:** GPT-4 Turbo generating comprehensive response..."):
-                try:
-                    # Generate response with enhanced conversation context
-                    result = st.session_state.chatbot.chat(question, top_k=top_k)
-                    st.success("✅ AI response generated with proper citations")
-                    
-                except Exception as e:
-                    st.error(f"❌ Error during AI processing: {str(e)}")
-                    logging.error(f"Streamlit chat error: {e}")
-                    st.stop()
-            
-            # Step 5: Final Assembly
-            with st.spinner("⚡ **Step 5/5:** Finalizing response and suggestions..."):
-                time.sleep(0.3)
-                
-                # Extract response components
-                response = result['response']
-                suggestions = result['suggestions']
-                topics = result['topics']
-                sections = result['sections']
-                search_results = result.get('search_results', [])
-                analysis = result.get('query_analysis', {})
-                context_size = result.get('context_size', 0)
-                model_used = result.get('model_used', 'unknown')
-                
-                # Add to chat history with enhanced format
-                timestamp = datetime.now().strftime("%H:%M")
-                st.session_state.chat_history.append((
-                    question, response, suggestions, topics, sections, search_results, 
-                    timestamp, analysis, context_size, model_used
-                ))
-                
-                # Remember this question to avoid reprocessing
-                st.session_state.last_processed_question = question
-                
-                st.success("🎉 **Complete!** Professional FAR guidance ready")
+        st.write("🔎 Searching FAR database...")
+        time.sleep(0.3)
         
-        # Clear the progress indicators and show results
-        progress_container.empty()
-        st.rerun()
+        st.write("📚 Gathering relevant sections...")
+        time.sleep(0.3)
         
-    else:
-        st.error("❌ Chatbot not loaded. Please refresh the page.")
+        st.write("🤖 Generating response with GPT-4 Turbo...")
+        
+        try:
+            result = st.session_state.chatbot.chat(question, top_k=None)
+            
+            response = result['response']
+            suggestions = result['suggestions']
+            topics = result['topics']
+            sections = result['sections']
+            search_results = result.get('search_results', [])
+            analysis = result.get('query_analysis', {})
+            context_size = result.get('context_size', 0)
+            model_used = result.get('model_used', 'gpt-4-turbo')
+            
+            timestamp = datetime.now().strftime("%H:%M")
+            st.session_state.chat_history.append((
+                question, response, suggestions, topics, sections, 
+                search_results, timestamp, analysis, context_size, model_used
+            ))
+            
+            st.session_state.last_processed_question = question
+            status.update(label="✅ Complete!", state="complete")
+            
+        except Exception as e:
+            st.error(f"Error: {str(e)}")
+            logger.error(f"Chat error: {e}")
+            status.update(label="❌ Error", state="error")
+    
+    st.rerun()
 
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style="text-align: center; color: #666; padding: 1rem;">
-    <p>🏛️ FAR Chatbot | Built with Streamlit & OpenAI | 
-    <a href="https://github.com/your-repo" target="_blank">View Source</a></p>
+<div style="text-align:center;color:#718096;padding:1rem;">
+    🏛️ FAR Chatbot | Powered by GPT-4 Turbo | Click citations to view sources
 </div>
 """, unsafe_allow_html=True)

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: far-chatbot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run python/streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false  # You'll set this manually in Render dashboard
+      - key: PYTHON_VERSION
+        value: "3.11"

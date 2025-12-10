@@ -160,37 +160,66 @@ class FARChatbot:
             openai_api_key: OpenAI API key (optional, will try env var)
             use_gpt5: Whether to use GPT-5 for enhanced context handling
         """
+        logging.info("🚀 Initializing FARChatbot...")
+        logging.info(f"📍 FAISS index path: {faiss_index_path}")
+        logging.info(f"📄 Texts path: {texts_path}")
+        logging.info(f"🤖 Model name: {model_name}")
+        logging.info(f"⚡ GPT-5 enabled: {use_gpt5}")
+        
+        logging.info("🔄 Loading SentenceTransformer model...")
         self.model = SentenceTransformer(model_name)
+        logging.info("✅ SentenceTransformer model loaded successfully")
+        
         self.faiss_index = None
         self.texts = []
         self.conversation = ConversationContext()
         self.use_gpt5 = use_gpt5
         
         # Load FAISS index and texts
+        logging.info("📚 Loading FAISS index and texts...")
         self.load_index(faiss_index_path)
         self.load_texts(texts_path)
         
         # Setup OpenAI client
+        logging.info("🔑 Setting up OpenAI client...")
         api_key = openai_api_key or os.getenv('OPENAI_API_KEY')
         if api_key:
             self.openai_client = OpenAI(api_key=api_key)
-            logging.info(f"OpenAI client initialized successfully (GPT-5: {use_gpt5})")
+            logging.info(f"✅ OpenAI client initialized successfully (GPT-5: {use_gpt5})")
         else:
             self.openai_client = None
-            logging.warning("No OpenAI API key provided. Using retrieval-only mode.")
+            logging.warning("⚠️ No OpenAI API key provided. Using retrieval-only mode.")
+            
+        logging.info("🎉 FARChatbot initialization complete!")
             
     def load_index(self, index_path: str):
         """Load the FAISS index"""
-        logging.info(f"Loading FAISS index from {index_path}")
+        logging.info(f"🔍 Loading FAISS index from {index_path}")
+        
+        if not os.path.exists(index_path):
+            raise FileNotFoundError(f"❌ FAISS index file not found: {index_path}")
+            
+        file_size = os.path.getsize(index_path) / (1024 * 1024)  # MB
+        logging.info(f"📊 FAISS index file size: {file_size:.1f} MB")
+        
+        logging.info("⏳ Reading FAISS index (this may take a moment)...")
         self.faiss_index = faiss.read_index(index_path)
-        logging.info(f"Loaded FAISS index with {self.faiss_index.ntotal} vectors")
+        logging.info(f"✅ FAISS index loaded successfully with {self.faiss_index.ntotal} vectors")
         
     def load_texts(self, texts_path: str):
         """Load the corresponding texts"""
-        logging.info(f"Loading texts from {texts_path}")
+        logging.info(f"📄 Loading texts from {texts_path}")
+        
+        if not os.path.exists(texts_path):
+            raise FileNotFoundError(f"❌ Texts file not found: {texts_path}")
+            
+        file_size = os.path.getsize(texts_path) / (1024 * 1024)  # MB
+        logging.info(f"📊 Texts file size: {file_size:.1f} MB")
+        
+        logging.info("⏳ Reading texts file...")
         with open(texts_path, 'r', encoding='utf-8') as f:
             self.texts = [line.strip() for line in f.readlines()]
-        logging.info(f"Loaded {len(self.texts)} texts")
+        logging.info(f"✅ Loaded {len(self.texts)} texts successfully")
         
     def extract_topics_from_query(self, query: str) -> List[str]:
         """Extract main topics from a query for conversation tracking"""
