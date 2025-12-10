@@ -6,25 +6,44 @@ Features: Inline clickable citations, modern UI, expandable sources
 
 import streamlit as st
 import time
-from far_chatbot import FARChatbot
 import logging
 import os
+import sys
 from datetime import datetime
 import re
-import markdown
 
-# Configure logging
+# Configure logging (without file handler for cloud compatibility)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler('streamlit_app.log')
+        logging.StreamHandler()
     ]
 )
 logger = logging.getLogger(__name__)
 
 logger.info("🚀 Starting Enhanced FAR Chatbot...")
+logger.info(f"📍 Current working directory: {os.getcwd()}")
+logger.info(f"📍 Script location: {os.path.dirname(os.path.abspath(__file__))}")
+
+# Add the python directory to path for imports
+script_dir = os.path.dirname(os.path.abspath(__file__))
+if script_dir not in sys.path:
+    sys.path.insert(0, script_dir)
+
+try:
+    from far_chatbot import FARChatbot
+    logger.info("✅ Successfully imported FARChatbot")
+except ImportError as e:
+    logger.error(f"❌ Failed to import FARChatbot: {e}")
+    st.error(f"Failed to import FARChatbot: {e}")
+    st.stop()
+
+try:
+    import markdown
+except ImportError:
+    markdown = None
+    logger.warning("markdown module not available, using fallback")
 
 # Configure page
 st.set_page_config(
