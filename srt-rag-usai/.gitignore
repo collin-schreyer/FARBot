@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.log
+output/
+attachments/
+test_attachments/
+test_dry_run.py
+srt_rag_usai.log
+
+# Large model binary — only used by alternate sklearn_predictor path; keep out of git
+data/legacy_model.pkl

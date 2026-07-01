@@ -1,0 +1,22 @@
+applications:
+  - name: srt-rag-usai-dev
+    memory: 1G
+    disk_quota: 4G
+    docker:
+      image: collinschreyer/srt-rag-usai:latest
+    routes:
+      - route: srt-rag-usai-dev.app.cloud.gov
+    services:
+      - srt-postgres15-dev
+    env:
+      USAI_BASE_URL: https://api.gsa.usai.gov/api/v1
+      SAM_API_KEY: SAM-9b65b801-56ff-4ae9-9b9d-e525590ab382
+      # RUN_MODE options: daily (scrape+analyze), test (bundled files only), cron
+      RUN_MODE: test
+      # For testing specific dates:
+      # SCRAPE_FROM_DATE: "2026-03-28"
+      # SCRAPE_TO_DATE: "2026-03-28"
+      # SCRAPE_LIMIT: "5"
+    health-check-type: http
+    health-check-http-endpoint: /health
+    timeout: 180
