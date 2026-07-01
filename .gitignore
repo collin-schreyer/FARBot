@@ -115,3 +115,8 @@ yarn-error.log*
 # Terraform plan artifacts
 tfplan
 tfplan.*
+
+# The Next.js web app's lib/ is source code, not a Python build dir — the broad
+# `lib/` rule above must not swallow it.
+!web/lib/
+!web/lib/**
