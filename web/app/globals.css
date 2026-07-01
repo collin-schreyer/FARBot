@@ -1,0 +1,684 @@
+/* App-specific styles layered on USWDS (USWDS itself is loaded via CDN in layout). */
+
+body {
+  margin: 0;
+}
+.far-main {
+  min-height: 60vh;
+}
+.far-logo-sub {
+  color: #71767a;
+  font-weight: 400;
+}
+
+/* Toolbar + two-column layout */
+.far-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.75rem;
+}
+.far-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.far-chat {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.far-layout--full .far-chat {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+.far-inspector {
+  flex: 0 0 370px;
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  border: 1px solid #dfe1e2;
+  border-radius: 6px;
+  background: #f9fafb;
+  padding: 1rem 1.1rem;
+  font-size: 0.85rem;
+}
+@media (max-width: 950px) {
+  .far-layout {
+    flex-direction: column;
+  }
+  .far-inspector {
+    position: static;
+    flex-basis: auto;
+    width: 100%;
+    max-height: none;
+  }
+}
+
+/* Question (clickable to inspect its pipeline) */
+.far-question {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border: none;
+  border-left: 4px solid #005ea2;
+  background: transparent;
+  cursor: pointer;
+  padding: 0 0 0 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #1a4480;
+  line-height: 1.3;
+}
+.far-question:hover {
+  color: #005ea2;
+}
+.far-question--active {
+  border-left-color: #fa9441;
+}
+
+/* Answer + streaming cursor */
+.far-answer {
+  font-size: 1.06rem;
+  line-height: 1.7;
+  max-width: 42rem;
+}
+.far-streaming::after {
+  content: "▋";
+  margin-left: 2px;
+  color: #005ea2;
+  animation: far-blink 1s steps(2, start) infinite;
+}
+@keyframes far-blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Inline citation markers with hover popup */
+.far-cites {
+  white-space: nowrap;
+}
+.far-cite {
+  position: relative;
+  display: inline-block;
+  margin: 0 1px;
+  padding: 0 5px;
+  font-size: 0.7em;
+  font-weight: 700;
+  line-height: 1.4;
+  vertical-align: super;
+  color: #1a4480;
+  background: #e1ecf7;
+  border: 1px solid #aacbeb;
+  border-radius: 999px;
+  text-decoration: none;
+}
+.far-cite:hover,
+.far-cite:focus {
+  background: #005ea2;
+  color: #fff;
+  border-color: #005ea2;
+}
+.far-cite__tip {
+  position: absolute;
+  left: 50%;
+  bottom: 135%;
+  transform: translateX(-50%);
+  display: none;
+  z-index: 20;
+  white-space: normal;
+  width: max-content;
+  max-width: 260px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  background: #1b1b1b;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.35;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.far-cite:hover .far-cite__tip,
+.far-cite:focus .far-cite__tip {
+  display: block;
+}
+.far-cite__tip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: #1b1b1b;
+}
+
+/* Inspector internals */
+.far-insp-title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #1b1b1b;
+  margin-bottom: 0.75rem;
+}
+.far-insp-empty {
+  color: #71767a;
+  font-style: italic;
+}
+.far-insp-block {
+  border-top: 1px solid #dfe1e2;
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+}
+.far-insp-block:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+}
+.far-insp-h {
+  font-weight: 700;
+  color: #1a4480;
+  margin-bottom: 0.5rem;
+}
+.far-insp-count {
+  color: #71767a;
+  font-weight: 400;
+  font-size: 0.8em;
+}
+.far-kv {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 3px 10px;
+  margin: 0;
+}
+.far-kv dt {
+  color: #71767a;
+}
+.far-kv dd {
+  margin: 0;
+  text-align: right;
+  word-break: break-word;
+}
+.far-mono {
+  font-family: ui-monospace, "Roboto Mono", monospace;
+  font-size: 0.8em;
+}
+
+/* Retrieval chunk cards */
+.far-chunk {
+  padding: 0.5rem 0.6rem;
+  border: 1px solid #dfe1e2;
+  border-radius: 5px;
+  background: #fff;
+  margin-bottom: 0.5rem;
+}
+.far-chunk--cited {
+  border-color: #005ea2;
+  background: #eff6fb;
+}
+.far-chunk__top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.far-chunk__rank {
+  font-size: 0.7rem;
+  color: #71767a;
+  width: 1.1rem;
+}
+.far-chunk__sec {
+  font-weight: 700;
+  color: #005ea2;
+  text-decoration: none;
+}
+.far-chunk__sec:hover {
+  text-decoration: underline;
+}
+.far-chunk__badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  background: #005ea2;
+  border-radius: 3px;
+  padding: 1px 5px;
+}
+.far-chunk__score {
+  margin-left: auto;
+  font-family: ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: #71767a;
+}
+.far-bar {
+  height: 4px;
+  background: #eaeef2;
+  border-radius: 2px;
+  margin: 4px 0;
+  overflow: hidden;
+}
+.far-bar__fill {
+  height: 100%;
+  background: #005ea2;
+}
+.far-chunk--cited .far-bar__fill {
+  background: #1a4480;
+}
+.far-chunk__title {
+  font-weight: 600;
+  font-size: 0.78rem;
+  margin-top: 2px;
+}
+.far-chunk__snip {
+  color: #565c65;
+  font-size: 0.76rem;
+  line-height: 1.35;
+  margin-top: 2px;
+}
+
+/* Clause-matrix generator */
+.far-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.25rem 1.5rem;
+}
+@media (max-width: 640px) {
+  .far-form-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.far-matrix-meta {
+  color: #71767a;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+.far-matrix-h {
+  font-size: 1.05rem;
+  color: #1a4480;
+  border-bottom: 2px solid #dfe1e2;
+  padding-bottom: 4px;
+  margin: 1.5rem 0 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.far-matrix-h span {
+  font-size: 0.75rem;
+  background: #005ea2;
+  color: #fff;
+  border-radius: 999px;
+  padding: 1px 9px;
+}
+.far-clause-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+}
+.far-clause {
+  border: 1px solid #dfe1e2;
+  border-left: 4px solid #71767a;
+  border-radius: 5px;
+  padding: 0.7rem 0.85rem;
+  background: #fff;
+}
+.far-clause--required {
+  border-left-color: #005ea2;
+}
+.far-clause--conditional {
+  border-left-color: #ffbe2e;
+}
+.far-clause__head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.far-clause__id {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #005ea2;
+  text-decoration: none;
+}
+.far-clause__id:hover {
+  text-decoration: underline;
+}
+.far-clause__status {
+  margin-left: auto;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+.far-clause__status--required {
+  background: #005ea2;
+  color: #fff;
+}
+.far-clause__status--conditional {
+  background: #fef0c8;
+  color: #8c6800;
+}
+.far-clause__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 3px;
+}
+.far-clause__reason {
+  font-size: 0.82rem;
+  color: #3d4551;
+  line-height: 1.4;
+  margin-top: 4px;
+}
+.far-clause__presc {
+  font-size: 0.76rem;
+  color: #71767a;
+  margin-top: 5px;
+}
+.far-matrix-disclaimer {
+  font-size: 0.8rem;
+  color: #71767a;
+  font-style: italic;
+  margin-top: 1.5rem;
+  border-top: 1px solid #dfe1e2;
+  padding-top: 0.75rem;
+}
+
+/* FAR graph explorer */
+.far-graph-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 1rem 0;
+}
+.far-graph-search {
+  max-width: 260px;
+  margin-top: 0;
+}
+.far-graph-part {
+  max-width: 160px;
+  margin-top: 0;
+}
+.far-graph-toggle {
+  font-size: 0.85rem;
+  color: #1b1b1b;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.far-graph-count {
+  margin-left: auto;
+  color: #71767a;
+  font-size: 0.8rem;
+}
+.far-graph-stage {
+  position: relative;
+  width: 100%;
+  height: 72vh;
+  min-height: 480px;
+  border: 1px solid #dfe1e2;
+  border-radius: 8px;
+  background: #0b1020;
+  overflow: hidden;
+}
+.far-graph-loading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #cfd6e4;
+}
+.far-graph-info {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 300px;
+  max-height: calc(100% - 24px);
+  overflow-y: auto;
+  background: rgba(255, 255, 255, 0.97);
+  border: 1px solid #dfe1e2;
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+.far-graph-info__close {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #71767a;
+}
+.far-graph-info__id {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #1b1b1b;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.far-graph-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.far-graph-info__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin: 3px 0 6px;
+}
+.far-graph-info__link {
+  font-size: 0.82rem;
+}
+.far-graph-info__rel {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  border-top: 1px solid #eaecef;
+  padding-top: 0.5rem;
+}
+.far-graph-info__none {
+  color: #71767a;
+  font-size: 0.82rem;
+  font-style: italic;
+}
+.far-graph-neighbor {
+  text-align: left;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.82rem;
+  color: #005ea2;
+  padding: 2px 0;
+}
+.far-graph-neighbor:hover {
+  text-decoration: underline;
+}
+.far-graph-neighbor__rel {
+  color: #71767a;
+}
+.far-graph-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 0.75rem;
+  color: #565c65;
+  font-size: 0.8rem;
+  align-items: center;
+}
+.far-graph-key {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-right: 5px;
+  vertical-align: -1px;
+}
+
+/* Citation map (inline answer subgraph) + GraphRAG source tags */
+.far-citemap {
+  margin-top: 1rem;
+  border: 1px solid #dfe1e2;
+  border-radius: 8px;
+  background: #fbfcfd;
+  padding: 0.5rem 0.75rem;
+  max-width: 440px;
+}
+.far-citemap__head {
+  font-size: 0.78rem;
+  color: #71767a;
+  margin-bottom: 2px;
+}
+.far-subgraph {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.far-src {
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+.far-src--semantic {
+  background: #e1ecf7;
+  color: #1a4480;
+}
+.far-src--graph {
+  background: #fde7cf;
+  color: #8c4a0b;
+}
+.far-chunk__via {
+  font-size: 0.72rem;
+  color: #8c4a0b;
+  margin: 3px 0;
+}
+
+/* Contained, self-scrolling chat box */
+.far-chat-box {
+  height: 62vh;
+  min-height: 380px;
+  overflow-y: auto;
+  border: 1px solid #dfe1e2;
+  border-radius: 10px;
+  background: #fff;
+  padding: 1.25rem 1.5rem;
+  scroll-behavior: auto;
+}
+.far-chat-empty {
+  padding-top: 0.25rem;
+}
+.far-turn {
+  margin-bottom: 1.75rem;
+}
+.far-turn:last-child {
+  margin-bottom: 0.25rem;
+}
+.far-chat-form {
+  max-width: none;
+  margin-top: 0.75rem;
+}
+.far-chat-form .usa-input {
+  height: 44px;
+}
+
+/* Inspector: graph-expansion branch diagram + pagination */
+.far-branch {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.far-branch-cap {
+  font-size: 0.75rem;
+  color: #71767a;
+  margin: 0 0 4px;
+}
+.far-branch-legend {
+  display: flex;
+  gap: 14px;
+  margin-top: 4px;
+  font-size: 0.72rem;
+  color: #565c65;
+}
+.far-branch-legend span {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.far-branch-legend i {
+  width: 14px;
+  height: 3px;
+  border-radius: 2px;
+  display: inline-block;
+}
+.far-pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 8px;
+  font-size: 0.78rem;
+  color: #565c65;
+}
+.far-pager button {
+  border: 1px solid #dfe1e2;
+  background: #fff;
+  border-radius: 4px;
+  width: 26px;
+  height: 24px;
+  cursor: pointer;
+  color: #005ea2;
+  font-size: 1rem;
+  line-height: 1;
+}
+.far-pager button:disabled {
+  color: #c9ced3;
+  cursor: default;
+}
+
+/* Login page */
+.far-login {
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1rem 4rem;
+}
+.far-login__card {
+  width: 100%;
+  max-width: 380px;
+  border: 1px solid #dfe1e2;
+  border-radius: 12px;
+  padding: 2rem 2.25rem;
+  background: #fff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+.far-login__brand {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #71767a;
+  font-weight: 700;
+}
+.far-login__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #1a4480;
+  margin: 2px 0 0;
+}
+.far-login__sub {
+  color: #565c65;
+  margin: 2px 0 1.25rem;
+}
+.far-login__btn {
+  width: 100%;
+}
+.far-signout {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+}

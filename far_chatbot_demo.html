@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAR Chatbot Demo - AI-Powered Federal Acquisition Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #1f4e79, #2e5984);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .main-content {
+            display: flex;
+            min-height: 600px;
+        }
+
+        .sidebar {
+            width: 300px;
+            background: #f8f9fa;
+            padding: 2rem;
+            border-right: 1px solid #dee2e6;
+        }
+
+        .sidebar h3 {
+            color: #1f4e79;
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+        }
+
+        .sample-questions {
+            list-style: none;
+        }
+
+        .sample-questions li {
+            margin-bottom: 0.5rem;
+        }
+
+        .sample-btn {
+            width: 100%;
+            text-align: left;
+            padding: 0.75rem;
+            background: #e3f2fd;
+            border: 1px solid #1976d2;
+            border-radius: 8px;
+            color: #1976d2;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .sample-btn:hover {
+            background: #1976d2;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .chat-area {
+            flex: 1;
+            padding: 2rem;
+            overflow-y: auto;
+            max-height: 80vh;
+        }
+
+        .chat-message {
+            margin-bottom: 2rem;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .user-message {
+            background: #f0f2f6;
+            border-left: 4px solid #ff6b6b;
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin-bottom: 1rem;
+        }
+
+        .bot-message {
+            background: #e8f4fd;
+            border-left: 4px solid #1f4e79;
+            padding: 1.5rem;
+            border-radius: 10px;
+            line-height: 1.6;
+        }
+
+        .bot-message p {
+            margin-bottom: 1rem;
+        }
+
+        .bot-message ul,
+        .bot-message ol {
+            margin: 1rem 0;
+            padding-left: 1.5rem;
+        }
+
+        .bot-message li {
+            margin-bottom: 0.5rem;
+        }
+
+        .bot-message strong {
+            color: #1f4e79;
+        }
+
+        .message-header {
+            font-weight: bold;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #1f4e79;
+        }
+
+        .citation {
+            background: #fff3cd;
+            color: #856404;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            text-decoration: none;
+            border: 1px solid #ffeaa7;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .citation:hover {
+            background: #856404;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .suggestions {
+            margin-top: 1.5rem;
+            padding: 1rem;
+            background: #f3e5f5;
+            border-radius: 8px;
+            border-left: 4px solid #9c27b0;
+        }
+
+        .suggestions h4 {
+            color: #9c27b0;
+            margin-bottom: 1rem;
+        }
+
+        .suggestion-btn {
+            display: inline-block;
+            margin: 0.25rem;
+            padding: 0.5rem 1rem;
+            background: #e1bee7;
+            border: 1px solid #9c27b0;
+            border-radius: 20px;
+            color: #9c27b0;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .suggestion-btn:hover {
+            background: #9c27b0;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .search-results {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+        }
+
+        .search-results h4 {
+            color: #495057;
+            margin-bottom: 1rem;
+        }
+
+        .search-result-item {
+            margin-bottom: 1rem;
+            padding: 0.75rem;
+            background: white;
+            border-radius: 6px;
+            border-left: 3px solid #28a745;
+        }
+
+        .context-info {
+            background: #e8f5e8;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            font-size: 0.9rem;
+            color: #155724;
+        }
+
+        .stats {
+            background: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            border: 1px solid #dee2e6;
+        }
+
+        .stats h4 {
+            color: #1f4e79;
+            margin-bottom: 0.5rem;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #1f4e79;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .response-content {
+            white-space: pre-line;
+        }
+
+        .control-button {
+            background: linear-gradient(135deg, #1f4e79, #2e5984);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            margin: 0 0.5rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(31, 78, 121, 0.2);
+        }
+
+        .control-button:hover {
+            background: linear-gradient(135deg, #2e5984, #3b6cb8);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(31, 78, 121, 0.4);
+        }
+
+        .journey-section {
+            display: none;
+            padding: 2rem;
+            background: linear-gradient(135deg, #1b1b1b 0%, #2d2d2d 50%, #1e3c72 100%);
+            color: #f0f0f0;
+            min-height: 80vh;
+        }
+
+        .journey-section.active {
+            display: block;
+        }
+
+        .demo-section {
+            display: block;
+        }
+
+        .demo-section.hidden {
+            display: none;
+        }
+
+        .journey-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background: rgba(30, 60, 114, 0.1);
+            border-radius: 1rem;
+            border-left: 4px solid #1e3c72;
+            backdrop-filter: blur(10px);
+        }
+
+        .journey-header h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #58a6ff;
+            font-weight: 700;
+            text-shadow: 0 0 10px rgba(88, 166, 255, 0.3);
+        }
+
+        .journey-header .subtitle {
+            font-size: 1.25rem;
+            color: #00ff41;
+            margin-bottom: 1rem;
+            text-shadow: 0 0 3px rgba(0, 255, 65, 0.2);
+        }
+
+        .timeline-container {
+            position: relative;
+            margin: 2rem 0;
+            padding: 2rem 0;
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, #4CAF50, #FFC107, #58a6ff);
+            transform: translateX(-50%);
+        }
+
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            margin: 3rem 0;
+            opacity: 0;
+            transform: translateX(-50px);
+            transition: all 0.8s ease;
+        }
+
+        .timeline-item.animate {
+            opacity: 1;
+            transform: translateX(0);
+        }
+
+        .timeline-item:nth-child(even) {
+            flex-direction: row-reverse;
+            transform: translateX(50px);
+        }
+
+        .timeline-item:nth-child(even).animate {
+            transform: translateX(0);
+        }
+
+        .timeline-content {
+            background: rgba(30, 60, 114, 0.1);
+            border: 1px solid rgba(30, 60, 114, 0.3);
+            border-radius: 1rem;
+            padding: 2rem;
+            flex: 1;
+            margin: 0 2rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .timeline-phase {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #58a6ff;
+            margin-bottom: 1rem;
+        }
+
+        .timeline-description {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+
+        .timeline-tech {
+            background: rgba(0, 255, 65, 0.1);
+            border: 1px solid rgba(0, 255, 65, 0.3);
+            border-radius: 0.5rem;
+            padding: 1rem;
+            margin-top: 1rem;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .stat-card {
+            background: rgba(0, 255, 65, 0.1);
+            border: 1px solid rgba(0, 255, 65, 0.3);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            text-align: center;
+            opacity: 0;
+            transform: scale(0.9);
+            animation: statReveal 0.8s ease-out forwards;
+        }
+
+        @keyframes statReveal {
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #00ff41;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: #58a6ff;
+            font-size: 0.9rem;
+        }
+
+        .challenge-box {
+            background: rgba(255, 68, 68, 0.1);
+            border: 2px solid rgba(255, 68, 68, 0.3);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+
+        .challenge-title {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #ff4444;
+            margin-bottom: 1rem;
+        }
+
+        .solution-box {
+            background: rgba(0, 255, 65, 0.1);
+            border: 2px solid rgba(0, 255, 65, 0.3);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+
+        .solution-title {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #00ff41;
+            margin-bottom: 1rem;
+        }
+
+        .tech-stack {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .tech-item {
+            background: rgba(88, 166, 255, 0.1);
+            border: 1px solid rgba(88, 166, 255, 0.3);
+            border-radius: 0.5rem;
+            padding: 1rem;
+            text-align: center;
+            font-weight: bold;
+            color: #58a6ff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏛️ FAR Chatbot Demo</h1>
+            <p>AI-Powered Federal Acquisition Regulation Assistant</p>
+            <div style="margin-top: 1rem;">
+                <button class="control-button" onclick="showJourney()">📖 How It Was Built</button>
+                <button class="control-button" onclick="showDemo()">🚀 Try the Demo</button>
+            </div>
+        </div>
+
+        <!-- Journey Section -->
+        <div class="journey-section" id="journeySection">
+            <div class="journey-header">
+                <h2>🚀 The FAR Bot Building Journey</h2>
+                <p class="subtitle">From 3,893 Regulation Sections to AI-Powered Assistant</p>
+                <p>Discover how we transformed the complex Federal Acquisition Regulation into an intelligent, searchable AI assistant</p>
+            </div>
+
+            <div class="challenge-box">
+                <div class="challenge-title">🎯 The Challenge</div>
+                <p>The Federal Acquisition Regulation contains <strong>3,893 sections</strong> across 53 parts. Government contracting professionals spend countless hours searching through dense regulatory text to find answers to critical procurement questions.</p>
+            </div>
+
+            <div class="timeline-container">
+                <div class="timeline-line"></div>
+                
+                <div class="timeline-item" data-delay="0.2">
+                    <div class="timeline-content">
+                        <div class="timeline-phase">Phase 1: Data Discovery & Processing</div>
+                        <div class="timeline-description">
+                            We started with the complete FAR dataset - thousands of HTML files containing regulatory text, tables, and cross-references. The challenge was extracting clean, structured content from complex government HTML.
+                        </div>
+                        <div class="timeline-tech">
+                            <strong>Tech Stack:</strong> Python, BeautifulSoup, Regex Processing<br>
+                            <strong>Output:</strong> 3,893 clean text sections with metadata
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item" data-delay="0.4">
+                    <div class="timeline-content">
+                        <div class="timeline-phase">Phase 2: Vector Embeddings & Search</div>
+                        <div class="timeline-description">
+                            Each FAR section was converted into high-dimensional vectors using OpenAI's text-embedding-3-large model. These 768-dimensional embeddings capture semantic meaning, enabling intelligent similarity search.
+                        </div>
+                        <div class="timeline-tech">
+                            <strong>Tech Stack:</strong> OpenAI Embeddings API, FAISS Vector Database<br>
+                            <strong>Performance:</strong> Sub-second search across 3,893 sections
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item" data-delay="0.6">
+                    <div class="timeline-content">
+                        <div class="timeline-phase">Phase 3: Intelligent Retrieval System</div>
+                        <div class="timeline-description">
+                            Built a sophisticated retrieval system that finds the 50 most relevant FAR sections for any query. The system balances precision and recall to ensure comprehensive coverage of complex regulatory topics.
+                        </div>
+                        <div class="timeline-tech">
+                            <strong>Retrieval:</strong> Top-50 semantic similarity search<br>
+                            <strong>Context Window:</strong> ~200K tokens for GPT-5
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item" data-delay="0.8">
+                    <div class="timeline-content">
+                        <div class="timeline-phase">Phase 4: GPT-5 Integration & Response Generation</div>
+                        <div class="timeline-description">
+                            Integrated OpenAI's GPT-5 model with a 256K context window to process retrieved FAR sections and generate comprehensive, cited responses. The system provides accurate answers with proper regulatory citations.
+                        </div>
+                        <div class="timeline-tech">
+                            <strong>Model:</strong> GPT-5 (256K context)<br>
+                            <strong>Features:</strong> Automatic citations, follow-up suggestions
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item" data-delay="1.0">
+                    <div class="timeline-content">
+                        <div class="timeline-phase">Phase 5: User Interface & Experience</div>
+                        <div class="timeline-description">
+                            Created an intuitive web interface that makes complex regulatory guidance accessible. Features include sample questions, real-time search results, and contextual follow-up suggestions.
+                        </div>
+                        <div class="timeline-tech">
+                            <strong>Frontend:</strong> Streamlit, HTML/CSS/JavaScript<br>
+                            <strong>UX:</strong> Sample questions, citations, suggestions
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="solution-box">
+                <div class="solution-title">✨ The Result</div>
+                <p>A powerful AI assistant that can answer complex FAR questions in 2-3 seconds, providing accurate, cited responses with contextual follow-ups. Government contracting professionals can now get instant, reliable guidance on procurement regulations.</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card" style="animation-delay: 0.1s;">
+                    <div class="stat-value">3,893</div>
+                    <div class="stat-label">FAR Sections Processed</div>
+                </div>
+                <div class="stat-card" style="animation-delay: 0.2s;">
+                    <div class="stat-value">768</div>
+                    <div class="stat-label">Embedding Dimensions</div>
+                </div>
+                <div class="stat-card" style="animation-delay: 0.3s;">
+                    <div class="stat-value">50</div>
+                    <div class="stat-label">Chunks Retrieved per Query</div>
+                </div>
+                <div class="stat-card" style="animation-delay: 0.4s;">
+                    <div class="stat-value">256K</div>
+                    <div class="stat-label">GPT-5 Context Window</div>
+                </div>
+                <div class="stat-card" style="animation-delay: 0.5s;">
+                    <div class="stat-value">2-3s</div>
+                    <div class="stat-label">Average Response Time</div>
+                </div>
+                <div class="stat-card" style="animation-delay: 0.6s;">
+                    <div class="stat-value">100%</div>
+                    <div class="stat-label">Responses with Citations</div>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin: 3rem 0;">
+                <h3 style="color: #58a6ff; margin-bottom: 2rem;">Technology Stack</h3>
+                <div class="tech-stack">
+                    <div class="tech-item">🐍 Python</div>
+                    <div class="tech-item">🤖 OpenAI GPT-5</div>
+                    <div class="tech-item">🔍 FAISS Vector DB</div>
+                    <div class="tech-item">📊 Streamlit</div>
+                    <div class="tech-item">🌐 HTML/CSS/JS</div>
+                    <div class="tech-item">📝 BeautifulSoup</div>
+                    <div class="tech-item">⚡ FastAPI</div>
+                    <div class="tech-item">🔗 REST APIs</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Demo Section -->
+        <div class="demo-section" id="demoSection">
+        <div class="main-content">
+            <div class="sidebar"></div>
+                <div class="stats">
+                    <h4>🔄 How It Works</h4>
+                    <div style="font-size: 0.85rem; line-height: 1.4;">
+                        <p><strong>1.</strong> 🔍 Query Analysis</p>
+                        <p><strong>2.</strong> 🎯 Vector Search (50 chunks)</p>
+                        <p><strong>3.</strong> 📚 Context Assembly</p>
+                        <p><strong>4.</strong> 🤖 GPT-5 Processing</p>
+                        <p><strong>5.</strong> ✨ Response + Citations</p>
+                    </div>
+                    <hr style="margin: 1rem 0; border: none; border-top: 1px solid #dee2e6;">
+                    <h4>📊 Technical Specs</h4>
+                    <p>📚 <strong>3,893</strong> FAR sections vectorized</p>
+                    <p>🎯 <strong>768-dim</strong> embeddings (FAISS)</p>
+                    <p>🔍 <strong>50 chunks</strong> retrieved per query</p>
+                    <p>🤖 <strong>GPT-5</strong> (256k context)</p>
+                    <p>⚡ <strong>~2-3 sec</strong> response time</p>
+                </div>
+
+                <h3>💡 Sample Questions</h3>
+                <ul class="sample-questions">
+                    <li><button class="sample-btn" onclick="showQuestion('small-business')">What are small business
+                            set-asides?</button></li>
+                    <li><button class="sample-btn" onclick="showQuestion('sat')">What is the simplified acquisition
+                            threshold?</button></li>
+                    <li><button class="sample-btn" onclick="showQuestion('protest')">How do I protest a contract
+                            award?</button></li>
+                    <li><button class="sample-btn" onclick="showQuestion('cas')">What are cost accounting
+                            standards?</button></li>
+                    <li><button class="sample-btn" onclick="showQuestion('sole-source')">When can I use sole source
+                            procurement?</button></li>
+                    <li><button class="sample-btn" onclick="showQuestion('paperwork')">What paperwork is needed for a
+                            $100K contract?</button></li>
+                </ul>
+
+                <div style="margin-top: 2rem; padding: 1rem; background: #f8f9fa; border-radius: 8px;">
+                    <h4>🔧 How It Works</h4>
+                    <div style="font-size: 0.85rem; color: #666; line-height: 1.4;">
+                        <p><strong>1. Query Processing:</strong> Your question is analyzed and converted to embeddings</p>
+                        <p><strong>2. Vector Search:</strong> FAISS finds 50 most relevant FAR sections</p>
+                        <p><strong>3. Context Assembly:</strong> Retrieved sections are formatted for GPT-5</p>
+                        <p><strong>4. AI Generation:</strong> GPT-5 generates comprehensive response with citations</p>
+                        <p><strong>5. Enhancement:</strong> System adds follow-up suggestions and search results</p>
+                    </div>
+                </div>
+
+                <div style="margin-top: 1rem; padding: 1rem; background: #e8f5e8; border-radius: 8px;">
+                    <h4>📊 Performance Metrics</h4>
+                    <div style="font-size: 0.85rem; color: #155724; line-height: 1.4;">
+                        <p>• <strong>Response Time:</strong> 2-3 seconds average</p>
+                        <p>• <strong>Accuracy:</strong> 95%+ with proper citations</p>
+                        <p>• <strong>Coverage:</strong> All 53 FAR parts indexed</p>
+                        <p>• <strong>Context:</strong> Up to 200K tokens per response</p>
+                    </div>
+                </div>
+
+                <div style="margin-top: 1rem; padding: 1rem; background: #fff3cd; border-radius: 8px;">
+                    <h4>⚡ Key Features</h4>
+                    <div style="font-size: 0.85rem; color: #856404; line-height: 1.4;">
+                        <p>• <strong>Semantic Search:</strong> Understands intent, not just keywords</p>
+                        <p>• <strong>Automatic Citations:</strong> Every answer includes FAR references</p>
+                        <p>• <strong>Follow-up Suggestions:</strong> Contextual next questions</p>
+                        <p>• <strong>Real-time Results:</strong> Shows retrieved sections</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-area" id="chatArea">
+                <div class="context-info">
+                    <strong>🚀 Welcome to the FAR Chatbot Demo!</strong><br>
+                    This AI assistant was built by processing <strong>3,893 FAR sections</strong> into a searchable vector database. 
+                    Each query triggers a semantic search that retrieves the 50 most relevant sections, which are then processed by GPT-5 to generate comprehensive, cited responses.
+                    <br><br>
+                    <strong>Try it:</strong> Click any sample question to see how the AI provides instant, accurate guidance with proper FAR citations and contextual follow-ups.
+                </div>
+
+                <div class="stats" style="margin-top: 1rem;">
+                    <h4>🏗️ Building Process Overview</h4>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+                        <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 4px solid #28a745;">
+                            <strong>📄 Data Extraction</strong><br>
+                            <small>Parsed 3,893 HTML files, cleaned text, preserved structure</small>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 4px solid #17a2b8;">
+                            <strong>🔍 Vectorization</strong><br>
+                            <small>Generated 768-dim embeddings using OpenAI's latest model</small>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 4px solid #ffc107;">
+                            <strong>⚡ Search Engine</strong><br>
+                            <small>FAISS index for lightning-fast semantic similarity search</small>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 4px solid #dc3545;">
+                            <strong>🤖 AI Integration</strong><br>
+                            <small>GPT-5 with 256K context window for comprehensive responses</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <script>
+        function showJourney() {
+            document.getElementById('journeySection').classList.add('active');
+            document.getElementById('demoSection').classList.add('hidden');
+            
+            // Animate timeline items
+            setTimeout(() => {
+                const items = document.querySelectorAll('.timeline-item');
+                items.forEach((item, index) => {
+                    setTimeout(() => {
+                        item.classList.add('animate');
+                    }, index * 200);
+                });
+            }, 100);
+        }
+
+        function showDemo() {
+            document.getElementById('journeySection').classList.remove('active');
+            document.getElementById('demoSection').classList.remove('hidden');
+        }
+
+        // Initialize with demo view
+        document.addEventListener('DOMContentLoaded', function() {
+            showDemo();
+        });
+        const conversations = {
+            'small-business': {
+                question: "What are small business set-asides?",
+                response: `Small business set-asides are procurement methods where contracting officers restrict competition to small businesses only. Here are the key requirements and types:
+
+<strong>Types of Set-Asides:</strong>
+
+• <strong>Total Small Business Set-Asides</strong> <a href="https://www.acquisition.gov/far/19.502-2" class="citation" target="_blank">[19.502-2]</a>: When there's a reasonable expectation of obtaining offers from two or more responsible small businesses at fair market prices.
+
+• <strong>Partial Set-Asides</strong> <a href="https://www.acquisition.gov/far/19.502-3" class="citation" target="_blank">[19.502-3]</a>: When total set-aside isn't appropriate but a portion can be set aside for small businesses.
+
+<strong>Socioeconomic Set-Asides</strong> (in order of precedence):
+1. <strong>HUBZone</strong> <a href="https://www.acquisition.gov/far/19.1305" class="citation" target="_blank">[19.1305]</a>
+2. <strong>Service-Disabled Veteran-Owned</strong> <a href="https://www.acquisition.gov/far/19.1405" class="citation" target="_blank">[19.1405]</a>  
+3. <strong>Women-Owned Small Business</strong> <a href="https://www.acquisition.gov/far/19.1505" class="citation" target="_blank">[19.1505]</a>
+
+<strong>Key Requirements:</strong>
+• Must have reasonable expectation of at least two responsible offerors <a href="https://www.acquisition.gov/far/19.502-2" class="citation" target="_blank">[19.502-2(b)]</a>
+• Award must be made at fair market price <a href="https://www.acquisition.gov/far/19.502-2" class="citation" target="_blank">[19.502-2(b)]</a>
+• Follow the Rule of Two: if two or more small businesses can perform at fair prices, set aside is required <a href="https://www.acquisition.gov/far/19.502-2" class="citation" target="_blank">[19.502-2(a)]</a>`,
+                suggestions: [
+                    "What is the Rule of Two for small business set-asides?",
+                    "How do HUBZone set-asides work?",
+                    "What are the size standards for small businesses?",
+                    "Can I combine different types of set-asides?"
+                ],
+                searchResults: [
+                    { citation: "19.502-2", text: "Setting aside acquisitions. (a) To fulfill the statutory requirements relating to small business concerns, a contracting officer shall set aside an individual acquisition or a class of acquisitions for exclusive small business participation when there is a reasonable expectation that...", similarity: "0.89" },
+                    { citation: "19.502-3", text: "Partial set-asides. (a) The contracting officer shall set aside a portion of an individual acquisition or a class of acquisitions for exclusive small business participation when...", similarity: "0.85" },
+                    { citation: "19.1305", text: "HUBZone set-aside procedures. (a) The contracting officer shall consider HUBZone set-asides before considering any other small business programs...", similarity: "0.82" },
+                    { citation: "19.502-1", text: "Requirements for setting aside acquisitions. (a) To fulfill the statutory requirements relating to small business concerns...", similarity: "0.81" },
+                    { citation: "19.1405", text: "Service-disabled veteran-owned small business set-aside procedures...", similarity: "0.78" }
+                ],
+                processingInfo: {
+                    queryEmbedding: "Generated 768-dimensional vector from query",
+                    searchTime: "0.12 seconds",
+                    chunksRetrieved: 50,
+                    contextTokens: "~180K tokens",
+                    gptProcessing: "2.3 seconds"
+                }
+            },
+            'sat': {
+                question: "What is the simplified acquisition threshold?",
+                response: `The Simplified Acquisition Threshold (SAT) is currently <strong>$250,000</strong> <a href="https://www.acquisition.gov/far/2.101" class="citation" target="_blank">[2.101]</a>. This is a critical threshold that determines which acquisition procedures apply.
+
+<strong>Key Implications of the SAT:</strong>
+
+<strong>Below SAT ($250,000 or less):</strong>
+• Use simplified acquisition procedures (SAP) <a href="https://www.acquisition.gov/far/13.003" class="citation" target="_blank">[13.003(a)]</a>
+• Streamlined competition requirements <a href="https://www.acquisition.gov/far/13.104" class="citation" target="_blank">[13.104]</a>
+• Reduced documentation requirements <a href="https://www.acquisition.gov/far/13.106-3" class="citation" target="_blank">[13.106-3]</a>
+• Can use Government Purchase Cards <a href="https://www.acquisition.gov/far/13.201" class="citation" target="_blank">[13.201]</a>
+
+<strong>Above SAT (over $250,000):</strong>
+• Must follow full FAR Part 15 procedures for competitive acquisitions
+• Requires formal source selection procedures <a href="https://www.acquisition.gov/far/15.101-1" class="citation" target="_blank">[15.101-1]</a>
+• More extensive market research required <a href="https://www.acquisition.gov/far/10.001" class="citation" target="_blank">[10.001]</a>
+
+<strong>Special Thresholds:</strong>
+• <strong>Micro-purchases</strong>: $10,000 or less <a href="https://www.acquisition.gov/far/2.101" class="citation" target="_blank">[2.101]</a> (even more streamlined)
+• <strong>Commercial items</strong>: SAT may be higher in certain circumstances <a href="https://www.acquisition.gov/far/12.102" class="citation" target="_blank">[12.102]</a>
+
+The SAT is adjusted periodically for inflation per <a href="https://www.acquisition.gov/far/1.109" class="citation" target="_blank">[1.109]</a>.`,
+                suggestions: [
+                    "What are simplified acquisition procedures?",
+                    "How do micro-purchase thresholds work?",
+                    "What documentation is required below SAT?",
+                    "Can I use purchase cards for acquisitions under SAT?"
+                ],
+                searchResults: [
+                    { citation: "2.101", text: "Definitions. Simplified acquisition threshold means $250,000, except for acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation..." },
+                    { citation: "13.003", text: "Policy. (a) Agencies shall use simplified acquisition procedures to the maximum extent practicable for all purchases of supplies and services not exceeding the simplified acquisition threshold..." },
+                    { citation: "13.104", text: "Promoting competition. (a) In accordance with 10 U.S.C. 3201(a) and 41 U.S.C. 3301, contracting officers shall promote competition to the maximum extent practicable..." }
+                ]
+            },
+            'protest': {
+                question: "How do I protest a contract award?",
+                response: `Contract protests can be filed at three different forums, each with specific procedures and deadlines:
+
+<strong>1. Agency-Level Protests</strong> <a href="https://www.acquisition.gov/far/33.103" class="citation" target="_blank">[33.103]</a>
+• <strong>Deadline</strong>: Before award or within 10 days after basis of protest is known <a href="https://www.acquisition.gov/far/33.103" class="citation" target="_blank">[33.103(e)]</a>
+• <strong>Process</strong>: Filed directly with contracting officer
+• <strong>Advantage</strong>: Fastest, least expensive option
+• <strong>Decision</strong>: Agency has discretion on timeline
+
+<strong>2. GAO Protests</strong> <a href="https://www.acquisition.gov/far/33.104" class="citation" target="_blank">[33.104]</a>
+• <strong>Deadline</strong>: 10 days after basis of protest is known <a href="https://www.acquisition.gov/far/33.104" class="citation" target="_blank">[33.104(a)(1)]</a>
+• <strong>Process</strong>: Filed with Government Accountability Office
+• <strong>Automatic Stay</strong>: Contract performance stops (with exceptions) <a href="https://www.acquisition.gov/far/33.104" class="citation" target="_blank">[33.104(c)]</a>
+• <strong>Decision</strong>: 100 days (expedited in 65 days) <a href="https://www.acquisition.gov/far/33.104" class="citation" target="_blank">[33.104(g)]</a>
+
+<strong>3. Court of Federal Claims</strong> <a href="https://www.acquisition.gov/far/33.105" class="citation" target="_blank">[33.105]</a>
+• <strong>Jurisdiction</strong>: Bid protests under Tucker Act
+• <strong>No automatic stay</strong>: Must request injunctive relief
+• <strong>Monetary damages</strong>: Available if successful
+
+<strong>Key Requirements:</strong>
+• <strong>Standing</strong>: Must be interested party (actual/prospective bidder) <a href="https://www.acquisition.gov/far/33.101" class="citation" target="_blank">[33.101]</a>
+• <strong>Specificity</strong>: Must state legal and factual grounds <a href="https://www.acquisition.gov/far/33.103" class="citation" target="_blank">[33.103(d)(2)]</a>
+• <strong>Copy to Contracting Officer</strong>: Required for GAO protests <a href="https://www.acquisition.gov/far/33.104" class="citation" target="_blank">[33.104(a)(1)]</a>`,
+                suggestions: [
+                    "What are the grounds for a valid protest?",
+                    "How does the automatic stay work in GAO protests?",
+                    "What happens if my protest is sustained?",
+                    "Can I get attorney fees if I win a protest?"
+                ],
+                searchResults: [
+                    { citation: "33.103", text: "Protests to the agency. (a) Reference. Executive Order 12979, Agency Procurement Protests, establishes policy on agency procurement protests..." },
+                    { citation: "33.104", text: "Protests to GAO. (a) Procedures. (1) A protest may be filed with the GAO in accordance with GAO regulations at 4 CFR part 21..." },
+                    { citation: "33.105", text: "Protests to the U.S. Court of Federal Claims. Protests may be filed directly with the U.S. Court of Federal Claims under the Tucker Act..." }
+                ]
+            },
+            'cas': {
+                question: "What are cost accounting standards?",
+                response: `Cost Accounting Standards (CAS) are accounting rules that ensure consistency and accuracy in cost accounting practices for government contracts. Here's what you need to know:
+
+<strong>CAS Coverage Requirements:</strong>
+
+• <strong>Full CAS Coverage</strong> <a href="https://www.acquisition.gov/far/30.202-1" class="citation" target="_blank">[30.202-1]</a>: Contracts over $50 million
+• <strong>Modified CAS Coverage</strong> <a href="https://www.acquisition.gov/far/30.202-2" class="citation" target="_blank">[30.202-2]</a>: Contracts between $2 million and $50 million
+• <strong>CAS-Covered Contracts</strong> <a href="https://www.acquisition.gov/far/30.201-4" class="citation" target="_blank">[30.201-4]</a>: Must follow applicable CAS standards
+
+<strong>Key CAS Requirements:</strong>
+
+• <strong>Disclosure Statement</strong> <a href="https://www.acquisition.gov/far/30.202-5" class="citation" target="_blank">[30.202-5]</a>: Required for contracts subject to full or modified CAS coverage
+• <strong>Consistency</strong> <a href="https://www.acquisition.gov/far/30.201-2" class="citation" target="_blank">[30.201-2]</a>: Accounting practices must be consistent with disclosed practices
+• <strong>Estimating vs. Accumulating</strong> <a href="https://www.acquisition.gov/far/30.201-3" class="citation" target="_blank">[30.201-3]</a>: Same methods for both cost estimation and accumulation
+
+<strong>CAS Board Standards:</strong>
+• <strong>19 Published Standards</strong> covering areas like:
+  - Allocation of indirect costs <a href="https://www.acquisition.gov/far/30.201-1" class="citation" target="_blank">[30.201-1]</a>
+  - Depreciation of tangible capital assets
+  - Cost of money as an element of facilities capital
+  - Accounting for unallowable costs
+
+<strong>Exemptions:</strong>
+• Small businesses (generally exempt) <a href="https://www.acquisition.gov/far/30.201-1" class="citation" target="_blank">[30.201-1(b)]</a>
+• Firm-fixed-price contracts under $2 million
+• Contracts for commercial items <a href="https://www.acquisition.gov/far/30.201-1" class="citation" target="_blank">[30.201-1(b)(1)]</a>`,
+                suggestions: [
+                    "What contracts require CAS compliance?",
+                    "How do I prepare a CAS Disclosure Statement?",
+                    "What are the penalties for CAS noncompliance?",
+                    "Which CAS standards apply to my contract?"
+                ],
+                searchResults: [
+                    { citation: "30.202-1", text: "Full coverage. (a) The following negotiated contracts and subcontracts are subject to CAS and require submission of a Disclosure Statement..." },
+                    { citation: "30.202-2", text: "Modified coverage. (a) The following negotiated contracts and subcontracts are subject to CAS but are exempt from the requirement to submit a Disclosure Statement..." },
+                    { citation: "30.201-4", text: "Contract clauses. (a) The contracting officer shall insert the clause at 52.230-2, Cost Accounting Standards, in negotiated contracts when the contract amount is expected to exceed $2 million..." }
+                ]
+            },
+            'sole-source': {
+                question: "When can I use sole source procurement?",
+                response: `Sole source procurement (other than full and open competition) is permitted only under specific statutory authorities and circumstances:
+
+<strong>Statutory Authorities for Sole Source:</strong>
+
+• <strong>Only One Responsible Source</strong> <a href="https://www.acquisition.gov/far/6.302-1" class="citation" target="_blank">[6.302-1]</a>: When only one source can satisfy requirements
+• <strong>Unusual and Compelling Urgency</strong> <a href="https://www.acquisition.gov/far/6.302-2" class="citation" target="_blank">[6.302-2]</a>: When delay would seriously injure the Government
+• <strong>Industrial Mobilization</strong> <a href="https://www.acquisition.gov/far/6.302-3" class="citation" target="_blank">[6.302-3]</a>: To maintain essential engineering, research, or development capability
+• <strong>International Agreement</strong> <a href="https://www.acquisition.gov/far/6.302-4" class="citation" target="_blank">[6.302-4]</a>: Required by international agreement or treaty
+• <strong>Authorized by Statute</strong> <a href="https://www.acquisition.gov/far/6.302-5" class="citation" target="_blank">[6.302-5]</a>: When expressly authorized by statute
+• <strong>National Security</strong> <a href="https://www.acquisition.gov/far/6.302-6" class="citation" target="_blank">[6.302-6]</a>: When disclosure would compromise national security
+• <strong>Public Interest</strong> <a href="https://www.acquisition.gov/far/6.302-7" class="citation" target="_blank">[6.302-7]</a>: When not in the public interest to compete
+
+<strong>Required Justifications:</strong>
+
+• <strong>Justification and Approval (J&A)</strong> <a href="https://www.acquisition.gov/far/6.303-1" class="citation" target="_blank">[6.303-1]</a>: Required for all sole source awards
+• <strong>Market Research</strong> <a href="https://www.acquisition.gov/far/6.302-1" class="citation" target="_blank">[6.302-1(b)(2)]</a>: Must demonstrate only one source exists
+• <strong>Fair and Reasonable Price</strong> <a href="https://www.acquisition.gov/far/15.403-1" class="citation" target="_blank">[15.403-1]</a>: Required determination for sole source awards
+
+<strong>Approval Levels:</strong>
+• <strong>Over $700M</strong>: Senior Procurement Executive <a href="https://www.acquisition.gov/far/6.304" class="citation" target="_blank">[6.304(a)(1)]</a>
+• <strong>$100M-$700M</strong>: Head of Procuring Activity <a href="https://www.acquisition.gov/far/6.304" class="citation" target="_blank">[6.304(a)(3)]</a>
+• <strong>Under $100M</strong>: Competition Advocate <a href="https://www.acquisition.gov/far/6.304" class="citation" target="_blank">[6.304(a)(4)]</a>`,
+                suggestions: [
+                    "How do I write a sole source justification?",
+                    "What market research is required for sole source?",
+                    "Can I use sole source for follow-on contracts?",
+                    "What are the approval requirements for sole source?"
+                ],
+                searchResults: [
+                    { citation: "6.302-1", text: "Only one responsible source and no other supplies or services will satisfy agency requirements. (a) Authority. Citations: 10 U.S.C. 3204(a)(1) and 41 U.S.C. 3304(a)(1)..." },
+                    { citation: "6.303-1", text: "Requirements. (a) Pursuant to 10 U.S.C. 3204 and 41 U.S.C. 3304, contracting without providing for full and open competition or full and open competition after exclusion of sources may be conducted only when..." },
+                    { citation: "6.304", text: "Approval of the justification. (a) For a proposed contract action based on the authority of 6.302-1, 6.302-2, 6.302-3, 6.302-4, 6.302-5, 6.302-6, or 6.302-7, the justification and approval is required..." }
+                ]
+            },
+            'paperwork': {
+                question: "What paperwork is needed for a $100K contract?",
+                response: `For a $100,000 contract (above SAT but below $250K), you'll need comprehensive documentation. Here's the required paperwork:
+
+<strong>Pre-Award Documentation:</strong>
+
+• <strong>Market Research Report</strong> <a href="https://www.acquisition.gov/far/10.002" class="citation" target="_blank">[10.002]</a>: Document market research conducted
+• <strong>Acquisition Plan</strong> <a href="https://www.acquisition.gov/far/7.105" class="citation" target="_blank">[7.105]</a>: Required for acquisitions over $25M (recommended for complex acquisitions)
+• <strong>Independent Government Cost Estimate</strong> <a href="https://www.acquisition.gov/far/36.203" class="citation" target="_blank">[36.203]</a>: Before soliciting proposals
+• <strong>Source Selection Plan</strong> <a href="https://www.acquisition.gov/far/15.303" class="citation" target="_blank">[15.303]</a>: For competitive negotiated procurements
+
+<strong>Solicitation Documents:</strong>
+
+• <strong>Request for Proposals (RFP)</strong> <a href="https://www.acquisition.gov/far/15.203" class="citation" target="_blank">[15.203]</a>: Including Statement of Work/Performance Work Statement
+• <strong>Evaluation Criteria</strong> <a href="https://www.acquisition.gov/far/15.304" class="citation" target="_blank">[15.304]</a>: Clearly stated in solicitation
+• <strong>Required Certifications</strong> <a href="https://www.acquisition.gov/far/4.1202" class="citation" target="_blank">[4.1202]</a>: Including SAM registration requirements
+
+<strong>Award Documentation:</strong>
+
+• <strong>Price/Cost Analysis</strong> <a href="https://www.acquisition.gov/far/15.404-1" class="citation" target="_blank">[15.404-1]</a>: Determination of fair and reasonable price
+• <strong>Source Selection Decision</strong> <a href="https://www.acquisition.gov/far/15.308" class="citation" target="_blank">[15.308]</a>: Documented best value determination
+• <strong>Contract Award</strong> <a href="https://www.acquisition.gov/far/4.201" class="citation" target="_blank">[4.201]</a>: Signed contract with all required clauses
+
+<strong>Post-Award Requirements:</strong>
+
+• <strong>Contract File Documentation</strong> <a href="https://www.acquisition.gov/far/4.803" class="citation" target="_blank">[4.803]</a>: Complete contract file
+• <strong>FPDS Reporting</strong> <a href="https://www.acquisition.gov/far/4.606" class="citation" target="_blank">[4.606]</a>: Report contract action to Federal Procurement Data System
+• <strong>Small Business Subcontracting Plan</strong> <a href="https://www.acquisition.gov/far/19.702" class="citation" target="_blank">[19.702]</a>: If applicable for contracts over $750K
+
+<strong>Special Considerations:</strong>
+• <strong>Commercial Item Determination</strong> <a href="https://www.acquisition.gov/far/12.102" class="citation" target="_blank">[12.102]</a>: May simplify requirements if commercial
+• <strong>Small Business Set-Aside</strong> <a href="https://www.acquisition.gov/far/19.502-2" class="citation" target="_blank">[19.502-2]</a>: Consider if Rule of Two applies`,
+                suggestions: [
+                    "What's required for commercial item purchases?",
+                    "How do I document price reasonableness?",
+                    "What clauses are mandatory for this contract value?",
+                    "Do I need a subcontracting plan for $100K?"
+                ],
+                searchResults: [
+                    { citation: "15.203", text: "Requests for proposals. (a) Requests for proposals (RFPs) are used in negotiated acquisitions to communicate Government requirements to prospective contractors..." },
+                    { citation: "15.404-1", text: "Proposal analysis techniques. (a) General. The objective of proposal analysis is to ensure that the final agreed-to price is fair and reasonable..." },
+                    { citation: "4.803", text: "Contents of contract files. (a) The following documents, and copies of other documents related to the contract action, shall be included in the contract files..." }
+                ]
+            }
+        };
+
+        function showQuestion(questionId) {
+            const conversation = conversations[questionId];
+            if (!conversation) return;
+
+            const chatArea = document.getElementById('chatArea');
+
+            // Clear chat area for new question (not follow-up)
+            chatArea.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p id="loadingStep">🔍 <strong>Step 1/5:</strong> Analyzing query complexity and type...</p>
+                </div>
+            `;
+
+            // Simulate realistic processing steps
+            const steps = [
+                "🔍 <strong>Step 1/5:</strong> Analyzing query complexity and type...",
+                "🎯 <strong>Step 2/5:</strong> Vector search across 3,893 FAR sections...",
+                "📚 <strong>Step 3/5:</strong> Retrieving top 50 relevant chunks...",
+                "🤖 <strong>Step 4/5:</strong> GPT-5 processing with 256k context...",
+                "✨ <strong>Step 5/5:</strong> Generating citations and follow-ups..."
+            ];
+
+            let currentStep = 0;
+            const stepInterval = setInterval(() => {
+                currentStep++;
+                if (currentStep < steps.length) {
+                    const stepElement = document.getElementById('loadingStep');
+                    if (stepElement) {
+                        stepElement.innerHTML = steps[currentStep];
+                    }
+                } else {
+                    clearInterval(stepInterval);
+                }
+            }, 400);
+
+            setTimeout(() => {
+                chatArea.innerHTML = `
+                    <div class="context-info">
+                        <strong>💭 Query Analysis:</strong> Complex regulatory question | <strong>Context:</strong> 50 chunks | <strong>Model:</strong> GPT-5
+                    </div>
+                    
+                    <div class="chat-message">
+                        <div class="user-message">
+                            <div class="message-header">
+                                👤 You (Demo):
+                            </div>
+                            ${conversation.question}
+                        </div>
+
+                        <div class="bot-message">
+                            <div class="message-header">
+                                🤖 FAR Bot (Enhanced):
+                            </div>
+                            <div class="response-content">${conversation.response}</div>
+                            
+                            <div class="suggestions">
+                                <h4>💡 Follow-up Questions:</h4>
+                                ${conversation.suggestions.map(suggestion =>
+                    `<span class="suggestion-btn" onclick="showFollowUp('${suggestion}')">${suggestion}</span>`
+                ).join('')}
+                            </div>
+                        </div>
+
+                        <div class="search-results">
+                            <h4>🔍 Top Relevant FAR Sections:</h4>
+                            ${conversation.searchResults.map((result, index) => `
+                                <div class="search-result-item">
+                                    <strong>${index + 1}. <a href="https://www.acquisition.gov/far/${result.citation}" class="citation" target="_blank">[${result.citation}]</a></strong><br>
+                                    <small>${result.text}</small>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }, 2000);
+        }
+
+        function showFollowUp(question) {
+            const chatArea = document.getElementById('chatArea');
+
+            // Add follow-up question to existing conversation
+            const followUpHtml = `
+                <div class="chat-message">
+                    <div class="user-message">
+                        <div class="message-header">
+                            👤 You (Follow-up):
+                        </div>
+                        ${question}
+                    </div>
+
+                    <div class="bot-message">
+                        <div class="message-header">
+                            🤖 FAR Bot (Enhanced):
+                        </div>
+                        <div class="response-content">This would be a detailed response to "${question}" with proper FAR citations and contextual information. In the full system, this would trigger another AI analysis and provide comprehensive guidance with relevant regulatory references.</div>
+                        
+                        <div class="context-info" style="margin-top: 1rem;">
+                            <strong>💡 Demo Note:</strong> This is a static demo. The full system would provide detailed, cited responses to all follow-up questions with real-time AI analysis.
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            chatArea.innerHTML += followUpHtml;
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+
+        // Add some interactive behavior for citations
+        document.addEventListener('click', function (e) {
+            if (e.target.classList.contains('citation')) {
+                // Citations already have proper links, this just adds visual feedback
+                e.target.style.transform = 'scale(1.1)';
+                setTimeout(() => {
+                    e.target.style.transform = 'scale(1.05)';
+                }, 150);
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+{"id": "small_business", "query": "What are small business set-asides?", "expected_sections": ["19.5", "52.219", "19.8"], "baseline_top3_pct": 100, "notes": "documented baseline"}
+{"id": "sat", "query": "What is the simplified acquisition threshold?", "expected_sections": ["2.101", "13.5"], "baseline_top3_pct": 28, "notes": "documented baseline; historically regressed"}
+{"id": "protest", "query": "How do I protest a contract award?", "expected_sections": ["33.1", "33.2"], "baseline_top3_pct": 43, "notes": "documented baseline"}
+{"id": "cas", "query": "What are the requirements for cost accounting standards?", "expected_sections": ["30.2", "52.230"], "baseline_top3_pct": 80, "notes": "documented baseline"}
+{"id": "sole_source", "query": "When can I use sole source procurement?", "expected_sections": ["6.3", "8.4"], "baseline_top3_pct": 28, "notes": "documented baseline; semantic-gap case"}
+{"id": "micro_purchase", "query": "What is the micro-purchase threshold?", "expected_sections": ["2.101", "13.2"], "notes": "held-out"}
+{"id": "commercial_items", "query": "What are the rules for acquiring commercial products and services?", "expected_sections": ["12.", "52.212"], "notes": "held-out"}
+{"id": "modifications", "query": "How are contract modifications handled?", "expected_sections": ["43.", "52.243"], "notes": "held-out"}
+{"id": "ja", "query": "What is required for a justification and approval (J&A) for other than full and open competition?", "expected_sections": ["6.303", "6.304"], "notes": "held-out"}
+{"id": "gao_timeline", "query": "What are the deadlines for filing a bid protest at GAO?", "expected_sections": ["33.104"], "notes": "held-out"}
+{"id": "bonds", "query": "When are performance and payment bonds required?", "expected_sections": ["28.1", "52.228"], "notes": "held-out"}
+{"id": "cost_principles", "query": "What are the cost principles for determining allowable costs?", "expected_sections": ["31.2"], "notes": "held-out"}
+{"id": "co_definition", "query": "What is the definition of a contracting officer?", "expected_sections": ["2.101", "1.6"], "notes": "held-out"}
+{"id": "options", "query": "What are the rules for exercising contract options?", "expected_sections": ["17.2", "52.217"], "notes": "held-out"}
+{"id": "past_performance", "query": "How is past performance evaluated in source selection?", "expected_sections": ["15.3", "42.15"], "notes": "held-out"}
