@@ -1,0 +1,426 @@
+{
+ "agencies": {
+  "EPA": [
+   {
+    "part": "Part Number: 1552",
+    "section": "1552.211-79 Compliance with EPA policies for information resources management.",
+    "language": "Compliance With EPA Policies for Information Resources Management (JUL 2016) (a) Definition. Information Resources Management (IRM) is defined as any planning, budgeting, organizing, directing, training, promoting, controlling, and managing activities associated with the burden, collection, creation, use and dissemination of information. IRM includes both information itself and the management of information and related resources such as personnel, equipment, funds, and technology. Examples of these services include but are not limited to the following: (1) The acquisition, creation, or modification of a computer program or automated data base for delivery to EPA or use by EPA or contractors operating EPA programs. (2) The analysis of requirements for, study of the feasibility of, evaluation of alternatives for, or design and development of a computer program or automated data base for use by EPA or contractors operating EPA programs. (3) Services that provide EPA personnel access to or use of computer or word processing equipment, software, or related services. (4) Services that provide EPA personnel access to or use of: Data communications; electronic messaging services or capabilities; electronic bulletin boards, or other forms of electronic information dissemination; electronic record-keeping; or any other automated information services. (b) General. The Contractor shall perform any IRM-related work under this contract in accordance with the IRM policies, standards, and procedures set forth on the Office of Environmental Information policy Web site. Upon receipt of a work request (i.e. delivery order, task order, or work assignment), the Contractor shall check this listing of directives. The applicable directives for performance of the work request are those in effect on the date of issuance of the work request. The 2100 Series (2100-2199) of the Agency's Directive System contains the majority of the Agency's IRM policies, standards, and procedures. (c) Section 508 requirements (accessibility). Contract deliverables are required to be compliant with Section 508 requirements (accessibility for people with disabilities). The Environmental Protection Agency policy for 508 compliance can be found at www.epa.gov/accessibility. (d) Electronic access. A complete listing, including full text, of documents included in the 2100 Series of the Agency's Directive System is maintained on the EPA Public Access Server on the Internet at http://www2.epa.gov/irmpoli8/current-information-directives.",
+    "requirement": "Include clause in full: Relates to applying Section 508 to Information Resources Management",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "USAID (AIDAR)": [
+   {
+    "part": "Part Number: 752",
+    "section": "752.239-71 Information and Communication Technology Accessibility.",
+    "language": "Information and Communication Technology Accessibility (May 2024) (a) Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires (1) Federal agencies to offer access to information and communication technology (ICT) to individuals with disabilities who are Federal employees or members of the public seeking information or services, and (2) that this access be comparable to that which is offered to Federal employees or members of the public who are not individuals with disabilities. Standards for complying with this law are prescribed by the Architectural and Transportation Barriers Compliance Board (\u201cAccess Board\u201d) in 36 CFR part 1194, are viewable at https://www.access-board.gov/ict/. (b) Except as indicated elsewhere in the contract, all ICT supplies, services, information, documentation, and deliverables developed, acquired, maintained, or delivered under this contract must meet the applicable Section 508 accessibility standards at 36 CFR part 1194, as amended by the Access Board. (c) The Section 508 accessibility standards applicable to this contract are identified in Section C or other applicable sections of this contract. (d) The Contractor must, upon written request from the Contracting Officer, or if so designated, the Contracting Officer's Representative, provide the information necessary to assist the Government in determining that the ICT supplies or services conform to Section 508 accessibility standards. (e) If it is determined by the Government that any ICT supplies or services delivered by the Contractor do not conform to the required accessibility standards, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (f) The Contractor must insert this clause in all subcontracts that involve the acquisition of ICT supplies and/or services. The Contractor is responsible for the submission of any information as required under paragraph (e) of this clause.",
+    "requirement": "Include clause in full",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 752",
+    "section": "\u00a7 752.239-72 USAID-Financed Project Websites.",
+    "language": "USAID-Financed Project Websites (May 2024) (a) Definitions. As used in this contract: Project Website means a website that is: (1) funded under this contract; (2) hosted outside of a Federal Government domain (i.e., \u201c.gov\u201d); (3) operated exclusively by the Contractor, who is responsible for all website content, operations and management, information security, and disposition of the website; (4) not operated by or on behalf of USAID; and (5) does not provide official USAID communications, information, or services. (b) Requirements. The Contractor must adhere to the following requirements when developing, launching, or maintaining a Project Website: (1) Domain name. The domain name of the website must not contain the term \u201cUSAID\u201d. The domain name must be registered in the Contractor's business name with the relevant domain registrar on the relevant domain name registry. (2) Information to be collected. In the website, the Contractor may collect only the amount of information necessary to complete the specific business need. The Contractor must not collect or store privacy information that is unnecessary for the website to operate, or is prohibited by statute, regulation, or Executive Order. (3) Disclaimer. The website must be marked on the index page of the site and every major entry point to the website with a disclaimer that states: \u201cThe information provided on this website is not official U.S. Government information and does not represent the views or positions of the U.S. Agency for International Development or the U.S. Government.\u201d (4) Accessibility. To comply with the requirements of the Section 508 of the Rehabilitation Act, as amended (29 U.S.C. 794d), the Contractor must ensure the website meets all applicable accessibility standards (\u201cWeb-based intranet and internet information and applications\u201d) at 36 CFR part 1194, Appendix D. (5) Information security: The Contractor is solely responsible for the information security of the website. This includes incident response activities as well as all security safeguards, including adequate protection from unauthorized access, alteration, disclosure, or misuse of information collected, processed, stored, transmitted, or published on the website. The Contractor must minimize and mitigate security risks, promote the integrity and availability of website information, and use state-of-the-art: system/software management; engineering and development; event logging; and secure-coding practices that are equal to or better than USAID standards and information security best practices. Rigorous security safeguards, including but not limited to, virus protection; network intrusion detection and prevention programs; and vulnerability management systems must be implemented and critical security issues must be resolved within 30 calendar days. (c) Disposition. At least 120 days prior to the contract end date, unless otherwise approved by the Contracting Officer, the Contractor must submit for the Contracting Officer's approval a disposition plan that addresses how any Project Website funded under this contract will be transitioned to another entity or decommissioned and archived. If the website will be transitioned to another entity, the disposition plan must provide details on the Contractor's proposed approach for the transfer of associated electronic records, technical documentation regarding the website's development and maintenance, and event logs. Prior to the end of the contract, the Contractor must comply with the disposition plan approved by the Contracting Officer. (d) Subcontracts. The Contractor must insert this clause in all subcontracts that involve the development, launch, or maintenance of a Project Website. The Contractor is responsible for the submission of any information as required under paragraphs (b) and (c) of this clause.",
+    "requirement": "WEBSITE SPECIFIC",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 752",
+    "section": "752.239-72 USAID-Financed Project Websites.",
+    "language": "USAID-Financed Project Websites (May 2024) (a) Definitions. As used in this contract: Project Website means a website that is: (1) funded under this contract; (2) hosted outside of a Federal Government domain (i.e., \u201c.gov\u201d); (3) operated exclusively by the Contractor, who is responsible for all website content, operations and management, information security, and disposition of the website; (4) not operated by or on behalf of USAID; and (5) does not provide official USAID communications, information, or services. (b) Requirements. The Contractor must adhere to the following requirements when developing, launching, or maintaining a Project Website: (1) Domain name. The domain name of the website must not contain the term \u201cUSAID\u201d. The domain name must be registered in the Contractor's business name with the relevant domain registrar on the relevant domain name registry. (2) Information to be collected. In the website, the Contractor may collect only the amount of information necessary to complete the specific business need. The Contractor must not collect or store privacy information that is unnecessary for the website to operate, or is prohibited by statute, regulation, or Executive Order. (3) Disclaimer. The website must be marked on the index page of the site and every major entry point to the website with a disclaimer that states: \u201cThe information provided on this website is not official U.S. Government information and does not represent the views or positions of the U.S. Agency for International Development or the U.S. Government.\u201d (4) Accessibility. To comply with the requirements of the Section 508 of the Rehabilitation Act, as amended (29 U.S.C. 794d), the Contractor must ensure the website meets all applicable accessibility standards (\u201cWeb-based intranet and internet information and applications\u201d) at 36 CFR part 1194, Appendix D. (5) Information security: The Contractor is solely responsible for the information security of the website. This includes incident response activities as well as all security safeguards, including adequate protection from unauthorized access, alteration, disclosure, or misuse of information collected, processed, stored, transmitted, or published on the website. The Contractor must minimize and mitigate security risks, promote the integrity and availability of website information, and use state-of-the-art: system/software management; engineering and development; event logging; and secure-coding practices that are equal to or better than USAID standards and information security best practices. Rigorous security safeguards, including but not limited to, virus protection; network intrusion detection and prevention programs; and vulnerability management systems must be implemented and critical security issues must be resolved within 30 calendar days. (c) Disposition. At least 120 days prior to the contract end date, unless otherwise approved by the Contracting Officer, the Contractor must submit for the Contracting Officer's approval a disposition plan that addresses how any Project Website funded under this contract will be transitioned to another entity or decommissioned and archived. If the website will be transitioned to another entity, the disposition plan must provide details on the Contractor's proposed approach for the transfer of associated electronic records, technical documentation regarding the website's development and maintenance, and event logs. Prior to the end of the contract, the Contractor must comply with the disposition plan approved by the Contracting Officer. (d) Subcontracts. The Contractor must insert this clause in all subcontracts that involve the development, launch, or maintenance of a Project Website. The Contractor is responsible for the submission of any information as required under paragraphs (b) and (c) of this clause.",
+    "requirement": "WEBSITE SPECIFIC",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   }
+  ],
+  "Veterans Affairs (VAAR)": [
+   {
+    "part": "Part Number: 852",
+    "section": "852.239-75 Information and Communication Technology Accessibility Notice",
+    "language": "Information and Communication Technology Accessibility Notice (FEB 2023) (a) Any offeror responding to this solicitation must comply with established VA Information and Communication Technology (ICT) (formerly Electronic and Information (EIT)) accessibility standards. Information about Section 508 is available at http://www.section508.va.gov/. (b) The Section 508 accessibility standards applicable to this solicitation are stated in the clause at 852.239-75, Information and Communication Technology Accessibility. In order to facilitate the Government's determination whether proposed ICT supplies meet applicable Section 508 accessibility standards, offerors must submit appropriate VA Section 508 Checklists, in accordance with the checklist completion instructions. The purpose of the checklists is to assist VA acquisition and program officials in determining whether proposed ICT supplies, or information, documentation and services conform to applicable Section 508 accessibility standards. The checklists allow offerors or developers to self-evaluate their supplies and document - in detail - whether they conform to a specific Section 508 accessibility standard, and any underway remediation efforts addressing conformance issues. (c) Respondents to this solicitation must identify any exception to Section 508 requirements. If an offeror claims its supplies or services meet applicable Section 508 accessibility standards, and it is later determined by the Government, i.e., after award of a contract or order, that supplies or services delivered do not conform to the described accessibility standards, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its expense.",
+    "requirement": "Include clause in full: requires checklist submission",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 852",
+    "section": "852.239-76 Information and Communication Technology Accessibility.",
+    "language": "Information and Communication Technology Accessibility (FEB 2023) (a) All information and communication technology (ICT) (formerly referred to as electronic and information technology (EIT)) supplies, information, documentation and services support developed, acquired, maintained or delivered under this contract or order must comply with the \u201cArchitectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards\u201d (see 36 CFR part 1194). Information about Section 508 is available at http://www.section508.va.gov/. (b) The Section 508 accessibility standards applicable to this contract or order are identified in the specification, statement of work, or performance work statement. If it is determined by the Government that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (c) The Section 508 accessibility standards applicable to this contract are: __ [Contracting Officer: insert the applicable Section 508 accessibility standards]. (d) In the event of a modification(s) to this contract or order, which adds new EIT supplies or services or revises the type of, or specifications for, supplies or services, the Contracting Officer may require that the Contractor submit a completed VA Section 508 Checklist and any other additional information necessary to assist the Government in determining that the ICT supplies or services conform to Section 508 accessibility standards. If it is determined by the Government that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (e) If this is an Indefinite-Delivery type contract, a Blanket Purchase Agreement or a Basic Ordering Agreement, the task/delivery order requests that include ICT supplies or services will define the specifications and accessibility standards for the order. In those cases, the Contractor may be required to provide a completed VA Section 508 Checklist and any other additional information necessary to assist the Government in determining that the ICT supplies or services conform to Section 508 accessibility standards. If it is determined by the Government that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the provided documentation, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.",
+    "requirement": "Include clause in full, leaves open area for specific Section 508 requirements",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 839",
+    "section": "Subpart 839.2 - Information and Communication Technology 839.201 Scope of subpart.",
+    "language": "This subpart applies to the acquisition of Information and Communication Technology (ICT) supplies and services. It concerns the access to and use of information and data by both Federal employees with disabilities and members of the public with disabilities in accordance with FAR 39.201. This subpart implements VA policy on section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) and 36 CFR parts 1193 and 1194 as it applies to contracts and acquisitions when developing, procuring, maintaining, or using ICT. 839.203 Applicability. (a) General. Solicitations for information technology (IT) (i.e., ICT) or IT-related supplies and services shall require the contractor to submit a VA Section 508 Checklist (see https://www.section508.va.gov/). (a) The contracting officer shall insert the provision at 852.239-75, Information and Communication Technology Accessibility Notice, in all solicitations. (b) The contracting officer shall insert the clause at 852.239-76, Information and Communication Technology Accessibility, in all contracts and orders.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part 839",
+    "section": "839.203 Applicability",
+    "language": "(a) General. Solicitations for information technology (IT) (i.e., ICT) or IT-related supplies and services shall require the contractor to submit a VA Section 508 Checklist (see https://www.section508.va.gov/",
+    "requirement": "Checklist required",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "Transportation (TAR)": [
+   {
+    "part": "Part Number: 1239",
+    "section": "1239.203 Applicability.",
+    "language": "(a) Solicitations for information and communication technology supplies and services may require submission of a section 508 Checklist available at https://www.section508.gov/sell/vpat. 1239.203-70 Information and communication technology accessibility standards\u2014contract clause and provision. (a) The contracting officer shall insert the provision at 1252.239\u201392, Information and Communication Technology Accessibility Notice, in all solicitations. (b) The contracting officer shall insert the clause at 1252.239\u201393, Information and Communication Technology Accessibility, in all contracts and orders.",
+    "requirement": "",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 1239",
+    "section": "1252.239-92 Information and Communication Technology Accessibility Notice.",
+    "language": "Information and Communication Technology Accessibility Notice (NOV 2022) (a) Any offeror responding to this solicitation must comply with established DOT Information and Communication Technology (ICT) (formerly known as Electronic and Information (EIT)) accessibility standards. Information about Section 508 is available at https://www.section508.gov/. (b) The Section 508 accessibility standards applicable to this solicitation are stated in the clause at 1252.239\u201393, Information and Communication Technology Accessibility. In order to facilitate the Government's determination whether proposed ICT supplies and services meet applicable Section 508 accessibility standards, offerors must submit appropriate Section 508 Checklists, in accordance with the checklist completion instructions. The purpose of the checklists is to assist DOT acquisition and program officials in determining whether proposed ICT supplies or information, documentation and services support conform to applicable Section 508 accessibility standards. The checklists allow offerors or developers to self-evaluate their supplies and document\u2014in detail\u2014whether they conform to a specific Section 508 accessibility standard, and any underway remediation efforts addressing conformance issues. (c) Respondents to this solicitation must identify any exception to Section 508 requirements. If an offeror claims its supplies or services meet applicable Section 508 accessibility standards, and it is later determined by the Government, i.e., after award of a contract or order, that supplies or services delivered do not conform to the described accessibility standards, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its expense.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 1239",
+    "section": "1252.239-93 Information and Communication Technology Accessibility.",
+    "language": "Information and Communication Technology Accessibility (NOV 2022) (a) All Information and Communication Technology (ICT) supplies, information, documentation and services support developed, acquired, maintained or delivered under this contract or order must comply with the Information and Communication Technology (ICT) Standards and Guidelines (see 36 CFR parts 1193 and 1194). Information about Section 508 is available at https://www.section508.gov/. (b) The Section 508 accessibility standards applicable to this contract or order are identified in the Specification, Statement of Work, or Performance Work Statement. If it is determined by the Government that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (c) The Section 508 accessibility standards applicable to this contract are: ___ [Contracting Officer inserts the applicable Section 508 accessibility standards]. (d) In the event of a modification(s) to this contract or order, which adds new ICT supplies or services or revises the type of, or specifications for, supplies or services, the Contracting Officer may require that the Contractor submit a completed Section 508 Checklist and any other additional information necessary to assist the Government in determining that the ICT supplies or services conform to Section 508 accessibility standards. If the Government determines that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (e) If this is an indefinite-delivery type contract, a Blanket Purchase Agreement or a Basic Ordering Agreement, the task/delivery order requests that include ICT supplies or services will define the specifications and accessibility standards for the order. In those cases, the Contractor may be required to provide a completed Section 508 Checklist and any other additional information necessary to assist the Government in determining that the ICT supplies or services conform to Section 508 accessibility standards. If it is determined by the Government that ICT supplies and services provided by the Contractor do not conform to the described accessibility standards in the provided documentation, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.",
+    "requirement": "Insert Clause in full",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part 1239",
+    "section": "Subpart 1239.2 Information and communication technology, 1239.01 Scope of subpart",
+    "language": "This subpart applies to the acquisition of Information and Communication Technology (ICT) supplies and services. It concerns the access to and use of information and data, by both Federal employees with disabilities, and members of the public with disabilities in accordance with FAR 39.201. This subpart implements DOT policy on section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) as it applies to contracts and acquisitions.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 1239",
+    "section": "1239.203-70 Information and communication technology accessibility standards - contract clause and provision",
+    "language": "a) The contracting officer shall insert the provision at 1252.239\u201392, Information and Communication Technology Accessibility Notice, in all solicitations. (b) The contracting officer shall insert the clause at 1252.239\u201393, Information and Communication Technology Accessibility, in all contracts and orders.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 1239",
+    "section": "1239.201 Scope of subpart",
+    "language": "This subpart applies to the acquisition of Information and Communication Technology (ICT) supplies and services. It concerns the access to and use of information and data, by both Federal employees with disabilities, and members of the public with disabilities in accordance with FAR 39.201. This subpart implements DOT policy on section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) as it applies to contracts and acquisitions. 1239.203 Applicability. (a) Solicitations for information and communication technology supplies and services may require submission of a section 508 Checklist available at https://www.section508.gov/sell/vpat. 1239.203-70 Information and communication technology accessibility standards\u2014contract clause and provision. (a) The contracting officer shall insert the provision at 1252.239\u201392, Information and Communication Technology Accessibility Notice, in all solicitations. (b) The contracting officer shall insert the clause at 1252.239\u201393, Information and Communication Technology Accessibility, in all contracts and orders. Parent topic: Subpart 1239.2\u2014Information and Communication Technology",
+    "requirement": "",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "HHS (HHSAR)": [
+   {
+    "part": "Part Number: 315",
+    "section": "315.304 Evaluation factors and significant subfactors.",
+    "language": "When acquiring electronic and information technology supplies and services (EIT) using negotiated procedures, contracting officers shall comply with Section 508 of the Rehabilitation Act of 1973, as amended.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 352",
+    "section": "352.204-70 Prevention and Public Health Fund - Reporting Requirements",
+    "language": "Prevention and Public Health Fund - Reporting Requirements (DEC 2015) (a) Pursuant to public law this contract requires the contractor to provide products or services or both that are funded from the Prevention and Public Health Fund (PPHF), Public Law 111-148, sec. 4002. Section 220(b)(5) requires each contractor to report on its use of these funds under this contract. These reports will be made available to the public. (b) Semi-annual reports from the Contractor for all work funded, in whole or in part, by the PPHF, are due no later than 20 days following the end of each 6-month period. The 6-month reporting periods are January through June and July through December. The first report is due no later than 20 days after the end of the 6-month period following contract award. Subsequent reports are due no later than 20 days after the end of each reporting period. If applicable, the Contractor shall submit its final report for the remainder of the contract period no later than 20 days after the end of the reporting period in which the contract ended. (c) The Contractor shall provide the following information in an electronic and Section 508 compliant format to the Contracting Officer. (1) The Government contract and order number, as applicable. (2) The amount of PPHF funds invoiced by the contractor for the reporting period and the cumulative amount invoiced for the contract or order. (3) A list of all significant services performed or supplies delivered, including construction, for which the contractor invoiced in the reporting period. (4) Program or project title, if any. (5) The Contractor shall report any subcontract funded in whole or in part with PPHF funding, that is valued at $25,000 or more. The Contractor shall advise the subcontractor that the information will be made available to the public. The Contractor shall report: (i) Name and address of the subcontractor. (ii) Amount of the subcontract award. (iii) Date of the subcontract award. (iv) A description of the products or services (including construction) being provided under the subcontract.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 352",
+    "section": "352.239-73 Electronic Information and Technology Accessibility Notice.",
+    "language": "Electronic and Information Technology Accessibility Notice (DEC 2015) (a) Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), as amended by the Workforce Investment Act of 1998 and the Architectural and Transportation Barriers Compliance Board Electronic and Information (EIT) Accessibility Standards (36 CFR part 1194), require that when Federal agencies develop, procure, maintain, or use electronic and information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who are not individuals with disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency. (b) Accordingly, any offeror responding to this solicitation must comply with established HHS EIT accessibility standards. Information about Section 508 is available at http://www.hhs.gov/web/508. The complete text of the Section 508 Final Provisions can be accessed at http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards. (c) The Section 508 accessibility standards applicable to this solicitation are stated in the clause at 352.239-74, Electronic and Information Technology Accessibility. In order to facilitate the Government's determination whether proposed EIT supplies meet applicable Section 508 accessibility standards, offerors must submit an HHS Section 508 Product Assessment Template, in accordance with its completion instructions. The purpose of the template is to assist HHS acquisition and program officials in determining whether proposed EIT supplies conform to applicable Section 508 accessibility standards. The template allows offerors or developers to self-evaluate their supplies and document - in detail - whether they conform to a specific Section 508 accessibility standard, and any underway remediation efforts addressing conformance issues. Instructions for preparing the HHS Section 508 Evaluation Template are available under Section 508 policy on the HHS Web site http://www.hhs.gov/web/508. In order to facilitate the Government's determination whether proposed EIT services meet applicable Section 508 accessibility standards, offerors must provide enough information to assist the Government in determining that the EIT services conform to Section 508 accessibility standards, including any underway remediation efforts addressing conformance issues. (d) Respondents to this solicitation must identify any exception to Section 508 requirements. If a offeror claims its supplies or services meet applicable Section 508 accessibility standards, and it is later determined by the Government, i.e., after award of a contract or order, that supplies or services delivered do not conform to the described accessibility standards, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its expense.",
+    "requirement": "Insert Clause in full: Includes content related to VPAT, remediation, exceptions etc.",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 352",
+    "section": "352.239-74 Electronic and Information Technology Accessibility.",
+    "language": "Electronic and Information Technology Accessibility (DEC 2015) (a) Pursuant to Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), as amended by the Workforce Investment Act of 1998, all electronic and information technology (EIT) supplies and services developed, acquired, or maintained under this contract or order must comply with the \u201cArchitectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards\u201d set forth by the Architectural and Transportation Barriers Compliance Board (also referred to as the \u201cAccess Board\u201d) in 36 CFR part 1194. Information about Section 508 is available at http://www.hhs.gov/web/508. The complete text of Section 508 Final Provisions can be accessed at http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards. (b) The Section 508 accessibility standards applicable to this contract or order are identified in the Statement of Work or Specification or Performance Work Statement. The contractor must provide any necessary updates to the submitted HHS Product Assessment Template(s) at the end of each contract or order exceeding the simplified acquisition threshold (see FAR 2.101) when the contract or order duration is one year or less. If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (c) The Section 508 accessibility standards applicable to this contract are: (Contract staff must list applicable standards) (d) In the event of a modification(s) to this contract or order, which adds new EIT supplies or services or revises the type of, or specifications for, supplies or services, the Contracting Officer may require that the contractor submit a completed HHS Section 508 Product Assessment Template and any other additional information necessary to assist the Government in determining that the EIT supplies or services conform to Section 508 accessibility standards. Instructions for documenting accessibility via the HHS Section 508 Product Assessment Template may be found under Section 508 policy on the HHS Web site: (http://www.hhs.gov/web/508). If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense. (e) If this is an Indefinite Delivery contract, a Blanket Purchase Agreement or a Basic Ordering Agreement, the task/delivery order requests that include EIT supplies or services will define the specifications and accessibility standards for the order. In those cases, the Contractor may be required to provide a completed HHS Section 508 Product Assessment Template and any other additional information necessary to assist the Government in determining that the EIT supplies or services conform to Section 508 accessibility standards. Instructions for documenting accessibility via the HHS Section 508 Product Assessment Template may be found at http://www.hhs.gov/web/508. If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the provided documentation, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.",
+    "requirement": "Insert Clause in full: leaves open area for specific Section 508 requirements, requires ACR",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 304",
+    "section": "304.7201 Procedures.",
+    "language": "(a) In any contract action funded in whole or in part by the PPHF, the contracting officer shall indicate that the contract action is being made under the PPHF, and indicate which products or services are funded under the PPHF. This requirement applies whenever PPHF funds are used, regardless of the contract instrument. (b) To maximize transparency of PPHF funds that shall be reported by the contractor, the contracting officer shall structure contract awards to allow for separately tracking PPHF funds. For example, the contracting officer may consider awarding dedicated separate contracts when using PPHF funds or establishing contract line item number structures to prevent commingling of PPHF funds with other funds. (c) Contracting officers shall ensure that the contractor complies with the reporting requirements of 352.204-70. Upon receipt of each report, the contracting officer shall review it for completeness, address any clarity or completeness issues with the contractor, and submit the final approved report in Section 508 compliant format to an Assistant Secretary for Public Affairs point-of-contact for posting on HHS' PPHF Web site at http://www.hhs.gov/open/prevention/index.html no later than 30 days after the end of the reporting period. If the contractor fails to comply with the reporting requirements, the contracting officer shall exercise appropriate contractual remedies. (d) The contracting officer shall make the contractor's failure to comply with the reporting requirements a part of the contractor's performance information under FAR subpart 42.15.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 315",
+    "section": "315.304 Evaluation factors and significant subfactors.",
+    "language": "When acquiring electronic and information technology supplies and services (EIT) using negotiated procedures, contracting officers shall comply with Section 508 of the Rehabilitation Act of 1973, as amended.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 339",
+    "section": "339.205 Section 508 accessibility standards for contracts.",
+    "language": "(a) Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794(d)), as amended by the Workforce Investment Act of 1998 (Section 508), specifies the applicable accessibility standards for all new solicitations and new or existing contracts or orders, regardless of EIT dollar amount. (b) The requiring activity shall consult with the OPDIV or STAFFDIV Section 508 Official or designee, as necessary, to determine the applicability of Section 508, identify applicable Section 508 accessibility standards, and resolve any related issues before forwarding a request to the contracting or procurement office for the acquisition of EIT supplies and services - including Web site content and communications material for which the contractor must meet EIT accessibility standards. (c) Based on those discussions, the requiring activity shall provide a statement in the AP (or other acquisition request document) for Section 508 applicability. See 307.105. If Section 508 applies to an acquisition, include the provision at 352.239-73, Electronic and Information Technology and Accessibility Notice, language in a separate, clearly designated, section of the statement of work or performance work statement, along with any additional information applicable to the acquisition's Section 508 accessibility standards (e.g., the list of applicable accessibility standards of the Access Board EIT Accessibility Standards (36 CFR part 1194)). If an AP does not address Section 508 applicability and it appears an acquisition involves Section 508, or if the discussion of Section 508 applicability to the acquisition is inadequate or incomplete, the contracting officer shall request the requiring activity modify the AP accordingly. (d) Items provided incidental to contract administration are not subject to this section. (e) The OPDIV Section 508 Official or designee may, at his or her discretion, require review and approval of solicitations and contracts for EIT supplies and services.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 314",
+    "section": "314.103 Policy.",
+    "language": "Electronic and information technology (EIT) supplies and services acquired using sealed-bid procedures shall comply with Section 508 of the Rehabilitation Act of 1973, as amended. See part 339.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 313",
+    "section": "PART 313 - SIMPLIFIED ACQUISITION PROCEDURES",
+    "language": "Electronic and information technology (EIT) supplies and services acquired pursuant to Federal Acquisition Regulation part 13 shall comply with Section 508 of the Rehabilitation Act of 1973, as amended. See part 339.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number: 311",
+    "section": "311.7000 Defining electronic and information technology requirements.",
+    "language": "The contracting officer shall ensure that requiring activities specify agency needs for electronic and information technology (EIT) supplies and services, and document market research, document EIT requirements, and identify the applicable Section 508 accessibility standards. See FAR 11.002(f) and HHSAR subpart 339.2.",
+    "requirement": "Mentions applicable standards",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 312",
+    "section": "Subpart 312.2 - Special Requirements for the Acquisition of Commercial Items. 312.202 (d) Market research and description of agency need",
+    "language": "Whenever a requiring activity specifies electronic and information technology (EIT) supplies and services subject to Section 508 of the Rehabilitation Act of 1973, as amended, the requiring activity shall acquire commercially available supplies and services to the maximum extent possible while ensuring Section 508 compliance. See part 339.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 311",
+    "section": "311.7000 Defining electronic and information technology requirements.",
+    "language": "The contracting officer shall ensure that requiring activities specify agency needs for electronic and information technology (EIT) supplies and services, and document market research, document EIT requirements, and identify the applicable Section 508 accessibility standards. See FAR 11.002(f) and HHSAR subpart 339.2.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 339",
+    "section": "339.204-1 Approval of exceptions.",
+    "language": "(a) Procedures to document exception and determination requests are set by the OPDIV Section 508 Official. (b) In the development of an acquisition plan (AP) or other acquisition request document, the contracting officer shall ensure that all Section 508 exception determination requests for applicable EIT requirements are: (1) Documented and certified in accordance with the requirements of the HHS Section 508 policy; (2) Signed by the requestor in the requiring activity; (3) Certified and approved by the OPDIV Section 508 Official or designee; and (4) Included in the AP or other acquisition request document provided by the requiring activity to the contracting office. (c) For instances with an existing technical evaluation and no organization's proposed supplies or services meet all of the Section 508 accessibility standards; in order to proceed with the acquisition, the requiring activity shall provide an exception determination request along with the technical evaluation team's assessment of the Section 508 evaluation factor to the designated Section 508 Official or designee for review and approval or disapproval. The contracting officer shall include the Section 508 Official's or designee's approval or disapproval of the exception determination request in the official contract file and reference it, as appropriate, in all source selection documents. For further information, see HHS Section 508 Policy on http://www.hhs.gov/web/508.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 339",
+    "section": "339.203 Applicability",
+    "language": "(a) Electronic and information technology (EIT) supplies and services must comply with Section 508 of the Rehabilitation Act (the Act) of 1973 (29 U.S.C. 794d), as amended by the Workforce Investment Act of 1998, and the Architectural and Transportation Barriers Compliance Board (Access Board) Electronic and Information Accessibility Standards (36 CFR part 1194). Requiring activities must consult with their Section 508 Official or designee to determine if the contractor should be responsible for compliance with EIT accessibility standards which apply to Web site content and communications material. (1) When conducting a procurement and employing the best value continuum, the solicitation shall include a separate technical evaluation factor developed by the contracting officer, requiring activity, and the Operating Division (OPDIV) Section 508 Official or designee. (2) At a minimum, solicitations for supplies and services shall require the submission of a Section 508 Product Assessment Template (See http://www.hhs.gov/web/508 for the template). Solicitations for services shall include any other pertinent information that the contracting officer deems necessary to evaluate the offeror's ability to meet the applicable Section 508 accessibility standards. (3) The HHS Operating Division or Staff Division (OPDIV or STAFFDIV) Section 508 Official or designee is responsible for providing technical assistance in development of Section 508 evaluation factors. (4) Before conducting negotiations or making an award, the contracting officer shall provide a summary of the Source Selection Evaluation Team's (SSET) assessment of offeror responses to the solicitation's Section 508 evaluation factor. This summary shall be submitted for review by the Section 508 Official or designee. The Section 508 Official or designee shall indicate approval or disapproval of the SSET assessment. The contracting officer shall coordinate the resolution of any issues raised by the Section 508 Official or designee with the chair of the SSET or requiring activity representative, as appropriate. The acquisition process shall not proceed until the Section 508 Official or designee approves the SSET assessment. The contracting officer shall include the assessment in the official contract file. See 339.204-1 regarding processing exception determination requests. (b) When acquiring commercial items, if no commercially available supplies or services meet all of the applicable Section 508 accessibility standards, OPDIVs or STAFFDIVs shall, under the direction and approval of the Section 508 Official or designee, acquire the supplies and services that best meet the applicable Section 508 accessibility standards. Process exception determinations for EIT supplies and services not meeting applicable Section 508 accessibility standards in accordance with 339.204-1.",
+    "requirement": "Instructions for acquiring professionals: Product accessibilty template, review of Section 508 conformance, evaluation factors",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Subpart 11.1",
+    "section": "11.102 Policy",
+    "language": "(f) In accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), the contracting officer shall obtain from the requiring activity the requirement documents, which must identify\u2014 11.1-1 11.102 FEDERAL ACQUISITION REGULATION (1) The needs of current and future users with disabilities to determine how\u2013 (i) Users with disabilities will perform the functions supported by the information and communication technology (ICT); (ii) The ICT will be developed, installed, configured and maintained to support users with disabilities; (2) The applicable ICT accessibility standards (see subpart 39.2); and (3) Any ICT accessibility standards that cannot be met due to an exception or an exemption for any component or portion of the product (see 7.105(b)(5)(iv), 39.204, and 39.205). (g) Agencies shall not include in a solicitation a requirement that prohibits an offeror from allowing its employees to telecommute unless the contracting officer executes a written determination in accordance with FAR 7.108(a).",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   }
+  ],
+  "Department of Treasury (DTAR)": [
+   {
+    "part": "Part Number: 1034",
+    "section": "1034.004 Acquisition strategy.",
+    "language": "a) A program manager's acquisition strategy written at the system or investment level in accordance with FAR 7.103(e) shall include at a minimum: (1) The relationship of each individual acquisition (Contract, Delivery Order, Task Order, or Interagency Agreement) to the overall investment requirements and management structure; (2) What work is being performed in-house (by government personnel) versus contracted out for the investment; (3) A description of the effort, by acquisition, and the plans to include required clauses in the acquisitions; (4) A timetable of major acquisition award and administration activities, including plans for contract transitions; (5) An investment/system surveillance plan; (6) Financial and human resource requirements to manage the acquisition processes through the investment lifecycle; (7) Consideration of optimal contract types, including considerations of performance based approaches, small business utilization, Section 508, etc.; and (8) Assurances that the acquisition strategy section and supporting acquisition plans will maximize competition, including enabling downstream competition through avoidance of vendor \u201clock in\u201d. (b) The acquisition strategy shall be approved by a chartered interdisciplinary acquisition team that includes a representative of the procurement organization designated in accordance with bureau procedures.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   },
+   {
+    "part": "Part Number: 1034",
+    "section": "1034.004 Acquisition strategy.",
+    "language": "(a) A program manager's acquisition strategy written at the system or investment level in accordance with FAR 7.103(e) shall include at a minimum: (1) The relationship of each individual acquisition (Contract, Delivery Order, Task Order, or Interagency Agreement) to the overall investment requirements and management structure; (2) What work is being performed in-house (by government personnel) versus contracted out for the investment; (3) A description of the effort, by acquisition, and the plans to include required clauses in the acquisitions; (4) A timetable of major acquisition award and administration activities, including plans for contract transitions; (5) An investment/system surveillance plan; (6) Financial and human resource requirements to manage the acquisition processes through the investment lifecycle; (7) Consideration of optimal contract types, including considerations of performance based approaches, small business utilization, Section 508, etc.; and (8) Assurances that the acquisition strategy section and supporting acquisition plans will maximize competition, including enabling downstream competition through avoidance of vendor \u201clock in\u201d. (b) The acquisition strategy shall be approved by a chartered interdisciplinary acquisition team that includes a representative of the procurement organization designated in accordance with bureau procedures. Parent topic: Subpart 1034.0 - General",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "Department of Labor (DOLAR)": [
+   {
+    "part": "Part Number: 2952",
+    "section": "2952.239-70 Section 508 Requirements",
+    "language": "As prescribed in 2939.270, insert the following clause: Section 508 Requirements (AUG 2024) A. Definition The term \u201cInformation and Communication Technology (ICT)\u201d in this contract is used as defined at FAR 2.101. B. Requirements Section 508 of the Rehabilitation Act, as amended (29 U.S.C. 794d), applies to federal departments, such as DOL, and the contractors providing support on behalf of such federal departments. The contractor is required to provide Section 508 compliant systems and components of ICT when federal agencies develop, procure, maintain, or use ICT. The contractor shall ensure that its system and components allow federal employees and members of the public with disabilities access to, and use of, information and data that is comparable to the access afforded federal employees and members of the public without disabilities. Products, platforms, and services delivered as part of this contract action that are ICT, or contain ICT, shall conform to the Revised Section 508 Standards, which are located at 36 CFR part 1194, appendices A and C. Please insert the clause(s) below which meet the parameters of the contract being awarded. (a) Requirements by service/contract type are as follows: (1) Custom ICT Development Services: When the contractor provides custom ICT development services and/or Commercially Available Off-the-Shelf (COTS) products, pursuant to the requirements, the contractor shall ensure the ICT fully conforms to the Revised 508 Standards (36 CFR part 1194, appendices A and C) prior to delivery and before final Acceptance. (2) Installation, Configuration, & Integration Services: When the contractor provides installation, configuration, or integration services for equipment or software pursuant to the requirement, the contractor shall not install, configure, or integrate the equipment or software in a way that reduces the level of conformance with the Revised 508 Standards (36 CFR part 1194, appendices A and C). (3) Maintenance Upgrades & Replacements: The contractor shall ensure maintenance upgrades, substitutions, and replacements to equipment and software pursuant to this award do not reduce the approved level of conformance with the Revised 508 Standards (36 CFR part 1194, appendices A and C) at the time of award. Additionally, an updated Accessibility Conformance Report (ACR) shall be submitted for the ICT, and the ACR shall be completed according to the instructions provided by the Information Technology Industry Council (ITI) to be considered for each option year exercised. (4) Contractor Processes: The contractor shall ensure that its processes are at a maturity level at least equivalent to the DHS Trusted Tester methodology; that its personnel have the knowledge, skills, and ability necessary to make ICT under this contract conform to the Revised 508 Standards (36 CFR part 1194, appendices A and C); and that it provides conformant Section 508 supporting documentation upon request. (5) Hosting Services: The contractor shall not implement hosting services in a manner that reduces the existing level of conformance of the electronic content with the Revised 508 Standards (36 CFR part 1194, appendices A and C), when providing hosting services for electronic content to the agency. Throughout the life of the award, the agency reserves the right to perform Independent third-party testing on a vendor or contractor's hosted solution to verify conformance. (b) Validation for ICT: The contractor shall test and validate the ICT for conformance to the Revised 508 Standards (36 CFR part 1194, appendices A and C), in accordance with the required testing methods and provide test results to verify conformance of the Voluntary Product Assessment Template (VPAT). (1) For web and software, WCAG 2.0 Level A and AA Conformance test results shall be based on the Accessibility Tests for Software and Web, Harmonized Testing Process for Section 508 Compliance from the DHS Trusted Tester program. (2) For Microsoft Office and PDF documents, WCAG 2.0 Level A, and AA Conformance test results shall be based on the Harmonized Testing Guidance from the Accessible Electronic Documents Community of Practice. (3) For ICT that are not electronic content, the contractor shall validate conformance to the Revised 508 Standards (36 CFR part 1194, appendices A and C) using a defined testing process. The contractor shall describe the test process and provide the testing results to the agency. (c) Conformance Reporting: For ICT that are developed, updated, or configured for the agency, and when product substitutions are offered: (1) Before Acceptance, the contractor shall provide an Accessibility Conformance Report (ACR) for the ICT that is developed, updated, configured for the agency, and when product substitutions are offered. The ACR should be based on the most recent version of the Voluntary Product Assessment Template (VPAT) provided by the Information Technology Industry Council (ITI). An ACR shall be submitted for each ICT and shall be completed according to the instructions provided by ITI to be considered for Acceptance. (2) Before Acceptance, when the contractor is required to perform testing to validate conformance to the agency's accessibility requirements, the vendor shall provide a supplemental accessibility report that contains the following information: i Accessibility test results based on the required test methods. ii Documentation of features provided to help achieve accessibility and usability for people with disabilities. iii Documentation of core functions that cannot be accessed by persons with disabilities. iv Documentation on how to configure and install the ICT to support accessibility. v. When ICT is an authoring tool that generates content (including documents, reports, training, videos, multimedia productions, web content, etc.), provide information on how the ICT enables the creation of accessible electronic content that conforms to the Revised 508 Standards (36 CFR part 1194, appendices A and C), including the range of accessible user interface elements the tool can create. vi. Before final Acceptance, the contractor shall provide a fully working demonstration of the completed ICT to demonstrate conformance to the agency's accessibility requirements. The demonstration shall expose where such conformance is and is not achieved. (3) At any time, DOL reserves the right to perform Independent third-party testing to validate the ICT provided by the contractor, conforms to the Revised 508 Standards (36 CFR part 1194, appendices A and C). (d) Non-Compliance: Before final Acceptance of ICT, including updates and replacements, DOL shall determine that the furnished ICT is in compliance with the Revised 508 Standards (36 CFR part 1194, appendices A and C). If the furnished ICT is determined to be non-compliant, the contracting officer shall notify the contractor of this determination, within 15 business days of determination of non-compliance. The contractor shall, at no cost to DOL, repair or replace the non-compliant products or services within the period specified by the contracting officer. The contracting officer makes the final decision to accept or not accept a contractor's ICT that does not meet the Revised 508 Standards (36 CFR part 1194, appendices A and C). (End of Clause) Parent topic: Subpart 2952.2\u2014Text of Provisions and Clauses",
+    "requirement": "Insert Clause in full: COTS related, modification related, requires conformance report, maintenance related, includes DHS Trusted Tester and ITI reference, third party testing, acceptance testing, demonstration",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "y",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 2939",
+    "section": "PART 2939\u2014ACQUISITION OF INFORMATION TECHNOLOGY",
+    "language": "As prescribed in 48 CFR 1339.270(a), insert the following provision: Electronic and Information Technology (APR 2010) (a) To be considered eligible for award, offerors must propose electronic and information technology (EIT) that meet the applicable Access Board accessibility standards at 36 CFR 1194 designated below: ______ 1194.21 Software applications and operating systems ______ 1194.22 Web-based intranet and internet information and applications ______ 1194.23 Telecommunications products ______ 1194.24 Video and multimedia products ______ 1194.25 Self-contained, closed products ______ 1194.26 Desktop and portable computers ______ 1194.31 Functional performance criteria ______ 1194.41 Information, documentation and support (b) The standards do not require the installation of specific accessibility-related software or the attachment of an assistive technology device, but merely require that the EIT be compatible with such software and devices so that it can be made accessible if so required by the agency in the future. (c) Alternatively, offerors may propose products and services that provide equivalent facilitation. Such offers will be considered to have met the provisions of the Access Board standards for the feature or components providing equivalent facilitation. If none of the offers that meet all applicable provisions of the standards could be accepted without imposing an undue burden on the agency or component, or if none of the offerors propose products or services that fully meet all of the applicable Access Board's provisions, those offerors whose products or services meet some of the applicable provisions will be considered eligible for award. Awards will not be made to an offeror meeting all or some of the applicable Access Board provisions if award would impose an undue burden upon the agency. (d) Offerors must submit representation information concerning their products by completing the VPAT template at http://www.Section508.gov. (End of clause) Parent topic: Subpart 1352.2 - Text of Provisions and Clauses",
+    "requirement": "Include clause in full: lists requirements, requires VPAT",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part 2939",
+    "section": "PART 2939\u2014ACQUISITION OF INFORMATION TECHNOLOGY",
+    "language": "Subpart 2939.2\u2014Information and Communication Technology 2939.270 Contract clause. Contracting officers shall insert the clause at DOLAR 2952.239-70, Section 508 Requirements, in all solicitations and contracts for the acquisition of Information and Communication Technology (ICT) to be used by the DOL.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "Defense (DARS)": [
+   {
+    "part": "Part Number: 5839",
+    "section": "SUBPART 5839.2 \u2013 INFORMATION AND COMMUNICATION TECHNOLOGY",
+    "language": "S-90) Section 508 Compliance. The DoD Section 508 policies are located at http://dodcio.defense.gov/DoDSection508.aspx .",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "Defense Logistics Aquisition Directive (DLAD)": [
+   {
+    "part": "Part Number: 39.2",
+    "section": "Subpart 39.201 Scope of subpart",
+    "language": "b) Contracting officers can find EIT standards at GSA Government-wide IT Accessibility Program ( https://www.section508.gov/ ). When Section 508 applies, contracting officers shall review the \u201cBuy Accessible IT\u201d section at GSA Government-wide IT Accessibility Program ( https://www.section508.gov/ ); and use appropriate requirements language in the solicitation and, if applicable, in the performance work statement, statement of objective, or statement of work. The \u201cBuy Accessible IT\u201d section provides language for common EIT procurement requirements and a link to the current revision of the Voluntary Product Accessibility Template (VPAT) Rev 508.",
+    "requirement": "Mentions Buy Accessible IT, references Section508.gov and the VPAT, requirements mention",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number 39",
+    "section": "Subpart 39.203 Applicability",
+    "language": "a)(S-90) Unless an exception applies (reference FAR 39.204), contracting officers shall insert procurement note L29 in solicitations when procuring EIT products and services. ***** L29 Section 508 Requirements (OCT 2021) Offerors shall comply with the Section 508 accessibility requirements. By submission of its offer, the offeror affirms that its Electronic Information Technology (EIT) supplies and services are accessible as outlined in the law, the standard, and FAR Subpart 39.2. Offerors shall complete the current revision of the Voluntary Product Accessible Template (VPAT) Rev 508 at https://www.itic.org/policy/accessibility/vpat (copy website address into browser). If applicable, offerors shall indicate where their Section 508 EIT compliance information is available for review (e.g., offeror\u2019s website or other location the contracting officer can access). The contracting officer may require a demonstration of Section 508 compliance prior to award. (S-91) Contracting officers shall insert procurement note H11 in solicitations and awards when procuring EIT products and services. ***** H11 Section 508 Requirements (OCT 2020) Contractors shall comply with the Section 508 Accessibility requirements in this contract and the current revision of the Voluntary Product Accessible Template (VPAT) Rev 508 at https://www.itic.org/policy/accessibility/vpat (copy website address into browser) as stated in their proposal, for the duration of contract performance.",
+    "requirement": "Demonstration, VPAT",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   },
+   {
+    "part": "Part Number 39",
+    "section": "Subpart 39.204 Exceptions",
+    "language": "Contracting officers shall coordinate with Office of Counsel and DLA Information Operations, Section 508 office when seeking an exception to the requirement for an acquisition of EIT supplies or services to meet the applicable accessibility standards at 36 CFR Part 1194, EIT Accessibility Standards.",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ],
+  "Army (AFARS)": [
+   {
+    "part": "Change number: 2025-0711",
+    "section": "4-2. Recommended Training",
+    "language": "Micro-purchases and Section 508 Requirements online course number for CHs (role level)",
+    "requirement": "",
+    "vpat_acr_mention": "",
+    "vpat_acr_required": "",
+    "remediation_required": "",
+    "deliverables_508_required": ""
+   }
+  ],
+  "Commerce (CAR)": [
+   {
+    "part": "Part 1352",
+    "section": "1352.239-71 Electronic and information technology.",
+    "language": "As prescribed in 48 CFR 1339.270(a), insert the following provision: Electronic and Information Technology (APR 2010) (a) To be considered eligible for award, offerors must propose electronic and information technology (EIT) that meet the applicable Access Board accessibility standards at 36 CFR 1194 designated below: ______ 1194.21 Software applications and operating systems ______ 1194.22 Web-based intranet and internet information and applications ______ 1194.23 Telecommunications products ______ 1194.24 Video and multimedia products ______ 1194.25 Self-contained, closed products ______ 1194.26 Desktop and portable computers ______ 1194.31 Functional performance criteria ______ 1194.41 Information, documentation and support (b) The standards do not require the installation of specific accessibility-related software or the attachment of an assistive technology device, but merely require that the EIT be compatible with such software and devices so that it can be made accessible if so required by the agency in the future. (c) Alternatively, offerors may propose products and services that provide equivalent facilitation. Such offers will be considered to have met the provisions of the Access Board standards for the feature or components providing equivalent facilitation. If none of the offers that meet all applicable provisions of the standards could be accepted without imposing an undue burden on the agency or component, or if none of the offerors propose products or services that fully meet all of the applicable Access Board's provisions, those offerors whose products or services meet some of the applicable provisions will be considered eligible for award. Awards will not be made to an offeror meeting all or some of the applicable Access Board provisions if award would impose an undue burden upon the agency. (d) Offerors must submit representation information concerning their products by completing the VPAT template at http://www.Section508.gov. (End of clause) Parent topic: Subpart 1352.2 - Text of Provisions and Clauses",
+    "requirement": "Include clause in full: lists requirements, requires VPAT",
+    "vpat_acr_mention": "y",
+    "vpat_acr_required": "y",
+    "remediation_required": "",
+    "deliverables_508_required": "y"
+   }
+  ]
+ }
+}

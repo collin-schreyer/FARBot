@@ -22,6 +22,11 @@ export default function SiteHeader() {
               </a>
             </li>
             <li className="usa-nav__primary-item">
+              <a className="usa-nav__link" href="/review">
+                <span>Review a solicitation</span>
+              </a>
+            </li>
+            <li className="usa-nav__primary-item">
               <a className="usa-nav__link" href="/clauses">
                 <span>Clause matrix</span>
               </a>
