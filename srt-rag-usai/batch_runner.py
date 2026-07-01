@@ -13,7 +13,7 @@ import time
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from usai_adapter import USAIAdapter
+from bedrock_adapter import BedrockAdapter
 from solicitation_processor import process_solicitation
 
 logger = logging.getLogger(__name__)
@@ -52,7 +52,7 @@ def run_batch(
     logger.info(f"Found {len(sol_folders)} solicitation folders to process")
 
     # Initialize USAI client (shared across all solicitations)
-    client = USAIAdapter()
+    client = BedrockAdapter()
 
     # Initialize DB writer if connection provided
     db_writer = None
@@ -139,7 +139,7 @@ def run_batch(
 
 def init_writers(csv_path: str = None, db_connection: str = None) -> Dict:
     """Initialize CSV and DB writers for streaming mode."""
-    writers = {"csv_file": None, "csv_writer": None, "db_writer": None, "legacy_writer": None, "client": USAIAdapter()}
+    writers = {"csv_file": None, "csv_writer": None, "db_writer": None, "legacy_writer": None, "client": BedrockAdapter()}
 
     if csv_path:
         writers["csv_file"], writers["csv_writer"] = _init_csv(csv_path)

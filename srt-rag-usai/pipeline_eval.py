@@ -302,9 +302,9 @@ def process_one_target(idx_total, t, args, sam, run_label, pipeline_version) -> 
         file_paths = []
 
     # Per-worker USAI client (separate instance avoids any shared rate-limit state)
-    from usai_adapter import USAIAdapter
+    from bedrock_adapter import BedrockAdapter
     from solicitation_processor import process_solicitation
-    client = USAIAdapter()
+    client = BedrockAdapter()
 
     ai_applicable = None
     ai_compliant = None

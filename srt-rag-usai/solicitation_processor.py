@@ -17,7 +17,7 @@ import time
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional
 
-from usai_adapter import USAIAdapter
+from bedrock_adapter import BedrockAdapter
 from pipeline import analyze_file
 
 logger = logging.getLogger(__name__)
@@ -36,7 +36,7 @@ def find_files(folder: str) -> List[Path]:
 
 def process_solicitation(
     folder_path: str,
-    client: Optional[USAIAdapter] = None,
+    client: Optional[BedrockAdapter] = None,
     standards_path: str = None,
     embed_model: str = "cohere_english_v3",
     on_file: Optional[Callable[[str, int, int], None]] = None,
@@ -46,7 +46,7 @@ def process_solicitation(
 
     Args:
         folder_path: Path to solicitation folder containing attachments
-        client: USAIAdapter instance (created if None)
+        client: BedrockAdapter instance (created if None)
         standards_path: Path to 508_standards.txt
         embed_model: Embedding model name
         on_file: Optional callback(file_name, index, total) for progress
@@ -60,7 +60,7 @@ def process_solicitation(
           - stats: aggregate statistics
     """
     if client is None:
-        client = USAIAdapter()
+        client = BedrockAdapter()
 
     if standards_path is None:
         standards_path = str(Path(__file__).parent / "data" / "508_standards.txt")
@@ -207,7 +207,7 @@ def process_solicitation(
 
 
 def _generate_solicitation_summary(
-    client: USAIAdapter,
+    client: BedrockAdapter,
     solicitation_id: str,
     analyses: List[Dict],
     determination: Dict,

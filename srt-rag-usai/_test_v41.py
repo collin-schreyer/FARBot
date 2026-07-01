@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Quick test of the v4.1 applicability prompt against a few sample texts."""
 import os, sys
-from usai_adapter import USAIAdapter
+from bedrock_adapter import BedrockAdapter
 
 samples = [
     ("Keysight Power Sensor",
@@ -16,7 +16,7 @@ samples = [
      "network administration, cybersecurity, and cloud hosting for the agency's systems."),
 ]
 
-client = USAIAdapter()
+client = BedrockAdapter()
 print("=== v4.1 applicability prompt test ===\n")
 for title, txt in samples:
     r = client.assess_508_applicability(txt)

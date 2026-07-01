@@ -12,7 +12,7 @@ Flow (given one or more uploaded solicitation files):
   1. Extract   — pull text from each file (reuses SRT's text_extractor).
   2. Infer     — decide which regulatory *issue areas* apply to this package
                  (508, cybersecurity, agency deviations, small business, privacy,
-                 labor). LLM when USAI creds are present; keyword scoring offline.
+                 labor). LLM when Bedrock creds are present; keyword scoring offline.
   3. Retrieve  — for each applicable area, pull relevant FAR sections via
                  FARRetriever (FAR_BOT's Bedrock+graph retrieval — the seam).
   4. Suggest   — turn each area + its FAR hits into "questions you should be
@@ -20,8 +20,8 @@ Flow (given one or more uploaded solicitation files):
   5. Check     — (optional, --determination) run SRT's v4.1 pipeline for the
                  508 compliance determination on each file.
 
-Offline by default so the wiring is provable without creds; pass --live to use
-Bedrock (retrieval) and USAI (inference/suggestions/determination).
+Offline by default so the wiring is provable without creds; pass --live to run
+entirely on Bedrock (retrieval + inference + suggestions + determination).
 
 Usage:
   python solicitation_review.py doc1.pdf doc2.docx
@@ -144,7 +144,8 @@ def _infer_issue_areas_llm(text: str, client) -> List[Dict[str, Any]]:
     )
     result = client._json_chat(system, f"Solicitation text:\n\n{text[:50000]}",
                                model=getattr(client, "cheap_model", None),
-                               temperature=0.0, stage_name="issue_area_inference")
+                               temperature=0.0, max_tokens=1200, retries=2,
+                               stage_name="issue_area_inference")
     by_id = {a["id"]: a for a in ISSUE_AREAS}
     out = []
     for a in (result or {}).get("areas", []):
@@ -206,7 +207,8 @@ def _suggest_llm(area: Dict[str, Any], far_hits: List[Dict[str, Any]],
     )
     user = f"Retrieved FAR context:\n{far_context}\n\nSolicitation excerpt:\n{doc_text[:6000]}"
     result = client._json_chat(system, user, model=getattr(client, "cheap_model", None),
-                               temperature=0.2, stage_name="suggestions")
+                               temperature=0.2, max_tokens=1500, retries=2,
+                               stage_name="suggestions")
     return (result or {}).get("suggestions", []) or _suggest_template(area, far_hits)
 
 
@@ -234,10 +236,10 @@ def review_package(files: List[str], live: bool = False,
     client = None
     if live:
         try:
-            from usai_adapter import USAIAdapter
-            client = USAIAdapter()
+            from bedrock_adapter import BedrockAdapter
+            client = BedrockAdapter()
         except Exception as e:
-            logger.warning(f"[review] USAI client unavailable ({e}); continuing offline")
+            logger.warning(f"[review] Bedrock client unavailable ({e}); continuing offline")
 
     retriever = FARRetriever(offline=None if live else True)
 
@@ -256,7 +258,7 @@ def review_package(files: List[str], live: bool = False,
     }
     if determination:
         if client is None:
-            result["determination"] = {"skipped": "requires --live with USAI creds"}
+            result["determination"] = {"skipped": "requires --live with Bedrock creds"}
         else:
             result["determination"] = run_determination(files, client)
     return result
@@ -300,7 +302,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="Blended FAR_BOT + SRT solicitation review")
     ap.add_argument("files", nargs="+", help="solicitation document(s) to review")
     ap.add_argument("--live", action="store_true",
-                    help="use Bedrock (FAR retrieval) + USAI (inference/suggestions)")
+                    help="run entirely on Bedrock (FAR retrieval + inference/suggestions)")
     ap.add_argument("--determination", action="store_true",
                     help="also run the SRT v4.1 508 determination (needs --live)")
     ap.add_argument("--json", dest="json_out", help="write full result JSON to this path")

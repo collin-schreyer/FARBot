@@ -118,8 +118,8 @@ def main():
 
     if not os.getenv("SAM_API_KEY") and not os.getenv("SAM_API"):
         logger.warning("SAM_API_KEY not set — attachment download may fail if links require it.")
-    if not os.getenv("USAI_API"):
-        logger.error("USAI_API not set — cannot run analysis.")
+    if not (os.getenv("AWS_REGION") or os.getenv("AWS_PROFILE") or os.getenv("AWS_ACCESS_KEY_ID")):
+        logger.error("No AWS credentials/region configured — cannot run Bedrock analysis.")
         sys.exit(1)
 
     db_conn = os.getenv("SECTION_508_DATABASE_URL") or os.getenv("DATABASE_URL")

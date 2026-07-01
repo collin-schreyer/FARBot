@@ -13,14 +13,13 @@ import os
 import re
 import threading
 import time
-import httpx
 from collections import deque
 from typing import Any, Dict, List, Optional
 
-try:
-    import openai
-except ImportError:
-    raise ImportError("pip install openai  — required for the USAI adapter")
+# NOTE: This module now only supplies the prompt/domain logic (the base class);
+# BedrockAdapter subclasses it and provides the transport. The USAI (openai/httpx)
+# libraries are imported lazily inside USAIAdapter.__init__ so the base class can
+# be imported without them. The live system runs on Bedrock, not USAI.
 
 logger = logging.getLogger(__name__)
 
@@ -103,6 +102,8 @@ class USAIAdapter:
             raise ValueError("USAI_API must be set in environment or passed to constructor")
         self.model = model or DEFAULT_MODEL
         self.cheap_model = cheap_model or DEFAULT_CHEAP_MODEL
+        import openai
+        import httpx
         self.client = openai.OpenAI(
             api_key=self.api_key,
             base_url=USAI_BASE_URL,

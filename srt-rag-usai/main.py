@@ -115,9 +115,8 @@ def _run_daily(args, standards, db_conn):
         logger.error("SAM_API_KEY not set — cannot scrape SAM.gov")
         sys.exit(1)
 
-    usai_key = os.getenv("USAI_API")
-    if not usai_key:
-        logger.error("USAI_API not set — cannot run analysis")
+    if not (os.getenv("AWS_REGION") or os.getenv("AWS_PROFILE") or os.getenv("AWS_ACCESS_KEY_ID")):
+        logger.error("No AWS credentials/region configured — cannot run Bedrock analysis")
         sys.exit(1)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -184,11 +183,11 @@ def _run_daily(args, standards, db_conn):
 
 
 def _run_single_file(file_path, standards, embed_model, csv_output, save_json):
-    from usai_adapter import USAIAdapter
+    from bedrock_adapter import BedrockAdapter
     from pipeline import analyze_file
 
     logger.info(f"Analyzing single file: {file_path}")
-    client = USAIAdapter()
+    client = BedrockAdapter()
     result = analyze_file(file_path, client=client, standards_path=standards,
                           embed_model=embed_model)
 

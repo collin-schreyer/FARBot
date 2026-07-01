@@ -24,7 +24,7 @@ from preprocessor import (
 )
 from vector_matching import build_faiss_index, run_vector_matching
 from field_enrichment import enrich_match, compute_file_quality_metrics, compute_compliance_score
-from usai_adapter import USAIAdapter
+from bedrock_adapter import BedrockAdapter
 
 logger = logging.getLogger(__name__)
 
@@ -33,7 +33,7 @@ DEFAULT_STANDARDS = str(Path(__file__).parent / "data" / "508_standards.txt")
 
 def analyze_file(
     file_path: str,
-    client: Optional[USAIAdapter] = None,
+    client: Optional[BedrockAdapter] = None,
     standards_path: str = DEFAULT_STANDARDS,
     embed_model: str = "cohere_english_v3",
     on_stage: Optional[Callable[[Dict], None]] = None,
@@ -47,7 +47,7 @@ def analyze_file(
       - llm_calls: stage log from adapter
     """
     if client is None:
-        client = USAIAdapter()
+        client = BedrockAdapter()
 
     client.clear_stage_logs()
     stages = []

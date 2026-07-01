@@ -31,6 +31,21 @@ from typing import Any, Dict, List, Optional
 
 logger = logging.getLogger(__name__)
 
+def _load_env() -> None:
+    """Best-effort: pull FAR_BOT/web/.env.local (KB id, region, profile) into env."""
+    try:
+        from dotenv import load_dotenv
+    except Exception:
+        return
+    here = Path(__file__).resolve().parent
+    for p in (here.parent / "web" / ".env.local", here.parent / "web" / ".env",
+              here / ".env"):
+        if p.exists():
+            load_dotenv(p, override=False)
+
+
+_load_env()
+
 # Default graph location: engine lives at FAR_BOT/srt-rag-usai/, graph at FAR_BOT/web/data/
 _DEFAULT_GRAPH = Path(__file__).resolve().parent.parent / "web" / "data" / "far_graph.json"
 _CITE = re.compile(r"\b(\d{1,2}\.\d{2,4}(?:-\d+)?)\b")

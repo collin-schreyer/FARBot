@@ -305,8 +305,8 @@ def process_one(t: Dict, args, sam: SamCache, run_label: str) -> Dict:
         result = {"applicable": None, "error": "no extracted text"}
         v4_applicable = None
     else:
-        from usai_adapter import USAIAdapter
-        client = USAIAdapter()
+        from bedrock_adapter import BedrockAdapter
+        client = BedrockAdapter()
         result = run_applicability_v2(client, sol_num, t.get("title") or "", t.get("agency") or "", doc_text)
         v4_applicable = result.get("applicable")
         if v4_applicable is not None and not isinstance(v4_applicable, bool):

@@ -28,8 +28,6 @@ def build_faiss_index(standards_path: str, embed_model: str = "cohere_english_v3
     try:
         from langchain_community.vectorstores import FAISS
         from langchain.text_splitter import RecursiveCharacterTextSplitter
-        from langchain_core.embeddings import Embeddings as LCEmbeddings
-        import requests
 
         standards_text = Path(standards_path).read_text(encoding="utf-8", errors="ignore")
         splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
@@ -39,44 +37,10 @@ def build_faiss_index(standards_path: str, embed_model: str = "cohere_english_v3
         if not chunks:
             return None, [], standards_text
 
-        api_key = os.getenv("USAI_API", "")
-        base_url = os.getenv("USAI_BASE_URL", "https://api.gsa.usai.gov/api/v1")
-
-        class USAIEmbeddings(LCEmbeddings):
-            def __init__(self, api_key, model, base_url):
-                self.api_key = api_key
-                self.model = model
-                self.base_url = base_url
-
-            def embed_documents(self, texts: list) -> list:
-                embeddings = []
-                for t in texts:
-                    if not t.strip():
-                        continue
-                    for attempt in range(5):
-                        resp = requests.post(
-                            f"{self.base_url}/embeddings",
-                            headers={"Authorization": f"Bearer {self.api_key}",
-                                     "Content-Type": "application/json"},
-                            json={"model": self.model, "input": t},
-                            timeout=(10, 30),
-                        )
-                        if resp.status_code == 429:
-                            time.sleep(1.0)
-                            continue
-                        if resp.status_code != 200:
-                            logger.warning(f"[FAISS] Embedding error: {resp.text[:200]}")
-                            break
-                        embeddings.append(resp.json().get("data", [{}])[0].get("embedding", []))
-                        time.sleep(0.35)
-                        break
-                return embeddings
-
-            def embed_query(self, text: str) -> list:
-                result = self.embed_documents([text])
-                return result[0] if result else []
-
-        embeddings = USAIEmbeddings(api_key=api_key, model=embed_model, base_url=base_url)
+        # Bedrock Cohere English v3 embeddings — same model the prebuilt 508
+        # FAISS index was built with, so query vectors stay compatible.
+        from bedrock_adapter import BedrockLCEmbeddings
+        embeddings = BedrockLCEmbeddings()
 
         # Fast path: load pre-built index
         db_path = str(Path(__file__).parent / "data" / "faiss_index")
