@@ -36,6 +36,7 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+import agency_packs
 from far_retrieval import FARRetriever
 from text_extractor import extract_text_from_file
 
@@ -232,7 +233,8 @@ def run_determination(files: List[str], client) -> List[Dict[str, Any]]:
 
 # ── Orchestrator ───────────────────────────────────────────────────────────
 def review_package(files: List[str], live: bool = False,
-                   determination: bool = False) -> Dict[str, Any]:
+                   determination: bool = False,
+                   agency: Optional[str] = None) -> Dict[str, Any]:
     client = None
     if live:
         try:
@@ -249,10 +251,30 @@ def review_package(files: List[str], live: bool = False,
     areas = infer_issue_areas(combined, client=client)
     reviews = [review_area(a["id"], retriever, combined, client=client) for a in areas]
 
+    # ── Agency scoping: layer the acquiring agency's deviations on top ─────
+    agency_key = agency_packs.match_agency(agency) if agency else agency_packs.match_agency(combined)
+    devs = agency_packs.deviations_for(agency_key)
+    agency_layer = None
+    if agency_key and devs:
+        agency_layer = {
+            "agency": agency_key,
+            "source": "explicit" if agency else "detected from text",
+            "deviation_count": len(devs),
+            "deviations": devs,
+            "suggestions": agency_packs.agency_suggestions(agency_key, devs),
+        }
+        # If 508 is in play, fold the agency layer into that review too.
+        for rv in reviews:
+            if rv["id"] == "section_508":
+                rv["agency_deviations"] = {"agency": agency_key,
+                                           "suggestions": agency_layer["suggestions"]}
+
     result = {
         "files": [{"name": d["name"], "chars": d["chars"]} for d in docs],
         "far_backend": retriever.backend(),
         "inference_method": (areas[0]["method"] if areas else ("llm" if client else "keyword")),
+        "agency": agency_key,
+        "agency_layer": agency_layer,
         "issue_areas": areas,
         "reviews": reviews,
     }
@@ -272,6 +294,9 @@ def print_report(r: Dict[str, Any]) -> None:
     p(f"  Files:      {', '.join(f['name'] for f in r['files'])}")
     p(f"  FAR source: {r['far_backend']}")
     p(f"  Inference:  {r['inference_method']}")
+    if r.get("agency"):
+        src = r["agency_layer"]["source"] if r.get("agency_layer") else ""
+        p(f"  Agency:     {r['agency']}  ({src})")
     if not r["issue_areas"]:
         p("\n  No issue areas detected.")
     for area in r["reviews"]:
@@ -285,6 +310,21 @@ def print_report(r: Dict[str, Any]) -> None:
         p("    Suggested questions / checks:")
         for s in area["suggestions"]:
             p(f"      → {s}")
+        if area.get("agency_deviations"):
+            p(f"    Agency layer ({area['agency_deviations']['agency']}):")
+            for s in area["agency_deviations"]["suggestions"]:
+                p(f"      ⊕ {s}")
+    al = r.get("agency_layer")
+    if al:
+        p("\n" + "-" * 70)
+        p(f"  AGENCY DEVIATIONS — {al['agency']}  ({al['deviation_count']} supplement clauses)")
+        for d in al["deviations"][:10]:
+            flags = []
+            if d["vpat_acr_required"] == "y": flags.append("VPAT/ACR")
+            if d["remediation_required"] == "y": flags.append("remediation")
+            if d["deliverables_508_required"] == "y": flags.append("508-deliverables")
+            fl = f"  [{', '.join(flags)}]" if flags else ""
+            p(f"      • {d['section'] or d['part']}{fl}")
     if "determination" in r:
         p("\n" + "-" * 70)
         p("  508 DETERMINATION (v4.1 pipeline):")
@@ -305,6 +345,8 @@ def main(argv: Optional[List[str]] = None) -> int:
                     help="run entirely on Bedrock (FAR retrieval + inference/suggestions)")
     ap.add_argument("--determination", action="store_true",
                     help="also run the SRT v4.1 508 determination (needs --live)")
+    ap.add_argument("--agency", help="acquiring agency (name/abbr, e.g. HHS, VA, USAID); "
+                    "auto-detected from the document if omitted")
     ap.add_argument("--json", dest="json_out", help="write full result JSON to this path")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args(argv)
@@ -317,7 +359,8 @@ def main(argv: Optional[List[str]] = None) -> int:
         print(f"error: file(s) not found: {', '.join(missing)}", file=sys.stderr)
         return 2
 
-    result = review_package(args.files, live=args.live, determination=args.determination)
+    result = review_package(args.files, live=args.live, determination=args.determination,
+                            agency=args.agency)
     print_report(result)
     if args.json_out:
         Path(args.json_out).write_text(json.dumps(result, indent=2, default=str))
