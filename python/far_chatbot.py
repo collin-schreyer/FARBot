@@ -738,12 +738,19 @@ Please provide a thorough, well-organized response that fully addresses the ques
 
 
 def main():
+    import os
+    # Get the directory where this script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Default paths relative to project root
+    default_index = os.path.join(script_dir, '..', 'dita_html', 'faiss_index.index')
+    default_texts = os.path.join(script_dir, '..', 'dita_html', 'texts.txt')
+    
     parser = argparse.ArgumentParser(description='FAR Chatbot')
     parser.add_argument('--faiss-index', 
-                       default='/Users/collinschreyer/GSA/FAR_BOT/dita_html/faiss_index.index',
+                       default=default_index,
                        help='Path to FAISS index file')
     parser.add_argument('--texts', 
-                       default='/Users/collinschreyer/GSA/FAR_BOT/dita_html/texts.txt',
+                       default=default_texts,
                        help='Path to texts file')
     parser.add_argument('--query', 
                        help='Single query mode (non-interactive)')
